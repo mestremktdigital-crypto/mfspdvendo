@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-21T22:39:33.215184Z",
+  "gerado_em": "2026-08-24T22:38:36.915742Z",
   "comunicados": [
     {
       "id": "c_AFHI11_1291378",
@@ -1649,6 +1649,24 @@
       "resumoIa": null
     },
     {
+      "id": "c_BBIG11_1298486",
+      "ticker": "BBIG11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Carta Consulta) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298486&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_BBIG11_1298492",
+      "ticker": "BBIG11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Proposta do Administrador) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298492&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_BBIG11_1297000",
       "ticker": "BBIG11",
       "tipo": "Relatórios",
@@ -1700,24 +1718,6 @@
       "titulo": "Fatos Relevantes - 07/2026",
       "data": "02.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1238343&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_BBIG11_1236775",
-      "ticker": "BBIG11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 07/2026",
-      "data": "01.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1236775&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_BBIG11_1233203",
-      "ticker": "BBIG11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 06/2026",
-      "data": "29.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1233203&cvm=true",
       "resumoIa": null
     },
     {
@@ -1802,6 +1802,24 @@
       "resumoIa": null
     },
     {
+      "id": "c_BINR11_1298952",
+      "ticker": "BINR11",
+      "tipo": "Informes Periódicos",
+      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298952&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_BINR11_1298590",
+      "ticker": "BINR11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Ata da Assembleia) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298590&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_BINR11_1294439",
       "ticker": "BINR11",
       "tipo": "Informes Periódicos",
@@ -1853,24 +1871,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 06/2026",
       "data": "16.06.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1222623&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_BINR11_1221966",
-      "ticker": "BINR11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 06/2026",
-      "data": "15.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1221966&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_BINR11_1202309",
-      "ticker": "BINR11",
-      "tipo": "Assembleia",
-      "titulo": "Assembleia, AGO (Ata da Assembleia) - 05/2026",
-      "data": "25.05.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1202309&cvm=true",
       "resumoIa": null
     },
     {
@@ -2585,6 +2585,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_BRCO11_1298554",
+      "ticker": "BRCO11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298554&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_BRCO11_1295268",
       "ticker": "BRCO11",
       "tipo": "Comunicado",
@@ -2645,15 +2654,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
       "data": "15.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1249862&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_BRCO11_1223783",
-      "ticker": "BRCO11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 06/2026",
-      "data": "18.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1223783&cvm=true",
       "resumoIa": null
     },
     {
@@ -4052,6 +4052,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_BTSI11_1299202",
+      "ticker": "BTSI11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1299202&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_BTSI11_1292707",
       "ticker": "BTSI11",
       "tipo": "Informes Periódicos",
@@ -4112,15 +4121,6 @@
       "titulo": "Assembleia, AGO (Ata da Assembleia) - 05/2026",
       "data": "29.05.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1207948&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_BTSI11_1207949",
-      "ticker": "BTSI11",
-      "tipo": "Assembleia",
-      "titulo": "Assembleia, AGO (Sumário das Decisões) - 05/2026",
-      "data": "29.05.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1207949&cvm=true",
       "resumoIa": null
     },
     {
@@ -4844,6 +4844,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_CPSH11_1298481",
+      "ticker": "CPSH11",
+      "tipo": "Comunicado",
+      "titulo": "Fatos Relevantes - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298481&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_CPSH11_1293362",
       "ticker": "CPSH11",
       "tipo": "Informes Periódicos",
@@ -4907,21 +4916,21 @@
       "resumoIa": null
     },
     {
-      "id": "c_CPSH11_1240695",
-      "ticker": "CPSH11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 07/2026",
-      "data": "06.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1240695&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_CPSH11_rend_latest",
       "ticker": "CPSH11",
       "tipo": "Aviso aos Cotistas",
       "titulo": "Rendimento: R$ 0,11 (Pag: 21/08/2026)",
       "data": "14/08/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/cpsh11#comunicados",
+      "resumoIa": null
+    },
+    {
+      "id": "c_CACR11_1298389",
+      "ticker": "CACR11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298389&cvm=true",
       "resumoIa": null
     },
     {
@@ -4988,20 +4997,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_CACR11_1244355",
-      "ticker": "CACR11",
-      "tipo": "Comunicado",
-      "titulo": "Fatos Relevantes - 07/2026",
-      "data": "10.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1244355&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_CACR11_rend_latest",
       "ticker": "CACR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,16 (Pag: 21/08/2026)",
-      "data": "18/08/2026",
+      "titulo": "Rendimento: R$ 1,16 (Pag: 28/08/2026)",
+      "data": "21/08/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/cacr11#comunicados",
       "resumoIa": null
     },
@@ -5159,6 +5159,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_CNES11_1298394",
+      "ticker": "CNES11",
+      "tipo": "Comunicado",
+      "titulo": "Aviso aos Cotistas - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298394&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_CNES11_1289667",
       "ticker": "CNES11",
       "tipo": "Informes Periódicos",
@@ -5219,15 +5228,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 06/2026",
       "data": "15.06.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1220988&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_CNES11_1214860",
-      "ticker": "CNES11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 06/2026",
-      "data": "09.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1214860&cvm=true",
       "resumoIa": null
     },
     {
@@ -7301,6 +7301,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_KEVE11_1298529",
+      "ticker": "KEVE11",
+      "tipo": "Comunicado",
+      "titulo": "Fatos Relevantes - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298529&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_KEVE11_1298261",
       "ticker": "KEVE11",
       "tipo": "Informes Periódicos",
@@ -7361,15 +7370,6 @@
       "titulo": "Informes Periódicos, Informe Trimestral - 07/2026",
       "data": "28.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1266556&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_KEVE11_1263839",
-      "ticker": "KEVE11",
-      "tipo": "Comunicado",
-      "titulo": "Fatos Relevantes - 07/2026",
-      "data": "24.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1263839&cvm=true",
       "resumoIa": null
     },
     {
@@ -9038,6 +9038,24 @@
       "resumoIa": null
     },
     {
+      "id": "c_EDGA11_1299173",
+      "ticker": "EDGA11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1299173&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_EDGA11_1298846",
+      "ticker": "EDGA11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298846&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_EDGA11_1293083",
       "ticker": "EDGA11",
       "tipo": "Informes Periódicos",
@@ -9089,24 +9107,6 @@
       "titulo": "Relatórios, Relatório Gerencial - 07/2026",
       "data": "21.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1261605&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_EDGA11_1248772",
-      "ticker": "EDGA11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
-      "data": "15.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1248772&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_EDGA11_1224268",
-      "ticker": "EDGA11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Outros Relatórios - 06/2026",
-      "data": "18.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1224268&cvm=true",
       "resumoIa": null
     },
     {
@@ -9362,6 +9362,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_MAXR11_1298503",
+      "ticker": "MAXR11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298503&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_MAXR11_1293235",
       "ticker": "MAXR11",
       "tipo": "Informes Periódicos",
@@ -9422,15 +9431,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 06/2026",
       "data": "15.06.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1221859&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_MAXR11_1218052",
-      "ticker": "MAXR11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 06/2026",
-      "data": "11.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1218052&cvm=true",
       "resumoIa": null
     },
     {
@@ -9515,6 +9515,33 @@
       "resumoIa": null
     },
     {
+      "id": "c_RBRR11_1298666",
+      "ticker": "RBRR11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Carta Consulta) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298666&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_RBRR11_1298667",
+      "ticker": "RBRR11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Proposta do Administrador) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298667&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_RBRR11_1298668",
+      "ticker": "RBRR11",
+      "tipo": "Comunicado",
+      "titulo": "Fatos Relevantes - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298668&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_RBRR11_1297960",
       "ticker": "RBRR11",
       "tipo": "Relatórios",
@@ -9557,33 +9584,6 @@
       "titulo": "Relatórios, Relatório Gerencial - 07/2026",
       "data": "21.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1261615&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRR11_1245658",
-      "ticker": "RBRR11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
-      "data": "13.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1245658&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRR11_1242979",
-      "ticker": "RBRR11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 07/2026",
-      "data": "09.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1242979&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRR11_1242559",
-      "ticker": "RBRR11",
-      "tipo": "Comunicado",
-      "titulo": "Regulamento - 07/2026",
-      "data": "08.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1242559&cvm=true",
       "resumoIa": null
     },
     {
@@ -10505,6 +10505,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_IDUA11_1299207",
+      "ticker": "IDUA11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1299207&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_IDUA11_1295147",
       "ticker": "IDUA11",
       "tipo": "Informes Periódicos",
@@ -10547,15 +10556,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
       "data": "15.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1250681&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_IDUA11_1226329",
-      "ticker": "IDUA11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 06/2026",
-      "data": "23.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1226329&cvm=true",
       "resumoIa": null
     },
     {
@@ -13835,6 +13835,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_GZIT11_1299093",
+      "ticker": "GZIT11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1299093&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_GZIT11_1293302",
       "ticker": "GZIT11",
       "tipo": "Informes Periódicos",
@@ -14366,6 +14375,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_HABT11_1298450",
+      "ticker": "HABT11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298450&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_HABT11_1293030",
       "ticker": "HABT11",
       "tipo": "Informes Periódicos",
@@ -14417,15 +14435,6 @@
       "titulo": "Relatórios, Relatório Gerencial - 06/2026",
       "data": "01.06.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1210089&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_HABT11_1207867",
-      "ticker": "HABT11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 05/2026",
-      "data": "29.05.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1207867&cvm=true",
       "resumoIa": null
     },
     {
@@ -16166,6 +16175,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_HSLG11_1298568",
+      "ticker": "HSLG11",
+      "tipo": "Comunicado",
+      "titulo": "Regulamento - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298568&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_HSLG11_1296258",
       "ticker": "HSLG11",
       "tipo": "Comunicado",
@@ -16226,15 +16244,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 06/2026",
       "data": "15.06.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1221100&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_HSLG11_1214300",
-      "ticker": "HSLG11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 06/2026",
-      "data": "08.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1214300&cvm=true",
       "resumoIa": null
     },
     {
@@ -16319,6 +16328,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_HUSI11_1298496",
+      "ticker": "HUSI11",
+      "tipo": "Comunicado",
+      "titulo": "Fatos Relevantes - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298496&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_HUSI11_1292778",
       "ticker": "HUSI11",
       "tipo": "Informes Periódicos",
@@ -16379,15 +16397,6 @@
       "titulo": "Assembleia, AGE (Outros Documentos) - 07/2026",
       "data": "27.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1264784&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_HUSI11_1262416",
-      "ticker": "HUSI11",
-      "tipo": "Assembleia",
-      "titulo": "Assembleia, AGE (Edital de Convocação) - 07/2026",
-      "data": "23.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1262416&cvm=true",
       "resumoIa": null
     },
     {
@@ -18029,6 +18038,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_JSAF11_1298537",
+      "ticker": "JSAF11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298537&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_JSAF11_1293591",
       "ticker": "JSAF11",
       "tipo": "Informes Periódicos",
@@ -18080,15 +18098,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 06/2026",
       "data": "15.06.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1221805&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_JSAF11_1208198",
-      "ticker": "JSAF11",
-      "tipo": "Assembleia",
-      "titulo": "Assembleia, AGO (Ata da Assembleia) - 05/2026",
-      "data": "29.05.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1208198&cvm=true",
       "resumoIa": null
     },
     {
@@ -20225,6 +20234,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_MANA11_1298560",
+      "ticker": "MANA11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298560&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_MANA11_1290826",
       "ticker": "MANA11",
       "tipo": "Informes Periódicos",
@@ -20276,15 +20294,6 @@
       "titulo": "Assembleia, AGO (Ata da Assembleia) - 06/2026",
       "data": "11.06.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1217255&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_MANA11_1207781",
-      "ticker": "MANA11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 05/2026",
-      "data": "29.05.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1207781&cvm=true",
       "resumoIa": null
     },
     {
@@ -20900,6 +20909,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_NAVT11_1298491",
+      "ticker": "NAVT11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298491&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_NAVT11_1288618",
       "ticker": "NAVT11",
       "tipo": "Informes Periódicos",
@@ -20960,15 +20978,6 @@
       "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 07/2026",
       "data": "13.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1245797&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_NAVT11_1221009",
-      "ticker": "NAVT11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 06/2026",
-      "data": "15.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1221009&cvm=true",
       "resumoIa": null
     },
     {
@@ -21971,6 +21980,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_PNRC11_1299042",
+      "ticker": "PNRC11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1299042&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_PNRC11_1294052",
       "ticker": "PNRC11",
       "tipo": "Informes Periódicos",
@@ -22022,15 +22040,6 @@
       "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 05/2026",
       "data": "29.05.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1207103&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_PNRC11_1188655",
-      "ticker": "PNRC11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 05/2026",
-      "data": "13.05.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1188655&cvm=true",
       "resumoIa": null
     },
     {
@@ -22412,6 +22421,33 @@
       "resumoIa": null
     },
     {
+      "id": "c_PCIP11_1298586",
+      "ticker": "PCIP11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Edital de Convocação) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298586&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_PCIP11_1298587",
+      "ticker": "PCIP11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Proposta do Administrador) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298587&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_PCIP11_1298588",
+      "ticker": "PCIP11",
+      "tipo": "Comunicado",
+      "titulo": "Fatos Relevantes - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298588&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_PCIP11_1297841",
       "ticker": "PCIP11",
       "tipo": "Relatórios",
@@ -22454,33 +22490,6 @@
       "titulo": "Relatórios, Relatório Gerencial - 07/2026",
       "data": "21.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1261593&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_PCIP11_1247729",
-      "ticker": "PCIP11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
-      "data": "14.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1247729&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_PCIP11_1242106",
-      "ticker": "PCIP11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 07/2026",
-      "data": "08.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1242106&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_PCIP11_1224980",
-      "ticker": "PCIP11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 06/2026",
-      "data": "19.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1224980&cvm=true",
       "resumoIa": null
     },
     {
@@ -24653,6 +24662,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_RBDS11_1298708",
+      "ticker": "RBDS11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298708&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_RBDS11_1293165",
       "ticker": "RBDS11",
       "tipo": "Informes Periódicos",
@@ -24713,15 +24731,6 @@
       "titulo": "Relatórios, Relatório Gerencial - 05/2026",
       "data": "27.05.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1204342&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBDS11_1196464",
-      "ticker": "RBDS11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 05/2026",
-      "data": "15.05.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1196464&cvm=true",
       "resumoIa": null
     },
     {
@@ -25481,6 +25490,33 @@
       "resumoIa": null
     },
     {
+      "id": "c_RPRI11_1298551",
+      "ticker": "RPRI11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Edital de Convocação) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298551&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_RPRI11_1298570",
+      "ticker": "RPRI11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Proposta do Administrador) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298570&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_RPRI11_1298559",
+      "ticker": "RPRI11",
+      "tipo": "Comunicado",
+      "titulo": "Fatos Relevantes - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298559&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_RPRI11_1291555",
       "ticker": "RPRI11",
       "tipo": "Informes Periódicos",
@@ -25523,33 +25559,6 @@
       "titulo": "Relatórios, Relatório Gerencial - 07/2026",
       "data": "14.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1246531&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RPRI11_1219791",
-      "ticker": "RPRI11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 06/2026",
-      "data": "15.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1219791&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RPRI11_1218329",
-      "ticker": "RPRI11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 06/2026",
-      "data": "11.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1218329&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RPRI11_1215102",
-      "ticker": "RPRI11",
-      "tipo": "Comunicado",
-      "titulo": "Regulamento - 06/2026",
-      "data": "09.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1215102&cvm=true",
       "resumoIa": null
     },
     {
@@ -26804,6 +26813,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_RZLC11_1298725",
+      "ticker": "RZLC11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298725&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_RZLC11_1297848",
       "ticker": "RZLC11",
       "tipo": "Assembleia",
@@ -26864,15 +26882,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
       "data": "13.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1245521&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RZLC11_1244443",
-      "ticker": "RZLC11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 07/2026",
-      "data": "10.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1244443&cvm=true",
       "resumoIa": null
     },
     {
@@ -29162,6 +29171,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_TRBL11_1299200",
+      "ticker": "TRBL11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1299200&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_TRBL11_1293248",
       "ticker": "TRBL11",
       "tipo": "Outras Informações",
@@ -29222,15 +29240,6 @@
       "titulo": "Outras Informações, Rentabilidade - 07/2026",
       "data": "15.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1250576&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_TRBL11_1224992",
-      "ticker": "TRBL11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 06/2026",
-      "data": "19.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1224992&cvm=true",
       "resumoIa": null
     },
     {
@@ -29837,6 +29846,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_TRXF11_1298710",
+      "ticker": "TRXF11",
+      "tipo": "Outras Informações",
+      "titulo": "Outras Informações, Outros Documentos - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298710&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_TRXF11_1294438",
       "ticker": "TRXF11",
       "tipo": "Informes Periódicos",
@@ -29900,21 +29918,21 @@
       "resumoIa": null
     },
     {
-      "id": "c_TRXF11_1277815",
-      "ticker": "TRXF11",
+      "id": "c_TRXB11_1298556",
+      "ticker": "TRXB11",
       "tipo": "Comunicado",
       "titulo": "Fatos Relevantes - 08/2026",
-      "data": "05.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1277815&cvm=true",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298556&cvm=true",
       "resumoIa": null
     },
     {
-      "id": "c_TRXF11_rend_latest",
-      "ticker": "TRXF11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,93 (Pag: 14/08/2026)",
-      "data": "31/07/2026",
-      "urlOriginal": "https://www.fundsexplorer.com.br/funds/trxf11#comunicados",
+      "id": "c_TRXB11_1298592",
+      "ticker": "TRXB11",
+      "tipo": "Comunicado",
+      "titulo": "Oferta Pública de Distribuição de Cotas - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298592&cvm=true",
       "resumoIa": null
     },
     {
@@ -29969,15 +29987,6 @@
       "titulo": "Fatos Relevantes - 06/2026",
       "data": "01.06.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1209075&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_TRXB11_1207233",
-      "ticker": "TRXB11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 05/2026",
-      "data": "29.05.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1207233&cvm=true",
       "resumoIa": null
     },
     {
@@ -31034,6 +31043,42 @@
       "resumoIa": null
     },
     {
+      "id": "c_VCJR11_1298861",
+      "ticker": "VCJR11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298861&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_VCJR11_1298564",
+      "ticker": "VCJR11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Edital de Convocação) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298564&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_VCJR11_1298572",
+      "ticker": "VCJR11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGE (Proposta do Administrador) - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298572&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_VCJR11_1298567",
+      "ticker": "VCJR11",
+      "tipo": "Comunicado",
+      "titulo": "Fatos Relevantes - 08/2026",
+      "data": "21.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298567&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_VCJR11_1291557",
       "ticker": "VCJR11",
       "tipo": "Informes Periódicos",
@@ -31067,33 +31112,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
       "data": "15.07.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1249039&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_VCJR11_1246530",
-      "ticker": "VCJR11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 07/2026",
-      "data": "14.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1246530&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_VCJR11_1219790",
-      "ticker": "VCJR11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 06/2026",
-      "data": "15.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1219790&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_VCJR11_1218328",
-      "ticker": "VCJR11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 06/2026",
-      "data": "11.06.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1218328&cvm=true",
       "resumoIa": null
     },
     {
@@ -32867,6 +32885,15 @@
       "titulo": "Rendimento: R$ 0,13 (Pag: 13/08/2026)",
       "data": "31/07/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/zavc11#comunicados",
+      "resumoIa": null
+    },
+    {
+      "id": "c_ZAVI11_1298780",
+      "ticker": "ZAVI11",
+      "tipo": "Informes Periódicos",
+      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
+      "data": "24.08.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298780&cvm=true",
       "resumoIa": null
     },
     {
