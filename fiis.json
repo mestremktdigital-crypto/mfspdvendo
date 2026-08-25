@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-08-25T03:14:42.685442Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-08-25T09:10:17.564642Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1046,
+  "fiis_com_dados_completos": 1050,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -33389,7 +33389,7 @@
       "patrimonio_liquido": 301350000.0,
       "vacancia_fisica": 11.25,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.07,
@@ -39090,12 +39090,12 @@
       "p_vp": 4.17,
       "p_l": 14.63,
       "valor_patrimonial_cota": 3.71,
-      "dy_12m": 5.0,
-      "dy_mensal": 0.4167,
+      "dy_12m": 4.88,
+      "dy_mensal": 0.4067,
       "patrimonio_liquido": 18700000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.221177,
@@ -39396,7 +39396,7 @@
       "nome": "EXCELSIOR ALIMENTOS",
       "segmento": "Consumo não Cíclico",
       "setor_atuacao": "Carnes e Derivados",
-      "preco": 0.0,
+      "preco": 2.31,
       "p_vp": 0.08,
       "p_l": 0.53,
       "valor_patrimonial_cota": 29.38,
@@ -39404,8 +39404,8 @@
       "dy_mensal": 3.5608,
       "patrimonio_liquido": 153410000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.9871,
@@ -44200,7 +44200,7 @@
       "patrimonio_liquido": 117220000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.392802,
@@ -45385,7 +45385,7 @@
       "nome": "CASAN",
       "segmento": "Utilidade Pública",
       "setor_atuacao": "Água e Saneamento",
-      "preco": 0.0,
+      "preco": 5.48,
       "p_vp": 2.24,
       "p_l": 15.64,
       "valor_patrimonial_cota": 2.45,
@@ -45393,8 +45393,8 @@
       "dy_mensal": 0.125,
       "patrimonio_liquido": 2920000000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.003247,
@@ -51561,6 +51561,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.039457,
+          "data_com": "2026-08-27",
+          "data_pagamento": "2026-09-08"
+        },
+        {
           "valor_por_cota": 0.043931,
           "data_com": "2026-04-29",
           "data_pagamento": "2026-12-30"
@@ -51592,9 +51597,9 @@
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.043931,
-        "data_com": "2026-04-29",
-        "data_pagamento": "2026-12-30"
+        "valor_por_cota": 0.039457,
+        "data_com": "2026-08-27",
+        "data_pagamento": "2026-09-08"
       },
       "_chk_i7": "2026-08-25"
     },
@@ -53170,7 +53175,7 @@
       "patrimonio_liquido": 671550000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.763078,
@@ -67419,7 +67424,7 @@
       "nome": "POLPAR S.A.",
       "segmento": "Financeiro",
       "setor_atuacao": "Outros",
-      "preco": 0.0,
+      "preco": 244.77,
       "p_vp": 0.51,
       "p_l": 11.79,
       "valor_patrimonial_cota": 483.29,
@@ -67427,8 +67432,8 @@
       "dy_mensal": 0.5342,
       "patrimonio_liquido": 49150000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 3.99883,
@@ -69467,12 +69472,12 @@
       "p_vp": 1.35,
       "p_l": 10.69,
       "valor_patrimonial_cota": 24.11,
-      "dy_12m": 3.22,
-      "dy_mensal": 0.2683,
+      "dy_12m": 3.25,
+      "dy_mensal": 0.2708,
       "patrimonio_liquido": 27100000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.535127,
@@ -70057,7 +70062,7 @@
       "nome": "METALURGICA RIOSULENSE",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Material Rodoviário",
-      "preco": 0.0,
+      "preco": 0.04,
       "p_vp": 0.0,
       "p_l": 0.0,
       "valor_patrimonial_cota": 49.55,
@@ -70065,8 +70070,8 @@
       "dy_mensal": 1.5833,
       "patrimonio_liquido": 300900000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 2.122077,
@@ -71282,7 +71287,7 @@
       "nome": "SCHULZ",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Motores, Compressores e Outros",
-      "preco": 27.94,
+      "preco": 26.59,
       "p_vp": 6.07,
       "p_l": 36.6,
       "valor_patrimonial_cota": 4.38,
@@ -71291,7 +71296,7 @@
       "patrimonio_liquido": 1570000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.070303,
@@ -72785,7 +72790,7 @@
       "patrimonio_liquido": 866770000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1232,
@@ -75111,7 +75116,7 @@
       "nome": "Economatica",
       "segmento": "Telecomunicações",
       "setor_atuacao": "Telecomunicações",
-      "preco": 1.14,
+      "preco": 1.12,
       "p_vp": 0.45,
       "p_l": 0.52,
       "valor_patrimonial_cota": 2.55,
@@ -75120,7 +75125,7 @@
       "patrimonio_liquido": 97940000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.001421,
