@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-08-29T01:02:59.168278Z",
+  "gerado_em": "2026-08-29T07:08:37.899342Z",
   "fonte": "f4+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1053,
@@ -7128,12 +7128,12 @@
       "nome": "CYRELA CRÉDITO",
       "segmento": "",
       "setor_atuacao": "",
-      "preco": 8.52,
+      "preco": 8.48,
       "p_vp": 0.9,
       "p_l": 0.0,
       "valor_patrimonial_cota": 9.47,
-      "dy_12m": 14.93,
-      "dy_mensal": 1.2442,
+      "dy_12m": 15.0,
+      "dy_mensal": 1.25,
       "patrimonio_liquido": 346090000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
@@ -21561,6 +21561,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.23,
+          "data_com": "2026-08-31",
+          "data_pagamento": "2026-09-10"
+        },
+        {
           "valor_por_cota": 0.22,
           "data_com": "2026-07-31",
           "data_pagamento": "2026-08-11"
@@ -21597,9 +21602,9 @@
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.22,
-        "data_com": "2026-07-31",
-        "data_pagamento": "2026-08-11"
+        "valor_por_cota": 0.23,
+        "data_com": "2026-08-31",
+        "data_pagamento": "2026-09-10"
       },
       "_chk_i7": "2026-08-29"
     },
@@ -30884,6 +30889,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.076667,
+          "data_com": "2026-08-28",
+          "data_pagamento": "2026-09-04"
+        },
+        {
+          "valor_por_cota": 0.076667,
           "data_com": "2026-07-30",
           "data_pagamento": "2026-08-06"
         },
@@ -30900,8 +30910,8 @@
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.076667,
-        "data_com": "2026-07-30",
-        "data_pagamento": "2026-08-06"
+        "data_com": "2026-08-28",
+        "data_pagamento": "2026-09-04"
       },
       "_chk_i7": "2026-08-29"
     },
@@ -33404,8 +33414,8 @@
       "nome": "V2 PRIME PROPERTIES",
       "segmento": "",
       "setor_atuacao": "",
-      "preco": 19.25,
-      "p_vp": 0.48,
+      "preco": 20.0,
+      "p_vp": 0.49,
       "p_l": 0.0,
       "valor_patrimonial_cota": 41.19,
       "dy_12m": 0.0,
@@ -39110,12 +39120,12 @@
       "nome": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
       "segmento": "Financeiro",
       "setor_atuacao": "Serviços Financeiros Diversos",
-      "preco": 16.06,
+      "preco": 16.04,
       "p_vp": 4.33,
-      "p_l": 15.21,
+      "p_l": 15.19,
       "valor_patrimonial_cota": 3.71,
-      "dy_12m": 4.8,
-      "dy_mensal": 0.4,
+      "dy_12m": 4.7,
+      "dy_mensal": 0.3917,
       "patrimonio_liquido": 18700000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
@@ -69496,8 +69506,8 @@
       "p_vp": 1.41,
       "p_l": 11.15,
       "valor_patrimonial_cota": 24.11,
-      "dy_12m": 3.1,
-      "dy_mensal": 0.2583,
+      "dy_12m": 3.11,
+      "dy_mensal": 0.2592,
       "patrimonio_liquido": 27100000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
