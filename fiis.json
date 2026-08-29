@@ -1,11 +1,11 @@
 {
-  "gerado_em": "2026-08-29T00:10:23.737811Z",
+  "gerado_em": "2026-08-29T00:32:01.606101Z",
   "fonte": "f4+b2+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1051,
   "fiis": {
     "ADSH11": {
-      "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "nome": "Ad Shopping Fundo de Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "Multicategoria",
       "setor_atuacao": "Multicategoria",
       "preco": 11.38,
@@ -17,7 +17,7 @@
       "patrimonio_liquido": 468470000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.02,
@@ -53,7 +53,7 @@
       "_chk_i7": "2026-08-29"
     },
     "AFHI11": {
-      "nome": "AF INVEST CRI",
+      "nome": "AF Invest CRI Fundo de Investimento Imobiliario Recebiveis Imobiliarios",
       "segmento": "Multicategoria",
       "setor_atuacao": "Multicategoria",
       "preco": 93.5,
@@ -65,7 +65,7 @@
       "patrimonio_liquido": 503540000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 1.0,
@@ -151,7 +151,7 @@
       "_chk_i7": "2026-08-29"
     },
     "AFHF11": {
-      "nome": "AF INVEST REAL ESTATE MULTIESTRATÉGIA FII",
+      "nome": "AF Invest Real Estate Multiestrategia Fundo de Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "Outros",
       "setor_atuacao": "Outros",
       "preco": 10.04,
@@ -163,7 +163,7 @@
       "patrimonio_liquido": 51030000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.12,
@@ -255,7 +255,7 @@
       "_chk_i7": "2026-08-27"
     },
     "AJFI11": {
-      "nome": "AJ MALLS",
+      "nome": "AJ Malls Fundo de Investimento Imobiliario",
       "segmento": "Shoppings",
       "setor_atuacao": "Shoppings",
       "preco": 8.35,
@@ -267,7 +267,7 @@
       "patrimonio_liquido": 351550000.0,
       "vacancia_fisica": 8.2,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.058,
@@ -2694,7 +2694,7 @@
       "_chk_i7": "2026-08-29"
     },
     "BVAR11": {
-      "nome": "BRASIL VAREJO",
+      "nome": "Fundo de Investimento Imobiliário Brasil Varejo - FII",
       "segmento": "Varejo",
       "setor_atuacao": "Varejo",
       "preco": 1144.33,
@@ -2706,7 +2706,7 @@
       "patrimonio_liquido": 429660000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 10.9,
@@ -4227,7 +4227,7 @@
       "_chk_i7": "2026-08-27"
     },
     "BTLG11": {
-      "nome": "BTG PACTUAL LOGÍSTICA",
+      "nome": "BTG Pactual Logistica Fundo de Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "Multicategoria",
       "setor_atuacao": "Multicategoria",
       "preco": 98.91,
@@ -4239,7 +4239,7 @@
       "patrimonio_liquido": 7580000000.0,
       "vacancia_fisica": 2.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.81,
@@ -5299,7 +5299,7 @@
       "_chk_i7": "2026-08-27"
     },
     "CPUR11": {
-      "nome": "Classe Única do Capitânia HBC Renda Urbana",
+      "nome": "Capitania HBC Renda Urbana Fundo de Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "Multicategoria",
       "setor_atuacao": "Multicategoria",
       "preco": 10.76,
@@ -5311,7 +5311,7 @@
       "patrimonio_liquido": 672490000.0,
       "vacancia_fisica": 0.02,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
@@ -5397,7 +5397,7 @@
       "_chk_i7": "2026-08-29"
     },
     "CPLG11": {
-      "nome": "CAPITÂNIA LOGÍSTICA FII",
+      "nome": "Capitania Logistica Fundo de Investimento Imobiliario",
       "segmento": "Logística",
       "setor_atuacao": "Logística",
       "preco": 10.99,
@@ -5409,7 +5409,7 @@
       "patrimonio_liquido": 603660000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.13,
@@ -5593,7 +5593,7 @@
       "_chk_i7": "2026-08-21"
     },
     "CPTS11": {
-      "nome": "CAPITANIA SECURITIES II",
+      "nome": "Capitania Securities II Fundo de Investimento Imobiliario Cotas",
       "segmento": "Outros",
       "setor_atuacao": "Outros",
       "preco": 7.46,
@@ -5605,7 +5605,7 @@
       "patrimonio_liquido": 3130000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.09,
@@ -5691,7 +5691,7 @@
       "_chk_i7": "2026-08-29"
     },
     "CPSH11": {
-      "nome": "SHOPPINGS AAA FDO DE INV IMOB",
+      "nome": "Shoppings AAA Fundo de Investimento Imobiliario",
       "segmento": "Shoppings",
       "setor_atuacao": "Shoppings",
       "preco": 9.6,
@@ -5703,7 +5703,7 @@
       "patrimonio_liquido": 1450000000.0,
       "vacancia_fisica": 3.1,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.11,
@@ -7354,7 +7354,7 @@
       "_chk_i7": "2026-08-27"
     },
     "DAYM11": {
-      "nome": "Daycoval Real Estate",
+      "nome": "Asa Metropolis Fundo de Investimento Imobiliario",
       "segmento": "Outros",
       "setor_atuacao": "Outros",
       "preco": 3.97,
@@ -7366,7 +7366,7 @@
       "patrimonio_liquido": 169270000.0,
       "vacancia_fisica": 8.5,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.037,
@@ -11929,7 +11929,7 @@
       "_chk_i7": "2026-08-29"
     },
     "HBCR11": {
-      "nome": "HBC RENDA URBANA",
+      "nome": "Fundo de Investimento Imobiliario HBC Renda Urbana",
       "segmento": "Multicategoria",
       "setor_atuacao": "Multicategoria",
       "preco": 152.0,
@@ -11941,7 +11941,7 @@
       "patrimonio_liquido": 208980000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.56,
@@ -12631,7 +12631,7 @@
       "_chk_i7": "2026-08-27"
     },
     "WTSP11": {
-      "nome": "OURINVEST RE I",
+      "nome": "Fundo de Investimento Imobiliario - Ourinvest RE I",
       "segmento": "Multicategoria",
       "setor_atuacao": "Multicategoria",
       "preco": 69.0,
@@ -12643,7 +12643,7 @@
       "patrimonio_liquido": 119090000.0,
       "vacancia_fisica": 20.12,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -14551,7 +14551,7 @@
       "_chk_i7": "2026-08-27"
     },
     "GLCR11": {
-      "nome": "GALAPAGOS HEDGE",
+      "nome": "Galapagos Credito Estruturado Prazo Determinado Fundo De Investimento Imobiliario Respon Ltd.",
       "segmento": "Multicategoria",
       "setor_atuacao": "Multicategoria",
       "preco": 98.67,
@@ -14563,7 +14563,7 @@
       "patrimonio_liquido": 48830000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.9,
@@ -19140,7 +19140,7 @@
       "_chk_i7": "2026-08-27"
     },
     "JASC11": {
-      "nome": "JASC RENDA VAREJO",
+      "nome": "Jasc Renda Varejo Essencial Fundo de Investimento Imobiliario FII",
       "segmento": "Varejo",
       "setor_atuacao": "Varejo",
       "preco": 100.0,
@@ -19152,7 +19152,7 @@
       "patrimonio_liquido": 441150000.0,
       "vacancia_fisica": 0.7,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.73,
@@ -20058,7 +20058,7 @@
       "_chk_i7": "2026-08-27"
     },
     "KISU11": {
-      "nome": "KLIMA FIC FUNDO IMOBILIÁRIO SUNO 30",
+      "nome": "Klima Fundo de Investimento em Cotas de Fundos Imobiliarios Suno 30",
       "segmento": "Outros",
       "setor_atuacao": "Outros",
       "preco": 6.05,
@@ -20070,7 +20070,7 @@
       "patrimonio_liquido": 454570000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.07,
