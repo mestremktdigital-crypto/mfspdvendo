@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-05T04:15:45.633747Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-05T11:13:18.329241Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1051,
   "fiis": {
@@ -7157,7 +7157,7 @@
       "patrimonio_liquido": 346090000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.106,
@@ -22111,7 +22111,7 @@
       "patrimonio_liquido": 125450000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.12,
@@ -33342,7 +33342,7 @@
       "patrimonio_liquido": 146190000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 11.16,
@@ -63826,7 +63826,7 @@
       "nome": "METISA",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.54,
       "p_vp": 1.36,
       "p_l": 18.72,
       "valor_patrimonial_cota": 53.15,
@@ -63835,7 +63835,7 @@
       "patrimonio_liquido": 467180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 2.6,
