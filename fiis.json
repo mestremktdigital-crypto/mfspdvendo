@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-08T04:24:18.036234Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-08T12:04:47.504165Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1051,
+  "fiis_com_dados_completos": 1052,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -22111,7 +22111,7 @@
       "patrimonio_liquido": 125450000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.12,
@@ -30765,7 +30765,7 @@
       "patrimonio_liquido": 104130000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 4.02,
@@ -30784,7 +30784,7 @@
       "nome": "FII DVLT",
       "segmento": "",
       "setor_atuacao": "",
-      "preco": 103.41,
+      "preco": 102.89,
       "p_vp": 0.99,
       "p_l": 0.0,
       "valor_patrimonial_cota": 104.05,
@@ -30793,7 +30793,7 @@
       "patrimonio_liquido": 42430000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.52,
@@ -33342,7 +33342,7 @@
       "patrimonio_liquido": 146190000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 11.16,
@@ -64462,7 +64462,7 @@
       "nome": "SUZANO HOLDING S.A.",
       "segmento": "Materiais Básicos",
       "setor_atuacao": "Papel e Celulose",
-      "preco": 0.0,
+      "preco": 1.42,
       "p_vp": 0.07,
       "p_l": 2.74,
       "valor_patrimonial_cota": 20.34,
@@ -64470,8 +64470,8 @@
       "dy_mensal": 42.8608,
       "patrimonio_liquido": 11460000000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 7.303503,
