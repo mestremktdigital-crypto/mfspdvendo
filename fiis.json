@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-12T00:10:19.411872Z",
+  "gerado_em": "2026-09-12T04:24:42.740852Z",
   "fonte": "f4+b2+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1051,
@@ -10271,6 +10271,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 2.56,
+          "data_com": "2026-09-11",
+          "data_pagamento": "2026-09-18"
+        },
+        {
           "valor_por_cota": 2.55,
           "data_com": "2026-08-13",
           "data_pagamento": "2026-08-20"
@@ -10339,17 +10344,12 @@
           "valor_por_cota": 2.85675,
           "data_com": "2025-07-11",
           "data_pagamento": "2025-07-18"
-        },
-        {
-          "valor_por_cota": 2.73,
-          "data_com": "2025-06-12",
-          "data_pagamento": "2025-06-20"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 2.55,
-        "data_com": "2026-08-13",
-        "data_pagamento": "2026-08-20"
+        "valor_por_cota": 2.56,
+        "data_com": "2026-09-11",
+        "data_pagamento": "2026-09-18"
       },
       "_chk_i7": "2026-09-12"
     },
@@ -12584,6 +12584,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 1.0,
+          "data_com": "2026-09-11",
+          "data_pagamento": "2026-09-18"
+        },
+        {
+          "valor_por_cota": 1.0,
           "data_com": "2026-08-12",
           "data_pagamento": "2026-08-19"
         },
@@ -12651,17 +12656,12 @@
           "valor_por_cota": 0.9,
           "data_com": "2025-07-10",
           "data_pagamento": "2025-07-17"
-        },
-        {
-          "valor_por_cota": 0.9,
-          "data_com": "2025-06-11",
-          "data_pagamento": "2025-06-18"
         }
       ],
       "ultimo_provento": {
         "valor_por_cota": 1.0,
-        "data_com": "2026-08-12",
-        "data_pagamento": "2026-08-19"
+        "data_com": "2026-09-11",
+        "data_pagamento": "2026-09-18"
       },
       "_chk_i7": "2026-09-12"
     },
@@ -16479,7 +16479,7 @@
       "patrimonio_liquido": 122969000.0,
       "vacancia_fisica": 51.84,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.21,
@@ -21801,7 +21801,7 @@
       "patrimonio_liquido": 64490700.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
@@ -27026,6 +27026,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 1.237,
+          "data_com": "2026-09-11",
+          "data_pagamento": "2026-09-18"
+        },
+        {
           "valor_por_cota": 1.236,
           "data_com": "2026-08-13",
           "data_pagamento": "2026-08-20"
@@ -27094,17 +27099,12 @@
           "valor_por_cota": 1.195,
           "data_com": "2025-07-11",
           "data_pagamento": "2025-07-18"
-        },
-        {
-          "valor_por_cota": 1.185,
-          "data_com": "2025-06-12",
-          "data_pagamento": "2025-06-20"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 1.236,
-        "data_com": "2026-08-13",
-        "data_pagamento": "2026-08-20"
+        "valor_por_cota": 1.237,
+        "data_com": "2026-09-11",
+        "data_pagamento": "2026-09-18"
       },
       "_chk_i7": "2026-09-12"
     },
@@ -30958,7 +30958,7 @@
       "_chk_i7": "2026-09-08"
     },
     "SPG211": {
-      "nome": "SPGM II",
+      "nome": "SPGM II Fundo de Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 11.99,
@@ -30970,7 +30970,7 @@
       "patrimonio_liquido": 89780000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.076667,
@@ -31831,6 +31831,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
+          "data_com": "2026-09-11",
+          "data_pagamento": "2026-09-18"
+        },
+        {
+          "valor_por_cota": 0.1,
           "data_com": "2026-08-12",
           "data_pagamento": "2026-08-19"
         },
@@ -31898,17 +31903,12 @@
           "valor_por_cota": 0.1,
           "data_com": "2025-07-10",
           "data_pagamento": "2025-07-17"
-        },
-        {
-          "valor_por_cota": 0.1,
-          "data_com": "2025-06-11",
-          "data_pagamento": "2025-06-18"
         }
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.1,
-        "data_com": "2026-08-12",
-        "data_pagamento": "2026-08-19"
+        "data_com": "2026-09-11",
+        "data_pagamento": "2026-09-18"
       },
       "_chk_i7": "2026-09-12"
     },
@@ -33838,6 +33838,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.13,
+          "data_com": "2026-09-11",
+          "data_pagamento": "2026-09-18"
+        },
+        {
+          "valor_por_cota": 0.13,
           "data_com": "2026-08-12",
           "data_pagamento": "2026-08-19"
         },
@@ -33905,17 +33910,12 @@
           "valor_por_cota": 0.12,
           "data_com": "2025-07-10",
           "data_pagamento": "2025-07-17"
-        },
-        {
-          "valor_por_cota": 0.12,
-          "data_com": "2025-06-11",
-          "data_pagamento": "2025-06-18"
         }
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.13,
-        "data_com": "2026-08-12",
-        "data_pagamento": "2026-08-19"
+        "data_com": "2026-09-11",
+        "data_pagamento": "2026-09-18"
       },
       "_chk_i7": "2026-09-12"
     },
@@ -33934,6 +33934,11 @@
       "dados_completos": true,
       "fonte_dados": "f4+i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 0.88,
+          "data_com": "2026-09-11",
+          "data_pagamento": "2026-09-18"
+        },
         {
           "valor_por_cota": 1.06,
           "data_com": "2026-08-12",
@@ -34003,17 +34008,12 @@
           "valor_por_cota": 1.25,
           "data_com": "2025-07-10",
           "data_pagamento": "2025-07-17"
-        },
-        {
-          "valor_por_cota": 1.98,
-          "data_com": "2025-06-11",
-          "data_pagamento": "2025-06-18"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 1.06,
-        "data_com": "2026-08-12",
-        "data_pagamento": "2026-08-19"
+        "valor_por_cota": 0.88,
+        "data_com": "2026-09-11",
+        "data_pagamento": "2026-09-18"
       },
       "_chk_i7": "2026-09-12"
     },
@@ -35732,7 +35732,7 @@
       "patrimonio_liquido": 19147500.0,
       "vacancia_fisica": 51.4,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.02,
@@ -37247,7 +37247,7 @@
       "patrimonio_liquido": 55152.8,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.594855,
@@ -38203,7 +38203,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.323683,
@@ -40210,7 +40210,7 @@
       "patrimonio_liquido": 57537700.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.031148,
@@ -45420,7 +45420,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.002952,
@@ -45506,7 +45506,7 @@
       "_chk_i7": "2026-09-12"
     },
     "CASN4": {
-      "nome": "CASAN",
+      "nome": "Companhia Catarinense de Águas e Saneamento - CASAN",
       "segmento": "Utilidade Pública",
       "setor_atuacao": "Água e Saneamento",
       "preco": 0.0,
@@ -45518,7 +45518,7 @@
       "patrimonio_liquido": 2920000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.003247,
@@ -45795,7 +45795,7 @@
       "patrimonio_liquido": 1707.32,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.418807,
@@ -50205,7 +50205,7 @@
       "patrimonio_liquido": 1320330.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.211224,
@@ -53593,7 +53593,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.15,
@@ -65486,7 +65486,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 2.154102,
@@ -68536,7 +68536,7 @@
       "patrimonio_liquido": 164321000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.108402,
@@ -76856,7 +76856,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.397083,
@@ -77084,7 +77084,7 @@
       "patrimonio_liquido": 158203.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.050703,
@@ -77644,7 +77644,7 @@
       "patrimonio_liquido": 2414640.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.312637,
