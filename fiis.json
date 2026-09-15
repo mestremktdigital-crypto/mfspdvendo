@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-15T04:44:28.678653Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-15T12:35:12.766231Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1051,
+  "fiis_com_dados_completos": 1052,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -22136,7 +22136,7 @@
       "patrimonio_liquido": 125450000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.12,
@@ -58547,7 +58547,7 @@
       "patrimonio_liquido": 4940000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072303,
@@ -64517,7 +64517,7 @@
       "nome": "SUZANO HOLDING S.A.",
       "segmento": "Materiais Básicos",
       "setor_atuacao": "Papel e Celulose",
-      "preco": 0.0,
+      "preco": 1.42,
       "p_vp": 0.07,
       "p_l": 2.74,
       "valor_patrimonial_cota": 20.34,
@@ -64525,8 +64525,8 @@
       "dy_mensal": 42.8608,
       "patrimonio_liquido": 11460000000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 7.303503,
@@ -69693,7 +69693,7 @@
         },
         {
           "valor_por_cota": 0.0601,
-          "data_com": "2022-03-30",
+          "data_com": "2022-03-29",
           "data_pagamento": "2023-05-22"
         },
         {
