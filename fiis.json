@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-16T00:10:21.480183Z",
+  "gerado_em": "2026-09-16T04:40:43.608160Z",
   "fonte": "f4+b2+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1051,
@@ -5340,6 +5340,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-22"
+        },
+        {
+          "valor_por_cota": 0.1,
           "data_com": "2026-08-14",
           "data_pagamento": "2026-08-21"
         },
@@ -5407,17 +5412,12 @@
           "valor_por_cota": 0.061,
           "data_com": "2025-07-18",
           "data_pagamento": "2025-07-25"
-        },
-        {
-          "valor_por_cota": 0.099,
-          "data_com": "2025-06-17",
-          "data_pagamento": "2025-06-25"
         }
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.1,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-21"
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-22"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -5634,6 +5634,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.09,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-22"
+        },
+        {
+          "valor_por_cota": 0.09,
           "data_com": "2026-08-14",
           "data_pagamento": "2026-08-21"
         },
@@ -5701,17 +5706,12 @@
           "valor_por_cota": 0.088,
           "data_com": "2025-07-10",
           "data_pagamento": "2025-07-17"
-        },
-        {
-          "valor_por_cota": 0.087,
-          "data_com": "2025-06-11",
-          "data_pagamento": "2025-06-18"
         }
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.09,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-21"
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-22"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -5730,6 +5730,11 @@
       "dados_completos": true,
       "fonte_dados": "f4+i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 0.11,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-22"
+        },
         {
           "valor_por_cota": 0.11,
           "data_com": "2026-08-14",
@@ -5799,17 +5804,12 @@
           "valor_por_cota": 0.1,
           "data_com": "2025-07-16",
           "data_pagamento": "2025-07-23"
-        },
-        {
-          "valor_por_cota": 0.1,
-          "data_com": "2025-06-17",
-          "data_pagamento": "2025-06-25"
         }
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.11,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-21"
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-22"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -7405,6 +7405,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.037,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-22"
+        },
+        {
+          "valor_por_cota": 0.037,
           "data_com": "2026-08-14",
           "data_pagamento": "2026-08-21"
         },
@@ -7471,8 +7476,8 @@
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.037,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-21"
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-22"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -11984,6 +11989,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.55,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-22"
+        },
+        {
           "valor_por_cota": 0.56,
           "data_com": "2026-08-14",
           "data_pagamento": "2026-08-21"
@@ -12052,17 +12062,12 @@
           "valor_por_cota": 0.46,
           "data_com": "2025-06-17",
           "data_pagamento": "2025-06-25"
-        },
-        {
-          "valor_por_cota": 0.65,
-          "data_com": "2025-05-16",
-          "data_pagamento": "2025-05-23"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.56,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-21"
+        "valor_por_cota": 0.55,
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-22"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -14617,6 +14622,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.9,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-22"
+        },
+        {
+          "valor_por_cota": 0.9,
           "data_com": "2026-08-14",
           "data_pagamento": "2026-08-21"
         },
@@ -14683,8 +14693,8 @@
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.9,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-21"
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-22"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -23603,6 +23613,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-22"
+        },
+        {
+          "valor_por_cota": 0.1,
           "data_com": "2026-08-14",
           "data_pagamento": "2026-08-21"
         },
@@ -23639,8 +23654,8 @@
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.1,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-21"
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-22"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -25489,6 +25504,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.09,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-23"
+        },
+        {
+          "valor_por_cota": 0.09,
           "data_com": "2026-08-14",
           "data_pagamento": "2026-08-24"
         },
@@ -25556,17 +25576,12 @@
           "valor_por_cota": 0.09617,
           "data_com": "2025-07-14",
           "data_pagamento": "2025-07-22"
-        },
-        {
-          "valor_por_cota": 0.09,
-          "data_com": "2025-06-13",
-          "data_pagamento": "2025-06-24"
         }
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.09,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-24"
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-23"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -31344,6 +31359,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-25"
+        },
+        {
+          "valor_por_cota": 0.1,
           "data_com": "2026-08-14",
           "data_pagamento": "2026-08-25"
         },
@@ -31411,17 +31431,12 @@
           "valor_por_cota": 0.1,
           "data_com": "2025-07-15",
           "data_pagamento": "2025-07-25"
-        },
-        {
-          "valor_por_cota": 0.1,
-          "data_com": "2025-06-13",
-          "data_pagamento": "2025-06-25"
         }
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.1,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-25"
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-25"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -34540,6 +34555,11 @@
       "proventos_12m": [
         {
           "valor_por_cota": 0.9,
+          "data_com": "2026-09-15",
+          "data_pagamento": "2026-09-22"
+        },
+        {
+          "valor_por_cota": 0.9,
           "data_com": "2026-08-14",
           "data_pagamento": "2026-08-21"
         },
@@ -34607,17 +34627,12 @@
           "valor_por_cota": 1.6,
           "data_com": "2025-07-14",
           "data_pagamento": "2025-07-21"
-        },
-        {
-          "valor_por_cota": 0.96,
-          "data_com": "2025-06-13",
-          "data_pagamento": "2025-06-23"
         }
       ],
       "ultimo_provento": {
         "valor_por_cota": 0.9,
-        "data_com": "2026-08-14",
-        "data_pagamento": "2026-08-21"
+        "data_com": "2026-09-15",
+        "data_pagamento": "2026-09-22"
       },
       "_chk_i7": "2026-09-16"
     },
