@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-16T04:40:43.608160Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-16T12:31:43.510980Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1051,
+  "fiis_com_dados_completos": 1052,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -37454,6 +37454,21 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.291919,
+          "data_com": "2026-11-19",
+          "data_pagamento": "2026-12-02"
+        },
+        {
+          "valor_por_cota": 0.291919,
+          "data_com": "2026-10-22",
+          "data_pagamento": "2026-11-04"
+        },
+        {
+          "valor_por_cota": 0.291919,
+          "data_com": "2026-09-22",
+          "data_pagamento": "2026-10-02"
+        },
+        {
           "valor_por_cota": 0.291918,
           "data_com": "2026-08-21",
           "data_pagamento": "2026-09-02"
@@ -37512,27 +37527,12 @@
           "valor_por_cota": 0.102165,
           "data_com": "2025-09-23",
           "data_pagamento": "2025-10-02"
-        },
-        {
-          "valor_por_cota": 0.102164,
-          "data_com": "2025-08-21",
-          "data_pagamento": "2025-09-02"
-        },
-        {
-          "valor_por_cota": 0.102164,
-          "data_com": "2025-07-22",
-          "data_pagamento": "2025-08-04"
-        },
-        {
-          "valor_por_cota": 0.101986,
-          "data_com": "2025-06-17",
-          "data_pagamento": "2025-07-02"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.291918,
-        "data_com": "2026-08-21",
-        "data_pagamento": "2026-09-02"
+        "valor_por_cota": 0.291919,
+        "data_com": "2026-11-19",
+        "data_pagamento": "2026-12-02"
       },
       "_chk_i7": "2026-09-16"
     },
@@ -58577,7 +58577,7 @@
       "patrimonio_liquido": 4940000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072303,
@@ -63911,7 +63911,7 @@
       "nome": "METISA",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.54,
       "p_vp": 1.36,
       "p_l": 18.72,
       "valor_patrimonial_cota": 53.15,
@@ -63920,7 +63920,7 @@
       "patrimonio_liquido": 467180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -64547,7 +64547,7 @@
       "nome": "SUZANO HOLDING S.A.",
       "segmento": "Materiais Básicos",
       "setor_atuacao": "Papel e Celulose",
-      "preco": 0.0,
+      "preco": 1.42,
       "p_vp": 0.07,
       "p_l": 2.74,
       "valor_patrimonial_cota": 20.34,
@@ -64555,8 +64555,8 @@
       "dy_mensal": 42.8608,
       "patrimonio_liquido": 11460000000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 7.303503,
@@ -77392,6 +77392,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.107212,
+          "data_com": "2026-09-18",
+          "data_pagamento": "2027-03-10"
+        },
+        {
           "valor_por_cota": 0.104424,
           "data_com": "2026-06-19",
           "data_pagamento": "2027-03-10"
@@ -77460,16 +77465,11 @@
           "valor_por_cota": 0.297943,
           "data_com": "2024-02-23",
           "data_pagamento": "2024-03-13"
-        },
-        {
-          "valor_por_cota": 0.071941,
-          "data_com": "2023-12-15",
-          "data_pagamento": "2024-03-13"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.104424,
-        "data_com": "2026-06-19",
+        "valor_por_cota": 0.107212,
+        "data_com": "2026-09-18",
         "data_pagamento": "2027-03-10"
       },
       "_chk_i7": "2026-09-16"
