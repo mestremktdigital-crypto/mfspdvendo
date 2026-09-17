@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-17T04:43:55.640959Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-17T12:31:56.370257Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1051,
+  "fiis_com_dados_completos": 1052,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -4594,72 +4594,72 @@
           "data_pagamento": "2026-09-21"
         },
         {
-          "valor_por_cota": 0.0005,
+          "valor_por_cota": 5.0,
           "data_com": "2026-08-13",
           "data_pagamento": "2026-08-20"
         },
         {
-          "valor_por_cota": 0.000748,
+          "valor_por_cota": 7.475,
           "data_com": "2026-07-13",
           "data_pagamento": "2026-07-20"
         },
         {
-          "valor_por_cota": 0.0009,
+          "valor_por_cota": 9.0,
           "data_com": "2026-06-12",
           "data_pagamento": "2026-06-19"
         },
         {
-          "valor_por_cota": 0.000902,
+          "valor_por_cota": 9.02,
           "data_com": "2026-05-14",
           "data_pagamento": "2026-05-21"
         },
         {
-          "valor_por_cota": 0.001088,
+          "valor_por_cota": 10.88,
           "data_com": "2026-04-14",
           "data_pagamento": "2026-04-22"
         },
         {
-          "valor_por_cota": 0.000949,
+          "valor_por_cota": 9.49,
           "data_com": "2026-03-12",
           "data_pagamento": "2026-03-19"
         },
         {
-          "valor_por_cota": 0.000902,
+          "valor_por_cota": 9.02,
           "data_com": "2026-02-12",
           "data_pagamento": "2026-02-23"
         },
         {
-          "valor_por_cota": 0.000846,
+          "valor_por_cota": 8.46,
           "data_com": "2026-01-14",
           "data_pagamento": "2026-01-21"
         },
         {
-          "valor_por_cota": 0.001135,
+          "valor_por_cota": 11.35,
           "data_com": "2025-12-11",
           "data_pagamento": "2025-12-18"
         },
         {
-          "valor_por_cota": 0.00079,
+          "valor_por_cota": 7.9,
           "data_com": "2025-11-13",
           "data_pagamento": "2025-11-21"
         },
         {
-          "valor_por_cota": 0.001017,
+          "valor_por_cota": 10.17,
           "data_com": "2025-10-13",
           "data_pagamento": "2025-10-20"
         },
         {
-          "valor_por_cota": 0.000962,
+          "valor_por_cota": 9.62,
           "data_com": "2025-09-11",
           "data_pagamento": "2025-09-18"
         },
         {
-          "valor_por_cota": 0.001052,
+          "valor_por_cota": 10.52,
           "data_com": "2025-08-13",
           "data_pagamento": "2025-08-20"
         },
         {
-          "valor_por_cota": 0.001119,
+          "valor_por_cota": 11.19,
           "data_com": "2025-07-11",
           "data_pagamento": "2025-07-18"
         }
@@ -5535,6 +5535,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 2.0,
+          "data_com": "2026-09-16",
+          "data_pagamento": "2026-09-23"
+        },
+        {
           "valor_por_cota": 0.43,
           "data_com": "2026-03-16",
           "data_pagamento": "2026-03-23"
@@ -5603,17 +5608,12 @@
           "valor_por_cota": 0.85,
           "data_com": "2025-02-17",
           "data_pagamento": "2025-02-24"
-        },
-        {
-          "valor_por_cota": 0.85,
-          "data_com": "2025-01-16",
-          "data_pagamento": "2025-01-23"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.43,
-        "data_com": "2026-03-16",
-        "data_pagamento": "2026-03-23"
+        "valor_por_cota": 2.0,
+        "data_com": "2026-09-16",
+        "data_pagamento": "2026-09-23"
       },
       "_chk_i7": "2026-09-17"
     },
@@ -19629,10 +19629,10 @@
       "preco": 100.0,
       "p_vp": 1.0,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 100.11,
+      "valor_patrimonial_cota": 99.81,
       "dy_12m": 0.0,
       "dy_mensal": 0.0,
-      "patrimonio_liquido": 400560000.0,
+      "patrimonio_liquido": 399370000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
       "fonte_dados": "i7",
@@ -25499,7 +25499,7 @@
       "preco": 7.1,
       "p_vp": 0.77,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 9.21,
+      "valor_patrimonial_cota": 9.24,
       "dy_12m": 14.85,
       "dy_mensal": 1.2375,
       "patrimonio_liquido": 1039120000.0,
@@ -26005,7 +26005,7 @@
       "preco": 64.9,
       "p_vp": 0.63,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 102.64,
+      "valor_patrimonial_cota": 101.74,
       "dy_12m": 15.39,
       "dy_mensal": 1.2825,
       "patrimonio_liquido": 293883000.0,
@@ -28276,7 +28276,7 @@
       "preco": 102.03,
       "p_vp": 1.02,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 101.63,
+      "valor_patrimonial_cota": 99.88,
       "dy_12m": 12.91,
       "dy_mensal": 1.0758,
       "patrimonio_liquido": 513382000.0,
@@ -58574,15 +58574,15 @@
       "segmento": "Financeiro",
       "setor_atuacao": "Exploração de Imóveis",
       "preco": 11.2,
-      "p_vp": 2.83,
-      "p_l": 21.91,
+      "p_vp": 2.74,
+      "p_l": 21.16,
       "valor_patrimonial_cota": 4.09,
       "dy_12m": 1.87,
       "dy_mensal": 0.1558,
       "patrimonio_liquido": 4940000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072303,
@@ -63916,7 +63916,7 @@
       "nome": "METISA",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.54,
       "p_vp": 1.36,
       "p_l": 18.72,
       "valor_patrimonial_cota": 53.15,
@@ -63925,7 +63925,7 @@
       "patrimonio_liquido": 467180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -70246,7 +70246,7 @@
       "nome": "METALURGICA RIOSULENSE",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Material Rodoviário",
-      "preco": 0.0,
+      "preco": 0.04,
       "p_vp": 0.0,
       "p_l": 0.0,
       "valor_patrimonial_cota": 49.55,
@@ -70254,8 +70254,8 @@
       "dy_mensal": 1.5833,
       "patrimonio_liquido": 300900000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 2.122077,
