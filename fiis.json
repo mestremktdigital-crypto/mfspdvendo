@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-18T04:31:49.307879Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-18T12:10:08.401643Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1053,
+  "fiis_com_dados_completos": 1054,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -53354,7 +53354,7 @@
       "patrimonio_liquido": 671550000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.763078,
@@ -58577,12 +58577,12 @@
       "p_vp": 2.75,
       "p_l": 21.27,
       "valor_patrimonial_cota": 4.09,
-      "dy_12m": 1.87,
-      "dy_mensal": 0.1558,
+      "dy_12m": 1.93,
+      "dy_mensal": 0.1608,
       "patrimonio_liquido": 4940000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072303,
@@ -63921,7 +63921,7 @@
       "nome": "METISA",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.54,
       "p_vp": 1.36,
       "p_l": 18.72,
       "valor_patrimonial_cota": 53.15,
@@ -63930,7 +63930,7 @@
       "patrimonio_liquido": 467180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -70251,7 +70251,7 @@
       "nome": "METALURGICA RIOSULENSE",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Material Rodoviário",
-      "preco": 0.0,
+      "preco": 0.04,
       "p_vp": 0.0,
       "p_l": 0.0,
       "valor_patrimonial_cota": 49.55,
@@ -70259,8 +70259,8 @@
       "dy_mensal": 1.5833,
       "patrimonio_liquido": 300900000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 2.122077,
@@ -72989,7 +72989,7 @@
       "patrimonio_liquido": 866770000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1232,
