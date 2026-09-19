@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-19T04:28:36.767026Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-19T11:52:34.273831Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1053,
+  "fiis_com_dados_completos": 1055,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -2902,7 +2902,7 @@
       "patrimonio_liquido": 576534000.0,
       "vacancia_fisica": 23.47,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.8,
@@ -3326,7 +3326,7 @@
       "patrimonio_liquido": 26363700.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.06,
@@ -8820,7 +8820,7 @@
       "patrimonio_liquido": 214473000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.22,
@@ -11674,7 +11674,7 @@
       "patrimonio_liquido": 73767400.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 82.32177,
@@ -13636,7 +13636,7 @@
       "patrimonio_liquido": 102850000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.58,
@@ -17091,7 +17091,7 @@
       "patrimonio_liquido": 20326700.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.6,
@@ -18635,7 +18635,7 @@
       "preco": 62.04,
       "p_vp": 1.29,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 48.61,
+      "valor_patrimonial_cota": 48.26,
       "dy_12m": 12.71,
       "dy_mensal": 1.0592,
       "patrimonio_liquido": 443612000.0,
@@ -21706,7 +21706,7 @@
       "patrimonio_liquido": 232390000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 2.661911,
@@ -22901,7 +22901,7 @@
       "patrimonio_liquido": 33180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.11,
@@ -23942,7 +23942,7 @@
       "patrimonio_liquido": 51799500.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.9932,
@@ -33470,7 +33470,7 @@
       "patrimonio_liquido": 239801000.0,
       "vacancia_fisica": 2.83,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 3.5,
@@ -34552,10 +34552,10 @@
       "nome": "VENUS",
       "segmento": "",
       "setor_atuacao": "",
-      "preco": 7.2,
+      "preco": 7.24,
       "p_vp": 12.0,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 90.53,
+      "valor_patrimonial_cota": 91.04,
       "dy_12m": 0.0,
       "dy_mensal": 0.0,
       "patrimonio_liquido": 8010000.0,
@@ -39279,7 +39279,7 @@
       "patrimonio_liquido": 18700000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.226507,
@@ -39580,7 +39580,7 @@
       "nome": "EXCELSIOR ALIMENTOS",
       "segmento": "Consumo não Cíclico",
       "setor_atuacao": "Carnes e Derivados",
-      "preco": 0.0,
+      "preco": 2.31,
       "p_vp": 0.08,
       "p_l": 0.53,
       "valor_patrimonial_cota": 29.38,
@@ -39588,8 +39588,8 @@
       "dy_mensal": 3.5608,
       "patrimonio_liquido": 153410000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.9871,
@@ -43753,7 +43753,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.27818,
@@ -43851,7 +43851,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.27818,
@@ -45125,7 +45125,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 4.319877,
@@ -46341,6 +46341,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.497064,
+          "data_com": "2026-09-23",
+          "data_pagamento": "2026-12-31"
+        },
+        {
           "valor_por_cota": 0.496476,
           "data_com": "2026-06-24",
           "data_pagamento": "2026-12-31"
@@ -46409,16 +46414,11 @@
           "valor_por_cota": 2.532107,
           "data_com": "2023-07-03",
           "data_pagamento": "2023-12-27"
-        },
-        {
-          "valor_por_cota": 0.808857,
-          "data_com": "2023-04-18",
-          "data_pagamento": "2023-05-04"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.496476,
-        "data_com": "2026-06-24",
+        "valor_por_cota": 0.497064,
+        "data_com": "2026-09-23",
         "data_pagamento": "2026-12-31"
       },
       "_chk_i7": "2026-09-19"
@@ -46438,6 +46438,11 @@
       "dados_completos": true,
       "fonte_dados": "f4+i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 0.497064,
+          "data_com": "2026-09-23",
+          "data_pagamento": "2026-12-31"
+        },
         {
           "valor_por_cota": 0.496476,
           "data_com": "2026-06-24",
@@ -46507,16 +46512,11 @@
           "valor_por_cota": 2.532106,
           "data_com": "2023-07-03",
           "data_pagamento": "2023-12-27"
-        },
-        {
-          "valor_por_cota": 0.808857,
-          "data_com": "2023-04-18",
-          "data_pagamento": "2023-05-04"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.496476,
-        "data_com": "2026-06-24",
+        "valor_por_cota": 0.497064,
+        "data_com": "2026-09-23",
         "data_pagamento": "2026-12-31"
       },
       "_chk_i7": "2026-09-19"
@@ -46536,6 +46536,11 @@
       "dados_completos": true,
       "fonte_dados": "i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 0.54677,
+          "data_com": "2026-09-23",
+          "data_pagamento": "2026-12-31"
+        },
         {
           "valor_por_cota": 0.546123,
           "data_com": "2026-06-24",
@@ -46605,16 +46610,11 @@
           "valor_por_cota": 2.785316,
           "data_com": "2023-07-03",
           "data_pagamento": "2023-12-31"
-        },
-        {
-          "valor_por_cota": 0.889742,
-          "data_com": "2023-04-18",
-          "data_pagamento": "2023-05-04"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.546123,
-        "data_com": "2026-06-24",
+        "valor_por_cota": 0.54677,
+        "data_com": "2026-09-23",
         "data_pagamento": "2026-12-31"
       },
       "_chk_i7": "2026-09-19"
@@ -46762,7 +46762,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.542327,
@@ -46860,7 +46860,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.542327,
@@ -46958,7 +46958,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.59656,
@@ -49491,7 +49491,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.20635,
@@ -49589,7 +49589,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.20635,
@@ -52989,7 +52989,7 @@
       "patrimonio_liquido": 116176000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.48829,
@@ -53090,6 +53090,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.125925,
+          "data_com": "2026-09-23",
+          "data_pagamento": "2026-12-31"
+        },
+        {
           "valor_por_cota": 0.125778,
           "data_com": "2026-06-24",
           "data_pagamento": "2026-09-10"
@@ -53158,17 +53163,12 @@
           "valor_por_cota": 0.1852,
           "data_com": "2024-03-25",
           "data_pagamento": "2024-08-26"
-        },
-        {
-          "valor_por_cota": 0.441845,
-          "data_com": "2024-01-04",
-          "data_pagamento": "2024-05-22"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.125778,
-        "data_com": "2026-06-24",
-        "data_pagamento": "2026-09-10"
+        "valor_por_cota": 0.125925,
+        "data_com": "2026-09-23",
+        "data_pagamento": "2026-12-31"
       },
       "_chk_i7": "2026-09-19"
     },
@@ -53187,6 +53187,11 @@
       "dados_completos": true,
       "fonte_dados": "f4+i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 0.138517,
+          "data_com": "2026-09-23",
+          "data_pagamento": "2026-12-31"
+        },
         {
           "valor_por_cota": 0.138355,
           "data_com": "2026-06-24",
@@ -53256,17 +53261,12 @@
           "valor_por_cota": 0.20372,
           "data_com": "2024-03-25",
           "data_pagamento": "2024-08-26"
-        },
-        {
-          "valor_por_cota": 0.486,
-          "data_com": "2024-01-04",
-          "data_pagamento": "2024-05-22"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.138355,
-        "data_com": "2026-06-24",
-        "data_pagamento": "2026-09-10"
+        "valor_por_cota": 0.138517,
+        "data_com": "2026-09-23",
+        "data_pagamento": "2026-12-31"
       },
       "_chk_i7": "2026-09-19"
     },
@@ -53359,7 +53359,7 @@
       "patrimonio_liquido": 671550000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.763078,
@@ -55065,7 +55065,7 @@
       "patrimonio_liquido": 482457.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.00622,
@@ -58582,12 +58582,12 @@
       "p_vp": 2.69,
       "p_l": 20.8,
       "valor_patrimonial_cota": 4.09,
-      "dy_12m": 1.93,
-      "dy_mensal": 0.1608,
+      "dy_12m": 1.97,
+      "dy_mensal": 0.1642,
       "patrimonio_liquido": 4940000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072303,
@@ -59748,7 +59748,7 @@
       "patrimonio_liquido": 539.14,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.319444,
@@ -59846,7 +59846,7 @@
       "patrimonio_liquido": 122.73,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.351389,
@@ -60415,7 +60415,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.2149,
@@ -60513,7 +60513,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.2149,
@@ -63098,7 +63098,7 @@
       "patrimonio_liquido": 186346000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.723315,
@@ -63926,7 +63926,7 @@
       "nome": "METISA",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.54,
       "p_vp": 1.36,
       "p_l": 18.72,
       "valor_patrimonial_cota": 53.15,
@@ -63935,7 +63935,7 @@
       "patrimonio_liquido": 467180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -65152,7 +65152,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": false,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.446,
@@ -65215,7 +65215,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.446,
@@ -65654,7 +65654,7 @@
       "patrimonio_liquido": 28918400.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.567837,
@@ -67876,6 +67876,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.520657,
+          "data_com": "2026-09-23",
+          "data_pagamento": "2027-04-30"
+        },
+        {
           "valor_por_cota": 0.512804,
           "data_com": "2026-06-22",
           "data_pagamento": "2027-04-30"
@@ -67944,16 +67949,11 @@
           "valor_por_cota": 0.087771,
           "data_com": "2022-10-31",
           "data_pagamento": "2023-11-29"
-        },
-        {
-          "valor_por_cota": 0.623304,
-          "data_com": "2022-08-30",
-          "data_pagamento": "2023-04-11"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.512804,
-        "data_com": "2026-06-22",
+        "valor_por_cota": 0.520657,
+        "data_com": "2026-09-23",
         "data_pagamento": "2027-04-30"
       },
       "_chk_i7": "2026-09-19"
@@ -70261,7 +70261,7 @@
       "nome": "METALURGICA RIOSULENSE",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Material Rodoviário",
-      "preco": 0.0,
+      "preco": 0.04,
       "p_vp": 0.0,
       "p_l": 0.0,
       "valor_patrimonial_cota": 49.55,
@@ -70269,8 +70269,8 @@
       "dy_mensal": 1.5833,
       "patrimonio_liquido": 300900000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 2.122077,
@@ -72999,7 +72999,7 @@
       "patrimonio_liquido": 866770000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1232,
@@ -75109,6 +75109,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.15,
+          "data_com": "2026-09-23",
+          "data_pagamento": "2026-10-08"
+        },
+        {
           "valor_por_cota": 0.18,
           "data_com": "2026-06-15",
           "data_pagamento": "2026-07-10"
@@ -75177,17 +75182,12 @@
           "valor_por_cota": 0.09,
           "data_com": "2021-08-04",
           "data_pagamento": "2021-10-22"
-        },
-        {
-          "valor_por_cota": 0.09,
-          "data_com": "2021-04-20",
-          "data_pagamento": "2021-05-20"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.18,
-        "data_com": "2026-06-15",
-        "data_pagamento": "2026-07-10"
+        "valor_por_cota": 0.15,
+        "data_com": "2026-09-23",
+        "data_pagamento": "2026-10-08"
       },
       "_chk_i7": "2026-09-19"
     },
