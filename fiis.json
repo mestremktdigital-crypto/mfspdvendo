@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-09-23T04:36:28.717604Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-23T12:41:14.806085Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1056,
   "fiis": {
@@ -26872,12 +26872,12 @@
       "segmento": "",
       "setor_atuacao": "",
       "preco": 480.62,
-      "p_vp": 0.29,
+      "p_vp": 0.3,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 1629.92,
+      "valor_patrimonial_cota": 1614.39,
       "dy_12m": 19.93,
       "dy_mensal": 1.6608,
-      "patrimonio_liquido": 7920000000.0,
+      "patrimonio_liquido": 8170000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
       "fonte_dados": "i7",
@@ -31035,7 +31035,7 @@
       "patrimonio_liquido": 89780000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.076667,
@@ -39279,12 +39279,12 @@
       "p_vp": 4.97,
       "p_l": 17.45,
       "valor_patrimonial_cota": 3.71,
-      "dy_12m": 5.38,
-      "dy_mensal": 0.4483,
+      "dy_12m": 5.32,
+      "dy_mensal": 0.4433,
       "patrimonio_liquido": 18700000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.22655,
@@ -46534,8 +46534,8 @@
       "p_vp": 1.83,
       "p_l": 10.66,
       "valor_patrimonial_cota": 33.17,
-      "dy_12m": 10.58,
-      "dy_mensal": 0.8817,
+      "dy_12m": 11.48,
+      "dy_mensal": 0.9567,
       "patrimonio_liquido": 8690000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
@@ -53364,7 +53364,7 @@
       "patrimonio_liquido": 671550000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.763078,
@@ -63931,7 +63931,7 @@
       "nome": "METISA",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.54,
       "p_vp": 1.36,
       "p_l": 18.72,
       "valor_patrimonial_cota": 53.15,
@@ -63940,7 +63940,7 @@
       "patrimonio_liquido": 467180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -69676,12 +69676,12 @@
       "p_vp": 1.53,
       "p_l": 12.13,
       "valor_patrimonial_cota": 24.11,
-      "dy_12m": 2.94,
-      "dy_mensal": 0.245,
+      "dy_12m": 2.86,
+      "dy_mensal": 0.2383,
       "patrimonio_liquido": 27100000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.55658,
@@ -71496,7 +71496,7 @@
       "nome": "SCHULZ",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Motores, Compressores e Outros",
-      "preco": 27.94,
+      "preco": 26.59,
       "p_vp": 6.07,
       "p_l": 36.6,
       "valor_patrimonial_cota": 4.38,
@@ -71505,7 +71505,7 @@
       "patrimonio_liquido": 1570000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072956,
