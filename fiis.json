@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-26T04:47:04.380364Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-26T12:09:09.732174Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1057,
+  "fiis_com_dados_completos": 1058,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -7177,7 +7177,7 @@
       "patrimonio_liquido": 347440000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.106,
@@ -10288,7 +10288,7 @@
       "patrimonio_liquido": 55994000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 2.56,
@@ -12600,7 +12600,7 @@
       "patrimonio_liquido": 1601200000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.0,
@@ -24025,7 +24025,7 @@
       "patrimonio_liquido": 23093100.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 436.49364,
@@ -27078,7 +27078,7 @@
       "patrimonio_liquido": 721129000.0,
       "vacancia_fisica": 0.04,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.237,
@@ -30865,7 +30865,7 @@
       "patrimonio_liquido": 101250000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 4.02,
@@ -30893,7 +30893,7 @@
       "patrimonio_liquido": 52918500.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.52,
@@ -31892,7 +31892,7 @@
       "patrimonio_liquido": 30384900.0,
       "vacancia_fisica": 39.63,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
@@ -33573,7 +33573,7 @@
       "patrimonio_liquido": 301980000.0,
       "vacancia_fisica": 11.25,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.07,
@@ -33899,7 +33899,7 @@
       "patrimonio_liquido": 1396730000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.13,
@@ -33997,7 +33997,7 @@
       "patrimonio_liquido": 855754000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.88,
@@ -39279,12 +39279,12 @@
       "p_vp": 4.85,
       "p_l": 17.01,
       "valor_patrimonial_cota": 3.71,
-      "dy_12m": 5.06,
-      "dy_mensal": 0.4217,
+      "dy_12m": 5.03,
+      "dy_mensal": 0.4192,
       "patrimonio_liquido": 18700000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.22655,
@@ -44487,7 +44487,7 @@
       "patrimonio_liquido": 69869.7,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.220063,
@@ -44585,7 +44585,7 @@
       "patrimonio_liquido": 1573.8,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.220063,
@@ -44683,7 +44683,7 @@
       "patrimonio_liquido": 30186500.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.220063,
@@ -45578,8 +45578,8 @@
       "p_vp": 2.24,
       "p_l": 15.64,
       "valor_patrimonial_cota": 2.45,
-      "dy_12m": 3.11,
-      "dy_mensal": 0.2592,
+      "dy_12m": 2.24,
+      "dy_mensal": 0.1867,
       "patrimonio_liquido": 2920000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
@@ -53364,7 +53364,7 @@
       "patrimonio_liquido": 671550000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.763078,
@@ -53736,7 +53736,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.269366,
@@ -53850,7 +53850,7 @@
       "patrimonio_liquido": 181216000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -53948,7 +53948,7 @@
       "patrimonio_liquido": 45922.6,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
@@ -54046,7 +54046,7 @@
       "patrimonio_liquido": 64919.5,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
@@ -56206,7 +56206,7 @@
       "patrimonio_liquido": 78468000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.400733,
@@ -57133,7 +57133,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 5.9,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.613026,
@@ -62906,7 +62906,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.065643,
@@ -63022,7 +63022,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.021881,
@@ -63951,7 +63951,7 @@
       "nome": "METISA",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.13,
       "p_vp": 1.36,
       "p_l": 18.62,
       "valor_patrimonial_cota": 53.15,
@@ -63960,7 +63960,7 @@
       "patrimonio_liquido": 467180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -67648,7 +67648,7 @@
       "nome": "POLPAR S.A.",
       "segmento": "Financeiro",
       "setor_atuacao": "Outros",
-      "preco": 0.0,
+      "preco": 244.77,
       "p_vp": 0.51,
       "p_l": 11.79,
       "valor_patrimonial_cota": 483.29,
@@ -67656,8 +67656,8 @@
       "dy_mensal": 0.5342,
       "patrimonio_liquido": 49150000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 3.99883,
@@ -69701,7 +69701,7 @@
       "patrimonio_liquido": 27100000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.55658,
@@ -71521,16 +71521,16 @@
       "nome": "SCHULZ",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Motores, Compressores e Outros",
-      "preco": 27.94,
+      "preco": 26.59,
       "p_vp": 6.07,
       "p_l": 36.6,
       "valor_patrimonial_cota": 4.38,
-      "dy_12m": 2.44,
-      "dy_mensal": 0.2033,
+      "dy_12m": 2.16,
+      "dy_mensal": 0.18,
       "patrimonio_liquido": 1570000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072956,
@@ -76452,7 +76452,7 @@
       "patrimonio_liquido": 1491190000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 2.030722,
