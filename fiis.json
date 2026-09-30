@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-09-30T05:23:18.567320Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-09-30T13:32:20.684672Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1061,
+  "fiis_com_dados_completos": 1062,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -7177,7 +7177,7 @@
       "patrimonio_liquido": 347440000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.106,
@@ -31069,13 +31069,18 @@
       "p_vp": 0.87,
       "p_l": 0.0,
       "valor_patrimonial_cota": 13.76,
-      "dy_12m": 3.26,
-      "dy_mensal": 0.2717,
+      "dy_12m": 3.92,
+      "dy_mensal": 0.3267,
       "patrimonio_liquido": 89970000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
       "fonte_dados": "i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 0.079247,
+          "data_com": "2026-09-29",
+          "data_pagamento": "2026-10-06"
+        },
         {
           "valor_por_cota": 0.076667,
           "data_com": "2026-08-28",
@@ -31098,9 +31103,9 @@
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.076667,
-        "data_com": "2026-08-28",
-        "data_pagamento": "2026-09-04"
+        "valor_por_cota": 0.079247,
+        "data_com": "2026-09-29",
+        "data_pagamento": "2026-10-06"
       },
       "_chk_i7": "2026-09-30"
     },
@@ -33669,7 +33674,7 @@
       "patrimonio_liquido": 301980000.0,
       "vacancia_fisica": 11.25,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.07,
@@ -37526,7 +37531,7 @@
       "patrimonio_liquido": 2266940.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.625251,
@@ -59022,7 +59027,7 @@
       "patrimonio_liquido": 122185.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.377918,
@@ -59120,7 +59125,7 @@
       "patrimonio_liquido": 81383900.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.377918,
@@ -67786,7 +67791,7 @@
       "nome": "POLPAR S.A.",
       "segmento": "Financeiro",
       "setor_atuacao": "Outros",
-      "preco": 0.0,
+      "preco": 244.77,
       "p_vp": 0.51,
       "p_l": 11.79,
       "valor_patrimonial_cota": 483.29,
@@ -67794,8 +67799,8 @@
       "dy_mensal": 0.5342,
       "patrimonio_liquido": 49150000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 3.99883,
@@ -69830,16 +69835,16 @@
       "nome": "LOCALIZA",
       "segmento": "Consumo Cíclico",
       "setor_atuacao": "Aluguel de carros",
-      "preco": 37.6,
-      "p_vp": 1.56,
-      "p_l": 12.34,
+      "preco": 38.4,
+      "p_vp": 1.59,
+      "p_l": 12.61,
       "valor_patrimonial_cota": 24.11,
-      "dy_12m": 4.33,
-      "dy_mensal": 0.3608,
+      "dy_12m": 4.29,
+      "dy_mensal": 0.3575,
       "patrimonio_liquido": 27100000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.55658,
