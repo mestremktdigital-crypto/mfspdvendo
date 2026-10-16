@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-10-16T04:20:24.848883Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-10-16T12:13:49.668193Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1061,
   "fiis": {
@@ -17,7 +17,7 @@
       "patrimonio_liquido": 466330000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.02,
@@ -65,7 +65,7 @@
       "patrimonio_liquido": 508420000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.0,
@@ -163,7 +163,7 @@
       "patrimonio_liquido": 50900000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.12,
@@ -277,7 +277,7 @@
       "patrimonio_liquido": 351320000.0,
       "vacancia_fisica": 8.2,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.06,
@@ -375,7 +375,7 @@
       "patrimonio_liquido": 250460000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.09,
@@ -489,7 +489,7 @@
       "patrimonio_liquido": 1760000000.0,
       "vacancia_fisica": 3.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.084,
@@ -578,7 +578,7 @@
       "nome": "ALIANZA URBAN HUB RENDA",
       "segmento": "Logística",
       "setor_atuacao": "Logística",
-      "preco": 88.88,
+      "preco": 88.08,
       "p_vp": 1.06,
       "p_l": 0.0,
       "valor_patrimonial_cota": 82.75,
@@ -587,7 +587,7 @@
       "patrimonio_liquido": 89850000.0,
       "vacancia_fisica": 16.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.4,
@@ -685,7 +685,7 @@
       "patrimonio_liquido": 354660000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.26318,
@@ -2343,7 +2343,7 @@
       "patrimonio_liquido": 346920000.0,
       "vacancia_fisica": 13.5,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.02,
@@ -2742,7 +2742,7 @@
       "nome": "BRASIL VAREJO",
       "segmento": "Varejo",
       "setor_atuacao": "Varejo",
-      "preco": 1144.33,
+      "preco": 1.06,
       "p_vp": 1.56,
       "p_l": 0.0,
       "valor_patrimonial_cota": 679.17,
@@ -2751,7 +2751,7 @@
       "patrimonio_liquido": 424850000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 6.0,
@@ -3735,7 +3735,7 @@
       "patrimonio_liquido": 1260000000.0,
       "vacancia_fisica": 9.4,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.56,
@@ -3931,7 +3931,7 @@
       "patrimonio_liquido": 19410000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 7.3102,
@@ -4284,7 +4284,7 @@
       "patrimonio_liquido": 7570000000.0,
       "vacancia_fisica": 1.2,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.81,
@@ -4480,7 +4480,7 @@
       "patrimonio_liquido": 769710000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.85,
@@ -4513,7 +4513,7 @@
       "patrimonio_liquido": 886300000.0,
       "vacancia_fisica": 6.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.92,
@@ -4602,7 +4602,7 @@
       "nome": "FII BTG PACTUAL YOU INC. DESENV. IMOB.",
       "segmento": "Outros",
       "setor_atuacao": "Outros",
-      "preco": 535.0,
+      "preco": 530.0,
       "p_vp": 15.62,
       "p_l": 0.0,
       "valor_patrimonial_cota": 1007.25,
@@ -4611,7 +4611,7 @@
       "patrimonio_liquido": 302180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 5.0,
@@ -5288,7 +5288,7 @@
       "nome": "CANUMA CAPITAL RENDA VAREJO",
       "segmento": "Hospital",
       "setor_atuacao": "Hospital",
-      "preco": 100.07,
+      "preco": 87.7,
       "p_vp": 0.85,
       "p_l": 0.0,
       "valor_patrimonial_cota": 103.07,
@@ -5297,7 +5297,7 @@
       "patrimonio_liquido": 64700000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.67,
@@ -5361,7 +5361,7 @@
       "patrimonio_liquido": 673740000.0,
       "vacancia_fisica": 0.02,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
@@ -5459,7 +5459,7 @@
       "patrimonio_liquido": 605600000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.13,
@@ -5557,7 +5557,7 @@
       "patrimonio_liquido": 730630000.0,
       "vacancia_fisica": 9.9,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 2.0,
@@ -5655,7 +5655,7 @@
       "patrimonio_liquido": 3080000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.09,
@@ -5753,7 +5753,7 @@
       "patrimonio_liquido": 1420000000.0,
       "vacancia_fisica": 3.4,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.11,
@@ -5851,7 +5851,7 @@
       "patrimonio_liquido": 447800000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.2,
@@ -7305,7 +7305,7 @@
       "patrimonio_liquido": 146480000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.77265,
@@ -7441,7 +7441,7 @@
       "patrimonio_liquido": 165220000.0,
       "vacancia_fisica": 8.5,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.037,
@@ -8049,7 +8049,7 @@
       "patrimonio_liquido": 104840000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
@@ -8138,7 +8138,7 @@
       "nome": "ESTOQUE RESIDENCIAL E COMERCIAL RJ",
       "segmento": "Residencial",
       "setor_atuacao": "Residencial",
-      "preco": 5008.34,
+      "preco": 3.67,
       "p_vp": 0.39,
       "p_l": 0.0,
       "valor_patrimonial_cota": 9311.47,
@@ -8147,7 +8147,7 @@
       "patrimonio_liquido": 22120000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 23.03918,
@@ -8441,7 +8441,7 @@
       "patrimonio_liquido": 135700000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.13,
@@ -9305,7 +9305,7 @@
       "patrimonio_liquido": 22980000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 19.0,
@@ -9843,7 +9843,7 @@
       "patrimonio_liquido": 436540000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.92,
@@ -10333,7 +10333,7 @@
       "patrimonio_liquido": 65860000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 2.575,
@@ -11149,7 +11149,7 @@
       "patrimonio_liquido": 661720000.0,
       "vacancia_fisica": 8.5,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.07,
@@ -12041,7 +12041,7 @@
       "patrimonio_liquido": 208980000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.75,
@@ -12538,7 +12538,7 @@
       "nome": "MAUÁ CAPITAL MPD DESENV. RESID.",
       "segmento": "Multicategoria",
       "setor_atuacao": "Multicategoria",
-      "preco": 67.92,
+      "preco": 66.39,
       "p_vp": 0.99,
       "p_l": 0.0,
       "valor_patrimonial_cota": 67.28,
@@ -12547,7 +12547,7 @@
       "patrimonio_liquido": 35690000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.64,
@@ -12645,7 +12645,7 @@
       "patrimonio_liquido": 1590000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.0,
@@ -12743,7 +12743,7 @@
       "patrimonio_liquido": 119030000.0,
       "vacancia_fisica": 20.12,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.7,
@@ -13044,7 +13044,7 @@
       "patrimonio_liquido": 661000000.0,
       "vacancia_fisica": 2.1,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 4.83,
@@ -14695,7 +14695,7 @@
       "patrimonio_liquido": 48830000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.8,
@@ -14793,7 +14793,7 @@
       "patrimonio_liquido": 135220000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.85,
@@ -18081,7 +18081,7 @@
       "nome": "ÍCONE FII",
       "segmento": "Residencial",
       "setor_atuacao": "Residencial",
-      "preco": 500.0,
+      "preco": 487.63,
       "p_vp": 0.98,
       "p_l": 0.0,
       "valor_patrimonial_cota": 497.35,
@@ -18090,7 +18090,7 @@
       "patrimonio_liquido": 59680000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 12.36177,
@@ -18750,7 +18750,7 @@
       "nome": "INVISTA INDUSTRIAL",
       "segmento": "Logística",
       "setor_atuacao": "Logística",
-      "preco": 62.04,
+      "preco": 29.46,
       "p_vp": 721.7,
       "p_l": 0.0,
       "valor_patrimonial_cota": 48.26,
@@ -18759,7 +18759,7 @@
       "patrimonio_liquido": 345110000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.35,
@@ -19355,7 +19355,7 @@
       "patrimonio_liquido": 441100000.0,
       "vacancia_fisica": 0.7,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.73,
@@ -19665,7 +19665,7 @@
       "patrimonio_liquido": 1030000000.0,
       "vacancia_fisica": 1.8,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.77,
@@ -20283,7 +20283,7 @@
       "patrimonio_liquido": 449850000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.07,
