@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-10-17T04:12:33.068210Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-10-17T11:31:20.307723Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1062,
   "fiis": {
@@ -157,7 +157,7 @@
       "preco": 10.34,
       "p_vp": 1.02,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 10.18,
+      "valor_patrimonial_cota": 10.2,
       "dy_12m": 16.39,
       "dy_mensal": 1.3658,
       "patrimonio_liquido": 51700000.0,
@@ -22353,7 +22353,7 @@
       "patrimonio_liquido": 126080000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.12,
@@ -30168,7 +30168,7 @@
       "patrimonio_liquido": 218079000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.305254,
@@ -39162,7 +39162,7 @@
       "patrimonio_liquido": 915787000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7+b2",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.889536,
@@ -39650,7 +39650,7 @@
       "patrimonio_liquido": 18700000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.22655,
@@ -45813,7 +45813,7 @@
       "patrimonio_liquido": 9157760.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 2.527136,
@@ -51184,7 +51184,7 @@
       "patrimonio_liquido": 787842.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.413504,
@@ -58958,7 +58958,7 @@
       "patrimonio_liquido": 4940000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072303,
@@ -61025,7 +61025,7 @@
       "patrimonio_liquido": 10881900.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.665185,
@@ -64317,7 +64317,7 @@
       "nome": "METISA - Metalúrgica Timboense",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.13,
       "p_vp": 1.36,
       "p_l": 18.62,
       "valor_patrimonial_cota": 53.15,
@@ -64326,7 +64326,7 @@
       "patrimonio_liquido": 467180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -69095,7 +69095,7 @@
       "patrimonio_liquido": 5060960.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.010014,
@@ -71604,7 +71604,7 @@
       "patrimonio_liquido": 228180.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 7.100797,
