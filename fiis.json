@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-10-21T04:31:23.265434Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-10-21T12:50:29.091762Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1064,
   "fiis": {
@@ -37594,7 +37594,7 @@
       "preco": 6.82,
       "p_vp": 1.72,
       "p_l": 11.62,
-      "valor_patrimonial_cota": 3.86,
+      "valor_patrimonial_cota": 3.96,
       "dy_12m": 9.86,
       "dy_mensal": 0.8217,
       "patrimonio_liquido": 5314.15,
@@ -39275,7 +39275,7 @@
       "patrimonio_liquido": 948073000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+b2",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.889536,
@@ -39763,7 +39763,7 @@
       "patrimonio_liquido": 18700000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.22655,
@@ -53843,7 +53843,7 @@
       "patrimonio_liquido": 671550000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.763078,
@@ -64430,7 +64430,7 @@
       "nome": "METISA - Metalúrgica Timboense",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.13,
       "p_vp": 1.36,
       "p_l": 18.62,
       "valor_patrimonial_cota": 53.15,
@@ -64439,7 +64439,7 @@
       "patrimonio_liquido": 467180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -70180,7 +70180,7 @@
       "patrimonio_liquido": 27100000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.55658,
@@ -72000,7 +72000,7 @@
       "nome": "SCHULZ",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Motores, Compressores e Outros",
-      "preco": 27.94,
+      "preco": 26.53,
       "p_vp": 6.05,
       "p_l": 36.51,
       "valor_patrimonial_cota": 4.38,
@@ -72009,7 +72009,7 @@
       "patrimonio_liquido": 1570000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072956,
