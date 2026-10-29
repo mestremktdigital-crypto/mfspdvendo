@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-29T05:35:34.090322Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-10-29T14:03:22.598835Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1064,
+  "fiis_com_dados_completos": 1065,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -7217,7 +7217,7 @@
       "patrimonio_liquido": 349140000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.106,
@@ -31319,7 +31319,7 @@
       "patrimonio_liquido": 90060000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.079247,
@@ -33988,7 +33988,7 @@
       "patrimonio_liquido": 303120000.0,
       "vacancia_fisica": 13.71,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.07,
@@ -39295,7 +39295,7 @@
       "patrimonio_liquido": 1047000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+b2",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.889536,
@@ -46082,7 +46082,7 @@
       "patrimonio_liquido": 2920000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.088,
@@ -46353,7 +46353,7 @@
       "preco": 7.7,
       "p_vp": 0.35,
       "p_l": 15.02,
-      "valor_patrimonial_cota": 21.95,
+      "valor_patrimonial_cota": 22.09,
       "dy_12m": 0.0,
       "dy_mensal": 0.0,
       "patrimonio_liquido": 1393.83,
@@ -48892,7 +48892,7 @@
       "preco": 34.18,
       "p_vp": 0.51,
       "p_l": 4.37,
-      "valor_patrimonial_cota": 46.99,
+      "valor_patrimonial_cota": 48.89,
       "dy_12m": 0.7,
       "dy_mensal": 0.0583,
       "patrimonio_liquido": 6519.15,
@@ -48990,7 +48990,7 @@
       "preco": 28.96,
       "p_vp": 0.43,
       "p_l": 3.7,
-      "valor_patrimonial_cota": 46.99,
+      "valor_patrimonial_cota": 48.89,
       "dy_12m": 5.12,
       "dy_mensal": 0.4267,
       "patrimonio_liquido": 286917.0,
@@ -49088,7 +49088,7 @@
       "preco": 35.0,
       "p_vp": 0.52,
       "p_l": 4.48,
-      "valor_patrimonial_cota": 46.99,
+      "valor_patrimonial_cota": 48.89,
       "dy_12m": 0.0,
       "dy_mensal": 0.0,
       "patrimonio_liquido": 0.0,
@@ -68147,7 +68147,7 @@
       "nome": "POLPAR S.A.",
       "segmento": "Financeiro",
       "setor_atuacao": "Outros",
-      "preco": 0.0,
+      "preco": 244.77,
       "p_vp": 0.51,
       "p_l": 11.79,
       "valor_patrimonial_cota": 483.29,
@@ -68155,8 +68155,8 @@
       "dy_mensal": 0.5342,
       "patrimonio_liquido": 49150000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 3.99883,
@@ -72034,7 +72034,7 @@
       "patrimonio_liquido": 1570000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072956,
