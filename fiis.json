@@ -1,8 +1,8 @@
 {
-  "gerado_em": "2026-10-31T05:23:40.957511Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-10-31T13:30:16.286399Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
-  "fiis_com_dados_completos": 1067,
+  "fiis_com_dados_completos": 1068,
   "fiis": {
     "ADSH11": {
       "nome": "AD SHOPPING FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -380,7 +380,7 @@
       "patrimonio_liquido": 193131000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.09,
@@ -494,7 +494,7 @@
       "patrimonio_liquido": 1594380000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.084,
@@ -4523,7 +4523,7 @@
       "patrimonio_liquido": 620790000.0,
       "vacancia_fisica": 7.05,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.92,
@@ -5567,7 +5567,7 @@
       "patrimonio_liquido": 658714000.0,
       "vacancia_fisica": 16.72,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 2.0,
@@ -7217,7 +7217,7 @@
       "patrimonio_liquido": 349140000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.106,
@@ -7315,7 +7315,7 @@
       "patrimonio_liquido": 160447000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.76538,
@@ -9875,7 +9875,7 @@
       "patrimonio_liquido": 400692000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.94,
@@ -18808,7 +18808,7 @@
       "patrimonio_liquido": 443612000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.33,
@@ -22707,7 +22707,7 @@
       "patrimonio_liquido": 806860000.0,
       "vacancia_fisica": 11.63,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.1,
@@ -24031,7 +24031,7 @@
       "patrimonio_liquido": 154701000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 86.40607,
@@ -26593,8 +26593,13 @@
       "patrimonio_liquido": 307591000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 0.0935,
+          "data_com": "2026-10-30",
+          "data_pagamento": "2026-11-09"
+        },
         {
           "valor_por_cota": 0.098,
           "data_com": "2026-09-30",
@@ -26664,17 +26669,12 @@
           "valor_por_cota": 0.095,
           "data_com": "2025-08-29",
           "data_pagamento": "2025-09-05"
-        },
-        {
-          "valor_por_cota": 0.092,
-          "data_com": "2025-07-31",
-          "data_pagamento": "2025-08-07"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.098,
-        "data_com": "2026-09-30",
-        "data_pagamento": "2026-10-07"
+        "valor_por_cota": 0.0935,
+        "data_com": "2026-10-30",
+        "data_pagamento": "2026-11-09"
       },
       "_chk_i7": "2026-10-31"
     },
@@ -33906,7 +33906,7 @@
       "patrimonio_liquido": 130180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 11.16,
@@ -34037,7 +34037,7 @@
       "patrimonio_liquido": 303120000.0,
       "vacancia_fisica": 13.71,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.07,
@@ -36634,7 +36634,7 @@
       "patrimonio_liquido": 6225020000.0,
       "vacancia_fisica": 5.2,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.92,
@@ -38117,7 +38117,7 @@
       "patrimonio_liquido": 156336.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.491789,
@@ -38215,7 +38215,7 @@
       "patrimonio_liquido": 43853400.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.540968,
@@ -39349,7 +39349,7 @@
       "patrimonio_liquido": 1032670000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+b2",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.889536,
@@ -43846,7 +43846,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.00047,
@@ -48104,7 +48104,7 @@
       "patrimonio_liquido": 38416.6,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 5.091391,
@@ -48202,7 +48202,7 @@
       "patrimonio_liquido": 145750.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 5.091391,
@@ -48806,7 +48806,7 @@
       "patrimonio_liquido": 50234200.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.141493,
@@ -52358,7 +52358,7 @@
       "patrimonio_liquido": 899400.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.501231,
@@ -52431,7 +52431,7 @@
       "patrimonio_liquido": 29450.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.503434,
@@ -52509,7 +52509,7 @@
       "patrimonio_liquido": 153327000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.55,
@@ -56900,7 +56900,7 @@
       "patrimonio_liquido": 8869510.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.251577,
@@ -57585,7 +57585,7 @@
       "patrimonio_liquido": 101808000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.324828,
@@ -65743,6 +65743,11 @@
       "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
+          "valor_por_cota": 0.465,
+          "data_com": "2026-11-05",
+          "data_pagamento": "2027-09-30"
+        },
+        {
           "valor_por_cota": 0.446,
           "data_com": "2026-09-04",
           "data_pagamento": "2027-09-30"
@@ -65784,8 +65789,8 @@
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.446,
-        "data_com": "2026-09-04",
+        "valor_por_cota": 0.465,
+        "data_com": "2026-11-05",
         "data_pagamento": "2027-09-30"
       },
       "_chk_i7": "2026-10-31"
@@ -65805,6 +65810,11 @@
       "dados_completos": true,
       "fonte_dados": "f4+i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 0.465,
+          "data_com": "2026-11-05",
+          "data_pagamento": "2027-09-30"
+        },
         {
           "valor_por_cota": 0.446,
           "data_com": "2026-09-04",
@@ -65874,16 +65884,11 @@
           "valor_por_cota": 0.34788,
           "data_com": "2023-05-03",
           "data_pagamento": "2023-09-29"
-        },
-        {
-          "valor_por_cota": 0.62,
-          "data_com": "2023-04-05",
-          "data_pagamento": "2023-09-30"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.446,
-        "data_com": "2026-09-04",
+        "valor_por_cota": 0.465,
+        "data_com": "2026-11-05",
         "data_pagamento": "2027-09-30"
       },
       "_chk_i7": "2026-10-31"
@@ -65901,7 +65906,7 @@
       "patrimonio_liquido": 126681.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.36004,
@@ -66079,7 +66084,7 @@
       "patrimonio_liquido": 23639800.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.01,
@@ -68211,7 +68216,7 @@
       "nome": "POLPAR S.A.",
       "segmento": "Financeiro",
       "setor_atuacao": "Outros",
-      "preco": 0.0,
+      "preco": 244.77,
       "p_vp": 0.51,
       "p_l": 11.79,
       "valor_patrimonial_cota": 483.29,
@@ -68219,8 +68224,8 @@
       "dy_mensal": 0.5342,
       "patrimonio_liquido": 49150000.0,
       "vacancia_fisica": 0.0,
-      "dados_completos": false,
-      "fonte_dados": "i7+b2",
+      "dados_completos": true,
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 3.99883,
