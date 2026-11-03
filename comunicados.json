@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-31T00:48:27.293993Z",
+  "gerado_em": "2026-11-03T03:10:18.608757Z",
   "comunicados": [
     {
       "id": "c_AFHI11_1360885",
@@ -839,20 +839,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_AROA11_1263980",
-      "ticker": "AROA11",
-      "tipo": "Assembleia",
-      "titulo": "Assembleia, AGO (Sumário das Decisões) - 07/2026",
-      "data": "24.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1263980&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_AROA11_rend_latest",
       "ticker": "AROA11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,01 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,01 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/aroa11#comunicados",
       "resumoIa": null
     },
@@ -1085,8 +1076,8 @@
       "id": "c_ARXD11_rend_latest",
       "ticker": "ARXD11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,09 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,09 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/arxd11#comunicados",
       "resumoIa": null
     },
@@ -1145,20 +1136,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_AZPE11_1245234",
-      "ticker": "AZPE11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
-      "data": "13.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1245234&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_AZPE11_rend_latest",
       "ticker": "AZPE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,13 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,11 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/azpe11#comunicados",
       "resumoIa": null
     },
@@ -1226,20 +1208,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_AZPL11_1290838",
-      "ticker": "AZPL11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290838&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_AZPL11_rend_latest",
       "ticker": "AZPL11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,08 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,08 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/azpl11#comunicados",
       "resumoIa": null
     },
@@ -1307,20 +1280,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_BCRI11_1300065",
-      "ticker": "BCRI11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "25.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1300065&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_BCRI11_rend_latest",
       "ticker": "BCRI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,74 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,70 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/bcri11#comunicados",
       "resumoIa": null
     },
@@ -1460,20 +1424,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_BTML11_1280015",
-      "ticker": "BTML11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Anual - 08/2026",
-      "data": "07.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1280015&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_BTML11_rend_latest",
       "ticker": "BTML11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,95 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,92 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/btml11#comunicados",
       "resumoIa": null
     },
@@ -1685,20 +1640,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_BBFO11_1295983",
-      "ticker": "BBFO11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "18.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295983&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_BBFO11_rend_latest",
       "ticker": "BBFO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,95 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,80 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/bbfo11#comunicados",
       "resumoIa": null
     },
@@ -1778,8 +1724,8 @@
       "id": "c_BBIG11_rend_latest",
       "ticker": "BBIG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,03 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,04 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/bbig11#comunicados",
       "resumoIa": null
     },
@@ -1859,8 +1805,8 @@
       "id": "c_BBRC11_rend_latest",
       "ticker": "BBRC11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,05 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,05 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/bbrc11#comunicados",
       "resumoIa": null
     },
@@ -2327,8 +2273,8 @@
       "id": "c_BCIA11_rend_latest",
       "ticker": "BCIA11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,86 (Pag: 29/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,86 (Pag: 30/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/bcia11#comunicados",
       "resumoIa": null
     },
@@ -2468,6 +2414,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_FATN11_1366812",
+      "ticker": "FATN11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 10/2026",
+      "data": "30.10.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1366812&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_FATN11_1358349",
       "ticker": "FATN11",
       "tipo": "Comunicado",
@@ -2528,15 +2483,6 @@
       "titulo": "Relatórios, Relatório Gerencial - 08/2026",
       "data": "28.08.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1303134&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_FATN11_1292683",
-      "ticker": "FATN11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1292683&cvm=true",
       "resumoIa": null
     },
     {
@@ -2684,20 +2630,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_BRCO11_1295268",
-      "ticker": "BRCO11",
-      "tipo": "Comunicado",
-      "titulo": "Fatos Relevantes - 08/2026",
-      "data": "17.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295268&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_BRCO11_rend_latest",
       "ticker": "BRCO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,91 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,91 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/brco11#comunicados",
       "resumoIa": null
     },
@@ -2765,20 +2702,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_BICE11_1320600",
-      "ticker": "BICE11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 09/2026",
-      "data": "15.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1320600&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_BICE11_rend_latest",
       "ticker": "BICE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 3,88 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,56 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/bice11#comunicados",
       "resumoIa": null
     },
@@ -3629,6 +3557,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_BTCI11_1366580",
+      "ticker": "BTCI11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 10/2026",
+      "data": "30.10.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1366580&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_BTCI11_1348535",
       "ticker": "BTCI11",
       "tipo": "Informes Periódicos",
@@ -3689,15 +3626,6 @@
       "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
       "data": "13.08.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1288586&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_BTCI11_1285730",
-      "ticker": "BTCI11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "12.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1285730&cvm=true",
       "resumoIa": null
     },
     {
@@ -3953,6 +3881,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_BTYU11_1366590",
+      "ticker": "BTYU11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 10/2026",
+      "data": "30.10.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1366590&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_BTYU11_1359910",
       "ticker": "BTYU11",
       "tipo": "Comunicado",
@@ -4013,15 +3950,6 @@
       "titulo": "Fatos Relevantes - 09/2026",
       "data": "14.09.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1318830&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_BTYU11_1318729",
-      "ticker": "BTYU11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 09/2026",
-      "data": "14.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1318729&cvm=true",
       "resumoIa": null
     },
     {
@@ -4109,8 +4037,8 @@
       "id": "c_BTWR11_rend_latest",
       "ticker": "BTWR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,60 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,70 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/btwr11#comunicados",
       "resumoIa": null
     },
@@ -4259,20 +4187,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_CXCO11_1281976",
-      "ticker": "CXCO11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "10.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1281976&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_CXCO11_rend_latest",
       "ticker": "CXCO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,75 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,75 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/cxco11#comunicados",
       "resumoIa": null
     },
@@ -4835,6 +4754,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_CPTS11_1366529",
+      "ticker": "CPTS11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 10/2026",
+      "data": "30.10.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1366529&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_CPTS11_1351768",
       "ticker": "CPTS11",
       "tipo": "Informes Periódicos",
@@ -4895,15 +4823,6 @@
       "titulo": "Relatórios, Relatório Gerencial - 09/2026",
       "data": "01.09.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1307357&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_CPTS11_1299613",
-      "ticker": "CPTS11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "25.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1299613&cvm=true",
       "resumoIa": null
     },
     {
@@ -5141,20 +5060,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_CBOP11_1294103",
-      "ticker": "CBOP11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1294103&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_CBOP11_rend_latest",
       "ticker": "CBOP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,20 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,20 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/cbop11#comunicados",
       "resumoIa": null
     },
@@ -5600,20 +5510,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_CJCT11_1296225",
-      "ticker": "CJCT11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "18.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1296225&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_CJCT11_rend_latest",
       "ticker": "CJCT11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,24 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,24 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/cjct11#comunicados",
       "resumoIa": null
     },
@@ -5681,20 +5582,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_CIXM11_1300036",
-      "ticker": "CIXM11",
-      "tipo": "Comunicado",
-      "titulo": "Regulamento - 08/2026",
-      "data": "25.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1300036&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_CIXM11_rend_latest",
       "ticker": "CIXM11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,17 (Pag: 09/10/2026)",
-      "data": "02/10/2026",
+      "titulo": "Rendimento: R$ 0,17 (Pag: 10/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/cixm11#comunicados",
       "resumoIa": null
     },
@@ -5765,9 +5657,18 @@
       "id": "c_PDBM11_rend_latest",
       "ticker": "PDBM11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,88 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,88 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pdbm11#comunicados",
+      "resumoIa": null
+    },
+    {
+      "id": "c_CLIN11_1366587",
+      "ticker": "CLIN11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 10/2026",
+      "data": "30.10.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1366587&cvm=true",
       "resumoIa": null
     },
     {
@@ -5831,15 +5732,6 @@
       "titulo": "Informes Periódicos, Demonstrações Financeiras - 09/2026",
       "data": "09.09.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1312954&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_CLIN11_1313261",
-      "ticker": "CLIN11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 09/2026",
-      "data": "09.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1313261&cvm=true",
       "resumoIa": null
     },
     {
@@ -6242,8 +6134,8 @@
       "id": "c_CYCR11_rend_latest",
       "ticker": "CYCR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,11 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,11 (Pag: 12/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/cycr11#comunicados",
       "resumoIa": null
     },
@@ -7445,20 +7337,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_KEVE11_1322506",
-      "ticker": "KEVE11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 09/2026",
-      "data": "16.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1322506&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_KEVE11_rend_latest",
       "ticker": "KEVE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 14,22 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 16,93 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/keve11#comunicados",
       "resumoIa": null
     },
@@ -7700,8 +7583,8 @@
       "id": "c_VRTA11_rend_latest",
       "ticker": "VRTA11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,85 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,85 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vrta11#comunicados",
       "resumoIa": null
     },
@@ -7781,8 +7664,8 @@
       "id": "c_VRTM11_rend_latest",
       "ticker": "VRTM11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,09 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,09 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vrtm11#comunicados",
       "resumoIa": null
     },
@@ -8075,20 +7958,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_EURO11_1282705",
-      "ticker": "EURO11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "11.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1282705&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_EURO11_rend_latest",
       "ticker": "EURO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,90 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,90 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/euro11#comunicados",
       "resumoIa": null
     },
@@ -8309,20 +8183,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_FIIB11_1300274",
-      "ticker": "FIIB11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "26.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1300274&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_FIIB11_rend_latest",
       "ticker": "FIIB11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 3,30 (Pag: 09/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 3,50 (Pag: 10/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/fiib11#comunicados",
       "resumoIa": null
     },
@@ -8399,6 +8264,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_FMOF11_rend_latest",
+      "ticker": "FMOF11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Rendimento: R$ 5,00 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
+      "urlOriginal": "https://www.fundsexplorer.com.br/funds/fmof11#comunicados",
+      "resumoIa": null
+    },
+    {
       "id": "c_ALMI11_1365396",
       "ticker": "ALMI11",
       "tipo": "Aviso aos Cotistas",
@@ -8462,20 +8336,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_ALMI11_1290867",
-      "ticker": "ALMI11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290867&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_ALMI11_rend_latest",
       "ticker": "ALMI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 6,61 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 8,55 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/almi11#comunicados",
       "resumoIa": null
     },
@@ -8708,8 +8573,8 @@
       "id": "c_KFOF11_rend_latest",
       "ticker": "KFOF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,80 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,80 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/kfof11#comunicados",
       "resumoIa": null
     },
@@ -9470,20 +9335,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_NSLU11_1293080",
-      "ticker": "NSLU11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1293080&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_NSLU11_rend_latest",
       "ticker": "NSLU11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,81 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,81 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/nslu11#comunicados",
       "resumoIa": null
     },
@@ -9632,20 +9488,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_PQDP11_1282147",
-      "ticker": "PQDP11",
-      "tipo": "Comunicado",
-      "titulo": "Oferta Pública de Distribuição de Cotas - 08/2026",
-      "data": "10.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1282147&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_PQDP11_rend_latest",
       "ticker": "PQDP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 13,10 (Pag: 20/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 12,01 (Pag: 19/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pqdp11#comunicados",
       "resumoIa": null
     },
@@ -10409,8 +10256,8 @@
       "id": "c_CXAG11_rend_latest",
       "ticker": "CXAG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,72 (Pag: 19/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,32 (Pag: 18/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/cxag11#comunicados",
       "resumoIa": null
     },
@@ -10847,20 +10694,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_EDFO11_1290555",
-      "ticker": "EDFO11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290555&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_EDFO11_rend_latest",
       "ticker": "EDFO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,84 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,83 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/edfo11#comunicados",
       "resumoIa": null
     },
@@ -10931,8 +10769,8 @@
       "id": "c_NVHO11_rend_latest",
       "ticker": "NVHO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,09 (Pag: 08/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,10 (Pag: 10/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/nvho11#comunicados",
       "resumoIa": null
     },
@@ -11012,8 +10850,8 @@
       "id": "c_GTWR11_rend_latest",
       "ticker": "GTWR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,90 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,90 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/gtwr11#comunicados",
       "resumoIa": null
     },
@@ -11225,20 +11063,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_HUSC11_1288526",
-      "ticker": "HUSC11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1288526&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_HUSC11_rend_latest",
       "ticker": "HUSC11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,15 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,14 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/husc11#comunicados",
       "resumoIa": null
     },
@@ -11318,8 +11147,8 @@
       "id": "c_HOSI11_rend_latest",
       "ticker": "HOSI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,03 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,07 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hosi11#comunicados",
       "resumoIa": null
     },
@@ -11390,8 +11219,8 @@
       "id": "c_FINF11_rend_latest",
       "ticker": "FINF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,35 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,24 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/finf11#comunicados",
       "resumoIa": null
     },
@@ -12227,8 +12056,8 @@
       "id": "c_VPSI11_rend_latest",
       "ticker": "VPSI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,24 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,25 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vpsi11#comunicados",
       "resumoIa": null
     },
@@ -12389,8 +12218,8 @@
       "id": "c_RZTR11_rend_latest",
       "ticker": "RZTR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,85 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,85 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rztr11#comunicados",
       "resumoIa": null
     },
@@ -12890,20 +12719,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_SPVJ11_1250277",
-      "ticker": "SPVJ11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
-      "data": "15.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1250277&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_SPVJ11_rend_latest",
       "ticker": "SPVJ11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,13 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,13 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/spvj11#comunicados",
       "resumoIa": null
     },
@@ -12971,20 +12791,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_TGAR11_1302549",
-      "ticker": "TGAR11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "27.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1302549&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_TGAR11_rend_latest",
       "ticker": "TGAR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,70 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,46 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/tgar11#comunicados",
       "resumoIa": null
     },
@@ -13136,8 +12947,8 @@
       "id": "c_LVBI11_rend_latest",
       "ticker": "LVBI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,80 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,80 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/lvbi11#comunicados",
       "resumoIa": null
     },
@@ -13217,8 +13028,8 @@
       "id": "c_PVBI11_rend_latest",
       "ticker": "PVBI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,37 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,37 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pvbi11#comunicados",
       "resumoIa": null
     },
@@ -13280,8 +13091,8 @@
       "id": "c_VERE11_rend_latest",
       "ticker": "VERE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 3,00 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 3,00 (Pag: 10/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vere11#comunicados",
       "resumoIa": null
     },
@@ -13433,8 +13244,8 @@
       "id": "c_VSHO11_rend_latest",
       "ticker": "VSHO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,50 (Pag: 08/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,50 (Pag: 10/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vsho11#comunicados",
       "resumoIa": null
     },
@@ -14177,20 +13988,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_FIGS11_1295389",
-      "ticker": "FIGS11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "17.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295389&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_FIGS11_rend_latest",
       "ticker": "FIGS11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,48 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,48 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/figs11#comunicados",
       "resumoIa": null
     },
@@ -14270,7 +14072,7 @@
       "id": "c_GSFI11_rend_latest",
       "ticker": "GSFI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,10 (Pag: 16/11/2026)",
+      "titulo": "Rendimento: R$ 0,11 (Pag: 16/11/2026)",
       "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/gsfi11#comunicados",
       "resumoIa": null
@@ -14423,8 +14225,8 @@
       "id": "c_ABCP11_rend_latest",
       "ticker": "ABCP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,55 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,55 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/abcp11#comunicados",
       "resumoIa": null
     },
@@ -14585,8 +14387,8 @@
       "id": "c_GARE11_rend_latest",
       "ticker": "GARE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,08 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,08 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/gare11#comunicados",
       "resumoIa": null
     },
@@ -15032,20 +14834,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_ATSA11_1295388",
-      "ticker": "ATSA11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "17.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295388&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_ATSA11_rend_latest",
       "ticker": "ATSA11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,20 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,20 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/atsa11#comunicados",
       "resumoIa": null
     },
@@ -15113,20 +14906,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_HGBL11_1295232",
-      "ticker": "HGBL11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "17.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295232&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_HGBL11_rend_latest",
       "ticker": "HGBL11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,07 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,07 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hgbl11#comunicados",
       "resumoIa": null
     },
@@ -15206,8 +14990,8 @@
       "id": "c_HGBS11_rend_latest",
       "ticker": "HGBS11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,17 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,17 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hgbs11#comunicados",
       "resumoIa": null
     },
@@ -15347,20 +15131,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_FLRP11_1295647",
-      "ticker": "FLRP11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "18.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295647&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_FLRP11_rend_latest",
       "ticker": "FLRP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,15 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,15 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/flrp11#comunicados",
       "resumoIa": null
     },
@@ -15428,20 +15203,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_HLOG11_1296237",
-      "ticker": "HLOG11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "18.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1296237&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_HLOG11_rend_latest",
       "ticker": "HLOG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,07 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,07 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hlog11#comunicados",
       "resumoIa": null
     },
@@ -15737,8 +15503,8 @@
       "id": "c_HREC11_rend_latest",
       "ticker": "HREC11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,10 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,10 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hrec11#comunicados",
       "resumoIa": null
     },
@@ -15818,8 +15584,8 @@
       "id": "c_SEED11_rend_latest",
       "ticker": "SEED11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,24 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,39 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/seed11#comunicados",
       "resumoIa": null
     },
@@ -15899,8 +15665,8 @@
       "id": "c_HPDP11_rend_latest",
       "ticker": "HPDP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,61 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,61 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hpdp11#comunicados",
       "resumoIa": null
     },
@@ -15968,20 +15734,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_HFOF11_1293538",
-      "ticker": "HFOF11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1293538&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_HFOF11_rend_latest",
       "ticker": "HFOF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,06 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,06 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hfof11#comunicados",
       "resumoIa": null
     },
@@ -16214,8 +15971,8 @@
       "id": "c_HIRE11_rend_latest",
       "ticker": "HIRE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,95 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,90 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hire11#comunicados",
       "resumoIa": null
     },
@@ -16364,20 +16121,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_HTMX11_1305459",
-      "ticker": "HTMX11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
-      "data": "31.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1305459&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_HTMX11_rend_latest",
       "ticker": "HTMX11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,20 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,20 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/htmx11#comunicados",
       "resumoIa": null
     },
@@ -16457,8 +16205,8 @@
       "id": "c_HSAF11_rend_latest",
       "ticker": "HSAF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,95 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,95 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hsaf11#comunicados",
       "resumoIa": null
     },
@@ -16619,8 +16367,8 @@
       "id": "c_HSML11_rend_latest",
       "ticker": "HSML11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,75 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,75 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hsml11#comunicados",
       "resumoIa": null
     },
@@ -16688,20 +16436,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_HUSI11_1289788",
-      "ticker": "HUSI11",
-      "tipo": "Assembleia",
-      "titulo": "Assembleia, AGE (Outros Documentos) - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1289788&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_HUSI11_rend_latest",
       "ticker": "HUSI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 10,77 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 10,83 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/husi11#comunicados",
       "resumoIa": null
     },
@@ -16781,8 +16520,8 @@
       "id": "c_IVCI11_rend_latest",
       "ticker": "IVCI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,64 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,19 (Pag: 12/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/ivci11#comunicados",
       "resumoIa": null
     },
@@ -16850,20 +16589,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_GRUL11_1290846",
-      "ticker": "GRUL11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290846&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_GRUL11_rend_latest",
       "ticker": "GRUL11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,08 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,08 (Pag: 12/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/grul11#comunicados",
       "resumoIa": null
     },
@@ -17048,20 +16778,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_INLG11_1295281",
-      "ticker": "INLG11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "17.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295281&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_INLG11_rend_latest",
       "ticker": "INLG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,60 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,60 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/inlg11#comunicados",
       "resumoIa": null
     },
@@ -17285,8 +17006,8 @@
       "id": "c_ITIT11_rend_latest",
       "ticker": "ITIT11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,62 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,60 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/itit11#comunicados",
       "resumoIa": null
     },
@@ -17597,20 +17318,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_ICRI11_1291552",
-      "ticker": "ICRI11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1291552&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_ICRI11_rend_latest",
       "ticker": "ICRI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,00 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,05 (Pag: 12/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/icri11#comunicados",
       "resumoIa": null
     },
@@ -17678,20 +17390,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_TMPS11_1319819",
-      "ticker": "TMPS11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 09/2026",
-      "data": "15.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1319819&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_TMPS11_rend_latest",
       "ticker": "TMPS11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,70 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,75 (Pag: 12/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/tmps11#comunicados",
       "resumoIa": null
     },
@@ -17759,20 +17462,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_ITRI11_1300545",
-      "ticker": "ITRI11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "26.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1300545&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_ITRI11_rend_latest",
       "ticker": "ITRI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,80 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,75 (Pag: 12/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/itri11#comunicados",
       "resumoIa": null
     },
@@ -18056,20 +17750,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_VJFD11_1289567",
-      "ticker": "VJFD11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1289567&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_VJFD11_rend_latest",
       "ticker": "VJFD11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,88 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,88 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vjfd11#comunicados",
       "resumoIa": null
     },
@@ -18137,20 +17822,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_JFLL11_1278707",
-      "ticker": "JFLL11",
-      "tipo": "Assembleia",
-      "titulo": "Assembleia, AGO (Carta Consulta) - 08/2026",
-      "data": "06.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1278707&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_JFLL11_rend_latest",
       "ticker": "JFLL11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,15 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,15 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/jfll11#comunicados",
       "resumoIa": null
     },
@@ -18311,8 +17987,8 @@
       "id": "c_JPPA11_rend_latest",
       "ticker": "JPPA11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,20 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,20 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/jppa11#comunicados",
       "resumoIa": null
     },
@@ -18380,20 +18056,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_JSAF11_1293591",
-      "ticker": "JSAF11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1293591&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_JSAF11_rend_latest",
       "ticker": "JSAF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,08 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,08 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/jsaf11#comunicados",
       "resumoIa": null
     },
@@ -18461,20 +18128,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_JSRE11_1293587",
-      "ticker": "JSRE11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1293587&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_JSRE11_rend_latest",
       "ticker": "JSRE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,50 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,50 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/jsre11#comunicados",
       "resumoIa": null
     },
@@ -18542,20 +18200,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_JSCR11_1300495",
-      "ticker": "JSCR11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "26.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1300495&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_JSCR11_rend_latest",
       "ticker": "JSCR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,09 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,09 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/jscr11#comunicados",
       "resumoIa": null
     },
@@ -18932,8 +18581,8 @@
       "id": "c_KCRE11_rend_latest",
       "ticker": "KCRE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,07 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,07 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/kcre11#comunicados",
       "resumoIa": null
     },
@@ -19085,8 +18734,8 @@
       "id": "c_KFEN11_rend_latest",
       "ticker": "KFEN11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 6,53 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 7,65 (Pag: 12/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/kfen11#comunicados",
       "resumoIa": null
     },
@@ -19166,8 +18815,8 @@
       "id": "c_KNHF11_rend_latest",
       "ticker": "KNHF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,00 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,00 (Pag: 12/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/knhf11#comunicados",
       "resumoIa": null
     },
@@ -19247,8 +18896,8 @@
       "id": "c_KNHY11_rend_latest",
       "ticker": "KNHY11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,70 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,86 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/knhy11#comunicados",
       "resumoIa": null
     },
@@ -19400,8 +19049,8 @@
       "id": "c_KNIP11_rend_latest",
       "ticker": "KNIP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,60 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,71 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/knip11#comunicados",
       "resumoIa": null
     },
@@ -19481,8 +19130,8 @@
       "id": "c_KORE11_rend_latest",
       "ticker": "KORE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,60 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,60 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/kore11#comunicados",
       "resumoIa": null
     },
@@ -19796,8 +19445,8 @@
       "id": "c_KNSC11_rend_latest",
       "ticker": "KNSC11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,08 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,08 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/knsc11#comunicados",
       "resumoIa": null
     },
@@ -19877,8 +19526,8 @@
       "id": "c_KNUQ11_rend_latest",
       "ticker": "KNUQ11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,15 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,06 (Pag: 12/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/knuq11#comunicados",
       "resumoIa": null
     },
@@ -20378,20 +20027,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_LASC11_1288838",
-      "ticker": "LASC11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1288838&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_LASC11_rend_latest",
       "ticker": "LASC11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,66 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,62 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/lasc11#comunicados",
       "resumoIa": null
     },
@@ -20459,20 +20099,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_LIFE11_1290900",
-      "ticker": "LIFE11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290900&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_LIFE11_rend_latest",
       "ticker": "LIFE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,12 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,12 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/life11#comunicados",
       "resumoIa": null
     },
@@ -20612,20 +20243,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_MANA11_1298560",
-      "ticker": "MANA11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "21.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298560&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_MANA11_rend_latest",
       "ticker": "MANA11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,12 (Pag: 22/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,11 (Pag: 24/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/mana11#comunicados",
       "resumoIa": null
     },
@@ -20927,21 +20549,21 @@
       "resumoIa": null
     },
     {
-      "id": "c_MXRF11_1290586",
-      "ticker": "MXRF11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290586&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_MXRF11_rend_latest",
       "ticker": "MXRF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,10 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,10 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/mxrf11#comunicados",
+      "resumoIa": null
+    },
+    {
+      "id": "c_MFII11_1365299",
+      "ticker": "MFII11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 10/2026",
+      "data": "30.10.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1365299&cvm=true",
       "resumoIa": null
     },
     {
@@ -20999,29 +20621,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_MFII11_1291983",
-      "ticker": "MFII11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1291983&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_MFII11_1288755",
-      "ticker": "MFII11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1288755&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_MFII11_rend_latest",
       "ticker": "MFII11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,30 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,30 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/mfii11#comunicados",
       "resumoIa": null
     },
@@ -21341,6 +20945,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_APTO11_1365612",
+      "ticker": "APTO11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 10/2026",
+      "data": "30.10.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1365612&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_APTO11_1356086",
       "ticker": "APTO11",
       "tipo": "Relatórios",
@@ -21404,20 +21017,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_APTO11_1323093",
-      "ticker": "APTO11",
-      "tipo": "Comunicado",
-      "titulo": "Fatos Relevantes - 09/2026",
-      "data": "17.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1323093&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_APTO11_rend_latest",
       "ticker": "APTO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,05 (Pag: 21/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,05 (Pag: 23/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/apto11#comunicados",
       "resumoIa": null
     },
@@ -21569,8 +21173,8 @@
       "id": "c_NEWL11_rend_latest",
       "ticker": "NEWL11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,00 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,00 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/newl11#comunicados",
       "resumoIa": null
     },
@@ -21638,20 +21242,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_NEWU11_1305457",
-      "ticker": "NEWU11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
-      "data": "31.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1305457&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_NEWU11_rend_latest",
       "ticker": "NEWU11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,70 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,70 (Pag: 15/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/newu11#comunicados",
       "resumoIa": null
     },
@@ -21722,8 +21317,8 @@
       "id": "c_NVIF11_rend_latest",
       "ticker": "NVIF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,34 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,33 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/nvif11#comunicados",
       "resumoIa": null
     },
@@ -21782,20 +21377,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_OCRE11_1250705",
-      "ticker": "OCRE11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
-      "data": "15.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1250705&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_OCRE11_rend_latest",
       "ticker": "OCRE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,27 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,30 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/ocre11#comunicados",
       "resumoIa": null
     },
@@ -21947,8 +21533,8 @@
       "id": "c_ARRI11_rend_latest",
       "ticker": "ARRI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,05 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,05 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/arri11#comunicados",
       "resumoIa": null
     },
@@ -22190,8 +21776,8 @@
       "id": "c_OUJP11_rend_latest",
       "ticker": "OUJP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,20 (Pag: 13/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,50 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/oujp11#comunicados",
       "resumoIa": null
     },
@@ -22505,8 +22091,8 @@
       "id": "c_PMIS11_rend_latest",
       "ticker": "PMIS11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,09 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,09 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pmis11#comunicados",
       "resumoIa": null
     },
@@ -22658,8 +22244,8 @@
       "id": "c_PQAG11_rend_latest",
       "ticker": "PQAG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,49 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,51 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pqag11#comunicados",
       "resumoIa": null
     },
@@ -22739,8 +22325,8 @@
       "id": "c_PATA11_rend_latest",
       "ticker": "PATA11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,08 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,08 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pata11#comunicados",
       "resumoIa": null
     },
@@ -23051,20 +22637,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_PATC11_1294038",
-      "ticker": "PATC11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1294038&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_PATC11_rend_latest",
       "ticker": "PATC11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,09 (Pag: 09/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,09 (Pag: 10/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/patc11#comunicados",
       "resumoIa": null
     },
@@ -23144,8 +22721,8 @@
       "id": "c_HGRE11_rend_latest",
       "ticker": "HGRE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,85 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,85 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hgre11#comunicados",
       "resumoIa": null
     },
@@ -23225,8 +22802,8 @@
       "id": "c_HGLG11_rend_latest",
       "ticker": "HGLG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,17 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,17 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hglg11#comunicados",
       "resumoIa": null
     },
@@ -23306,8 +22883,8 @@
       "id": "c_PLAG11_rend_latest",
       "ticker": "PLAG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,68 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,68 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/plag11#comunicados",
       "resumoIa": null
     },
@@ -23447,20 +23024,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_RBRL11_1305405",
-      "ticker": "RBRL11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
-      "data": "31.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1305405&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_RBRL11_rend_latest",
       "ticker": "RBRL11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,60 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,60 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rbrl11#comunicados",
       "resumoIa": null
     },
@@ -23540,8 +23108,8 @@
       "id": "c_PMLL11_rend_latest",
       "ticker": "PMLL11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,00 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,00 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pmll11#comunicados",
       "resumoIa": null
     },
@@ -23627,78 +23195,6 @@
       "resumoIa": null
     },
     {
-      "id": "c_RBRK11_1356188",
-      "ticker": "RBRK11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 10/2026",
-      "data": "21.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356188&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRK11_1352035",
-      "ticker": "RBRK11",
-      "tipo": "Comunicado",
-      "titulo": "Aviso aos Cotistas - 10/2026",
-      "data": "15.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1352035&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRK11_1348642",
-      "ticker": "RBRK11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 10/2026",
-      "data": "14.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1348642&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRK11_1325480",
-      "ticker": "RBRK11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 09/2026",
-      "data": "21.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1325480&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRK11_1320653",
-      "ticker": "RBRK11",
-      "tipo": "Comunicado",
-      "titulo": "Aviso aos Cotistas - 09/2026",
-      "data": "15.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1320653&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRK11_1319405",
-      "ticker": "RBRK11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 09/2026",
-      "data": "14.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1319405&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRK11_1297948",
-      "ticker": "RBRK11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "20.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1297948&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_RBRK11_1293222",
-      "ticker": "RBRK11",
-      "tipo": "Comunicado",
-      "titulo": "Aviso aos Cotistas - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1293222&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_HGCR11_1365804",
       "ticker": "HGCR11",
       "tipo": "Aviso aos Cotistas",
@@ -23762,20 +23258,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_HGCR11_1293845",
-      "ticker": "HGCR11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1293845&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_HGCR11_rend_latest",
       "ticker": "HGCR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,00 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,00 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hgcr11#comunicados",
       "resumoIa": null
     },
@@ -23843,20 +23330,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_VCRR11_1290967",
-      "ticker": "VCRR11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290967&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_VCRR11_rend_latest",
       "ticker": "VCRR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,56 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,40 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vcrr11#comunicados",
       "resumoIa": null
     },
@@ -23936,8 +23414,8 @@
       "id": "c_HGRU11_rend_latest",
       "ticker": "HGRU11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,95 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,95 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/hgru11#comunicados",
       "resumoIa": null
     },
@@ -24167,20 +23645,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_PEMA11_1277833",
-      "ticker": "PEMA11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "05.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1277833&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_PEMA11_rend_latest",
       "ticker": "PEMA11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,29 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,21 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pema11#comunicados",
       "resumoIa": null
     },
@@ -24320,20 +23789,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_PORD11_1305052",
-      "ticker": "PORD11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "31.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1305052&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_PORD11_rend_latest",
       "ticker": "PORD11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,10 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,09 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pord11#comunicados",
       "resumoIa": null
     },
@@ -24629,8 +24089,8 @@
       "id": "c_TSER11_rend_latest",
       "ticker": "TSER11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,69 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,70 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/tser11#comunicados",
       "resumoIa": null
     },
@@ -24794,78 +24254,6 @@
       "titulo": "Rendimento: R$ 48,99 (Pag: 29/07/2026)",
       "data": "22/07/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/pblv11#comunicados",
-      "resumoIa": null
-    },
-    {
-      "id": "c_QTZD11_1356299",
-      "ticker": "QTZD11",
-      "tipo": "Comunicado",
-      "titulo": "Oferta Pública de Distribuição de Cotas - 10/2026",
-      "data": "22.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1356299&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_QTZD11_1354926",
-      "ticker": "QTZD11",
-      "tipo": "Comunicado",
-      "titulo": "Oferta Pública de Distribuição de Cotas - 10/2026",
-      "data": "20.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1354926&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_QTZD11_1350133",
-      "ticker": "QTZD11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 10/2026",
-      "data": "14.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1350133&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_QTZD11_1345822",
-      "ticker": "QTZD11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 10/2026",
-      "data": "09.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1345822&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_QTZD11_1342281",
-      "ticker": "QTZD11",
-      "tipo": "Comunicado",
-      "titulo": "Aviso aos Cotistas - 10/2026",
-      "data": "07.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1342281&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_QTZD11_1318188",
-      "ticker": "QTZD11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 09/2026",
-      "data": "14.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1318188&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_QTZD11_1319304",
-      "ticker": "QTZD11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 09/2026",
-      "data": "14.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1319304&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_QTZD11_1312023",
-      "ticker": "QTZD11",
-      "tipo": "Comunicado",
-      "titulo": "Aviso aos Cotistas - 09/2026",
-      "data": "08.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1312023&cvm=true",
       "resumoIa": null
     },
     {
@@ -25547,8 +24935,8 @@
       "id": "c_FIIP11_rend_latest",
       "ticker": "FIIP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,42 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,44 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/fiip11#comunicados",
       "resumoIa": null
     },
@@ -25616,20 +25004,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_RBRD11_1290848",
-      "ticker": "RBRD11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290848&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_RBRD11_rend_latest",
       "ticker": "RBRD11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,55 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,58 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rbrd11#comunicados",
       "resumoIa": null
     },
@@ -25997,8 +25376,8 @@
       "id": "c_RPRI11_rend_latest",
       "ticker": "RPRI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,65 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,90 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rpri11#comunicados",
       "resumoIa": null
     },
@@ -26231,8 +25610,8 @@
       "id": "c_RECD11_rend_latest",
       "ticker": "RECD11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,05 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,07 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/recd11#comunicados",
       "resumoIa": null
     },
@@ -26474,8 +25853,8 @@
       "id": "c_RBHG11_rend_latest",
       "ticker": "RBHG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,78 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,75 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rbhg11#comunicados",
       "resumoIa": null
     },
@@ -26543,20 +25922,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_RBHY11_1305134",
-      "ticker": "RBHY11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 08/2026",
-      "data": "31.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1305134&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_RBHY11_rend_latest",
       "ticker": "RBHY11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,95 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,90 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rbhy11#comunicados",
       "resumoIa": null
     },
@@ -26708,8 +26078,8 @@
       "id": "c_RBFM11_rend_latest",
       "ticker": "RBFM11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,11 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,11 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rbfm11#comunicados",
       "resumoIa": null
     },
@@ -26789,8 +26159,8 @@
       "id": "c_RBOP11_rend_latest",
       "ticker": "RBOP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,45 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,45 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rbop11#comunicados",
       "resumoIa": null
     },
@@ -26870,8 +26240,8 @@
       "id": "c_RCRB11_rend_latest",
       "ticker": "RCRB11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,30 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,30 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rcrb11#comunicados",
       "resumoIa": null
     },
@@ -26951,8 +26321,8 @@
       "id": "c_RBRS11_rend_latest",
       "ticker": "RBRS11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,20 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,20 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rbrs11#comunicados",
       "resumoIa": null
     },
@@ -27032,8 +26402,8 @@
       "id": "c_RBVA11_rend_latest",
       "ticker": "RBVA11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,09 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,09 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rbva11#comunicados",
       "resumoIa": null
     },
@@ -27113,8 +26483,8 @@
       "id": "c_RNGO11_rend_latest",
       "ticker": "RNGO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,52 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,52 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/rngo11#comunicados",
       "resumoIa": null
     },
@@ -27446,8 +26816,8 @@
       "id": "c_SAPI11_rend_latest",
       "ticker": "SAPI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,11 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,10 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/sapi11#comunicados",
       "resumoIa": null
     },
@@ -27761,8 +27131,8 @@
       "id": "c_SHPH11_rend_latest",
       "ticker": "SHPH11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 4,50 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 4,50 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/shph11#comunicados",
       "resumoIa": null
     },
@@ -27911,20 +27281,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_WPLZ11_1295649",
-      "ticker": "WPLZ11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "18.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295649&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_WPLZ11_rend_latest",
       "ticker": "WPLZ11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,37 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,37 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/wplz11#comunicados",
       "resumoIa": null
     },
@@ -28145,6 +27506,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_SPTW11_1366421",
+      "ticker": "SPTW11",
+      "tipo": "Comunicado",
+      "titulo": "Fatos Relevantes - 10/2026",
+      "data": "30.10.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1366421&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_SPTW11_1365773",
       "ticker": "SPTW11",
       "tipo": "Comunicado",
@@ -28205,15 +27575,6 @@
       "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
       "data": "13.08.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1288888&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_SPTW11_1287328",
-      "ticker": "SPTW11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "12.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1287328&cvm=true",
       "resumoIa": null
     },
     {
@@ -28289,20 +27650,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_SPAF11_1288457",
-      "ticker": "SPAF11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1288457&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_SPAF11_rend_latest",
       "ticker": "SPAF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 10,37 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 6,96 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/spaf11#comunicados",
       "resumoIa": null
     },
@@ -28985,8 +28337,8 @@
       "id": "c_STRX11_rend_latest",
       "ticker": "STRX11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,85 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,95 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/strx11#comunicados",
       "resumoIa": null
     },
@@ -29687,8 +29039,8 @@
       "id": "c_TEPP11_rend_latest",
       "ticker": "TEPP11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,07 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,07 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/tepp11#comunicados",
       "resumoIa": null
     },
@@ -29768,8 +29120,8 @@
       "id": "c_TRBL11_rend_latest",
       "ticker": "TRBL11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,44 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,44 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/trbl11#comunicados",
       "resumoIa": null
     },
@@ -29990,6 +29342,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_TVRI11_rend_latest",
+      "ticker": "TVRI11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Rendimento: R$ 1,05 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
+      "urlOriginal": "https://www.fundsexplorer.com.br/funds/tvri11#comunicados",
+      "resumoIa": null
+    },
+    {
       "id": "c_VOTS11_1364868",
       "ticker": "VOTS11",
       "tipo": "Aviso aos Cotistas",
@@ -30053,20 +29414,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_VOTS11_1285460",
-      "ticker": "VOTS11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "12.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1285460&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_VOTS11_rend_latest",
       "ticker": "VOTS11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,20 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,20 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vots11#comunicados",
       "resumoIa": null
     },
@@ -30422,20 +29774,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_TRXY11_1294442",
-      "ticker": "TRXY11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1294442&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_TRXY11_rend_latest",
       "ticker": "TRXY11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,11 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,11 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/trxy11#comunicados",
       "resumoIa": null
     },
@@ -30512,6 +29855,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_TRXF11_rend_latest",
+      "ticker": "TRXF11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Rendimento: R$ 0,93 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
+      "urlOriginal": "https://www.fundsexplorer.com.br/funds/trxf11#comunicados",
+      "resumoIa": null
+    },
+    {
       "id": "c_TRXB11_1364873",
       "ticker": "TRXB11",
       "tipo": "Aviso aos Cotistas",
@@ -30575,20 +29927,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_TRXB11_1298556",
-      "ticker": "TRXB11",
-      "tipo": "Comunicado",
-      "titulo": "Fatos Relevantes - 08/2026",
-      "data": "21.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1298556&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_TRXB11_rend_latest",
       "ticker": "TRXB11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 3,00 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,00 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/trxb11#comunicados",
       "resumoIa": null
     },
@@ -30728,20 +30071,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_URHF11_1290839",
-      "ticker": "URHF11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290839&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_URHF11_rend_latest",
       "ticker": "URHF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,97 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 1,00 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/urhf11#comunicados",
       "resumoIa": null
     },
@@ -30800,20 +30134,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_URPR11_1250183",
-      "ticker": "URPR11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
-      "data": "15.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1250183&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_URPR11_rend_latest",
       "ticker": "URPR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,30 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,30 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/urpr11#comunicados",
       "resumoIa": null
     },
@@ -31529,20 +30854,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_VGHF11_1294272",
-      "ticker": "VGHF11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1294272&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_VGHF11_rend_latest",
       "ticker": "VGHF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,06 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,05 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vghf11#comunicados",
       "resumoIa": null
     },
@@ -31610,20 +30926,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_VGRI11_1290770",
-      "ticker": "VGRI11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1290770&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_VGRI11_rend_latest",
       "ticker": "VGRI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,08 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,08 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vgri11#comunicados",
       "resumoIa": null
     },
@@ -31691,20 +30998,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_BLMO11_1293934",
-      "ticker": "BLMO11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1293934&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_BLMO11_rend_latest",
       "ticker": "BLMO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,35 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,35 (Pag: 11/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/blmo11#comunicados",
       "resumoIa": null
     },
@@ -31784,8 +31082,8 @@
       "id": "c_VCJR11_rend_latest",
       "ticker": "VCJR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,75 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,82 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vcjr11#comunicados",
       "resumoIa": null
     },
@@ -32078,20 +31376,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_FVPQ11_1295648",
-      "ticker": "FVPQ11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 08/2026",
-      "data": "18.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295648&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_FVPQ11_rend_latest",
       "ticker": "FVPQ11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,45 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,25 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/fvpq11#comunicados",
       "resumoIa": null
     },
@@ -32165,6 +31454,15 @@
       "titulo": "Informes Periódicos, Informe Trimestral - 09/2026",
       "data": "21.09.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1325176&cvm=true",
+      "resumoIa": null
+    },
+    {
+      "id": "c_VIDS11_rend_latest",
+      "ticker": "VIDS11",
+      "tipo": "Aviso aos Cotistas",
+      "titulo": "Rendimento: R$ 27,70 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
+      "urlOriginal": "https://www.fundsexplorer.com.br/funds/vids11#comunicados",
       "resumoIa": null
     },
     {
@@ -32303,20 +31601,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_VCRI11_1294456",
-      "ticker": "VCRI11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1294456&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_VCRI11_rend_latest",
       "ticker": "VCRI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,09 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,09 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vcri11#comunicados",
       "resumoIa": null
     },
@@ -32456,30 +31745,21 @@
       "resumoIa": null
     },
     {
-      "id": "c_VILG11_1294449",
-      "ticker": "VILG11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1294449&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_VILG11_rend_latest",
       "ticker": "VILG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,82 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,82 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vilg11#comunicados",
       "resumoIa": null
     },
     {
-      "id": "c_VINO11_1365615",
+      "id": "c_VINO11_1366545",
       "ticker": "VINO11",
       "tipo": "Aviso aos Cotistas",
       "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 10/2026",
       "data": "30.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1365615&cvm=true",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1366545&cvm=true",
       "resumoIa": null
     },
     {
@@ -32537,20 +31817,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_VINO11_1294452",
-      "ticker": "VINO11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1294452&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_VINO11_rend_latest",
       "ticker": "VINO11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,04 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,05 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/vino11#comunicados",
       "resumoIa": null
     },
@@ -32618,20 +31889,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_VISC11_1295356",
-      "ticker": "VISC11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Outros Relatórios - 08/2026",
-      "data": "17.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295356&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_VISC11_rend_latest",
       "ticker": "VISC11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,84 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,84 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/visc11#comunicados",
       "resumoIa": null
     },
@@ -32690,20 +31952,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_SPDE11_1250007",
-      "ticker": "SPDE11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 07/2026",
-      "data": "15.07.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1250007&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_SPDE11_rend_latest",
       "ticker": "SPDE11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 93,61 (Pag: 07/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 174,30 (Pag: 09/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/spde11#comunicados",
       "resumoIa": null
     },
@@ -32852,20 +32105,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_XLPR11_1289654",
-      "ticker": "XLPR11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Trimestral - 08/2026",
-      "data": "13.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1289654&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_XLPR11_rend_latest",
       "ticker": "XLPR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,34 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,39 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/xlpr11#comunicados",
       "resumoIa": null
     },
@@ -33077,20 +32321,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_XPLG11_1295414",
-      "ticker": "XPLG11",
-      "tipo": "Comunicado",
-      "titulo": "Fatos Relevantes - 08/2026",
-      "data": "17.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1295414&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_XPLG11_rend_latest",
       "ticker": "XPLG11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,82 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,82 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/xplg11#comunicados",
       "resumoIa": null
     },
@@ -33239,20 +32474,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_XPSF11_1292937",
-      "ticker": "XPSF11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 08/2026",
-      "data": "14.08.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1292937&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_XPSF11_rend_latest",
       "ticker": "XPSF11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,07 (Pag: 15/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,07 (Pag: 16/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/xpsf11#comunicados",
       "resumoIa": null
     },
@@ -33410,6 +32636,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_GGRC11_1366347",
+      "ticker": "GGRC11",
+      "tipo": "Assembleia",
+      "titulo": "Assembleia, AGO (Carta Consulta) - 10/2026",
+      "data": "30.10.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1366347&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_GGRC11_1366307",
       "ticker": "GGRC11",
       "tipo": "Comunicado",
@@ -33470,15 +32705,6 @@
       "titulo": "Informes Periódicos, Demonstrações Financeiras - 10/2026",
       "data": "03.10.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1339373&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_GGRC11_1337686",
-      "ticker": "GGRC11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 10/2026",
-      "data": "01.10.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1337686&cvm=true",
       "resumoIa": null
     },
     {
@@ -33566,8 +32792,8 @@
       "id": "c_ZAVC11_rend_latest",
       "ticker": "ZAVC11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,13 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,13 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/zavc11#comunicados",
       "resumoIa": null
     },
@@ -33647,8 +32873,8 @@
       "id": "c_ZAVI11_rend_latest",
       "ticker": "ZAVI11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,12 (Pag: 14/10/2026)",
-      "data": "30/09/2026",
+      "titulo": "Rendimento: R$ 0,11 (Pag: 13/11/2026)",
+      "data": "30/10/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/zavi11#comunicados",
       "resumoIa": null
     },
