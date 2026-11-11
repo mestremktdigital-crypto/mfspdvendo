@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-11-11T05:57:22.272942Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-11-11T15:01:10.919956Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1069,
   "fiis": {
@@ -22499,7 +22499,7 @@
       "patrimonio_liquido": 126560000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.12,
@@ -39183,7 +39183,7 @@
       "preco": 3.18,
       "p_vp": 0.74,
       "p_l": 17.16,
-      "valor_patrimonial_cota": 3.97,
+      "valor_patrimonial_cota": 4.27,
       "dy_12m": 12.72,
       "dy_mensal": 1.06,
       "patrimonio_liquido": 7807420.0,
@@ -39503,7 +39503,7 @@
       "patrimonio_liquido": 1039050000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7+b2",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.889536,
@@ -40813,7 +40813,7 @@
       "preco": 0.0,
       "p_vp": 3.0,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 6.45,
+      "valor_patrimonial_cota": 6.46,
       "dy_12m": 0.0,
       "dy_mensal": 0.0,
       "patrimonio_liquido": 0.0,
@@ -57844,7 +57844,7 @@
       "preco": 66.95,
       "p_vp": 5.84,
       "p_l": -3584.82,
-      "valor_patrimonial_cota": 7.42,
+      "valor_patrimonial_cota": 7.45,
       "dy_12m": 2.39,
       "dy_mensal": 0.1992,
       "patrimonio_liquido": 0.0,
@@ -59309,7 +59309,7 @@
       "patrimonio_liquido": 5370000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072378,
@@ -70455,7 +70455,7 @@
       "preco": 6.26,
       "p_vp": 0.58,
       "p_l": 2.04,
-      "valor_patrimonial_cota": 5.43,
+      "valor_patrimonial_cota": 10.83,
       "dy_12m": 52.62,
       "dy_mensal": 4.385,
       "patrimonio_liquido": 24826400.0,
