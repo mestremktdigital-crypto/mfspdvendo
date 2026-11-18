@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-11-18T07:10:29.524536Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-11-18T16:20:05.371741Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1070,
   "fiis": {
@@ -4652,7 +4652,7 @@
       "preco": 535.0,
       "p_vp": 0.76,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 1008.64,
+      "valor_patrimonial_cota": 669.77,
       "dy_12m": 18.2,
       "dy_mensal": 1.5167,
       "patrimonio_liquido": 160500000.0,
@@ -39553,7 +39553,7 @@
       "patrimonio_liquido": 1048140000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7+b2",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.889536,
@@ -40032,8 +40032,8 @@
       "nome": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
       "segmento": "Financeiro",
       "setor_atuacao": "Serviços Financeiros Diversos",
-      "preco": 14.65,
-      "p_vp": 3.92,
+      "preco": 14.12,
+      "p_vp": 3.77,
       "p_l": 14.27,
       "valor_patrimonial_cota": 3.74,
       "dy_12m": 5.03,
@@ -40041,7 +40041,7 @@
       "patrimonio_liquido": 18880000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.22655,
@@ -54141,7 +54141,7 @@
       "patrimonio_liquido": 698110000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.763078,
@@ -59369,7 +59369,7 @@
       "patrimonio_liquido": 5370000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072378,
@@ -64733,7 +64733,7 @@
       "nome": "METISA - Metalúrgica Timboense",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.13,
       "p_vp": 1.35,
       "p_l": 18.62,
       "valor_patrimonial_cota": 53.43,
@@ -64742,7 +64742,7 @@
       "patrimonio_liquido": 469600000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
