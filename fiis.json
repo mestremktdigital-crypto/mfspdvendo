@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-11-20T15:59:44.508769Z",
-  "fonte": "f4+i7",
+  "gerado_em": "2026-11-21T06:55:02.100669Z",
+  "fonte": "f4+b2+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1071,
   "fiis": {
@@ -60,7 +60,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-23"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "AFHI11": {
       "nome": "AF INVEST CRI",
@@ -158,7 +158,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "AFHF11": {
       "nome": "AF INVEST REAL ESTATE MULTIESTRATÉGIA FII",
@@ -256,7 +256,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ATWN11": {
       "nome": "A-TOWN",
@@ -370,7 +370,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ALZC11": {
       "nome": "FII ALIANZAC",
@@ -468,7 +468,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MTOF11": {
       "nome": "MULTIOFFICES 1",
@@ -582,7 +582,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "AURB11": {
       "nome": "ALIANZA URBAN HUB RENDA",
@@ -778,10 +778,10 @@
         "data_com": "2026-10-20",
         "data_pagamento": "2026-10-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "APXU11": {
-      "nome": "APEX URB FII RESPONSABILIDADE LTDA",
+      "nome": "Apex Urb Fundo de Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 99.0,
@@ -793,7 +793,7 @@
       "patrimonio_liquido": 7420000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "AIEC11": {
@@ -1808,7 +1808,7 @@
         "data_com": "2023-05-25",
         "data_pagamento": "2023-05-26"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BPDR11": {
       "nome": "BPDR11",
@@ -1830,10 +1830,10 @@
       "nome": "BASÍLICA PARTNERS LED CORPORATE",
       "segmento": "",
       "setor_atuacao": "",
-      "preco": 323.97,
+      "preco": 323.53,
       "p_vp": 12.0,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 9959.51,
+      "valor_patrimonial_cota": 9945.88,
       "dy_12m": 0.0,
       "dy_mensal": 0.0,
       "patrimonio_liquido": 324540000.0,
@@ -1892,7 +1892,7 @@
         "data_com": "2023-03-06",
         "data_pagamento": "2023-03-08"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "BPMW11": {
       "nome": "BPMW11",
@@ -2240,7 +2240,7 @@
         "data_com": "2026-07-16",
         "data_pagamento": "2026-08-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BFCC11": {
       "nome": "Bfc Fundo De Investimento Imobiliario",
@@ -2885,13 +2885,13 @@
       "preco": 3.09,
       "p_vp": 0.09,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 34.35,
+      "valor_patrimonial_cota": 34.32,
       "dy_12m": 0.0,
       "dy_mensal": 0.0,
       "patrimonio_liquido": 22251800.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.041925,
@@ -2949,7 +2949,7 @@
         "data_com": "2021-09-06",
         "data_pagamento": "2021-09-15"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "FATN11": {
       "nome": "ATHENA I",
@@ -2958,13 +2958,13 @@
       "preco": 75.91,
       "p_vp": 0.77,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 97.25,
+      "valor_patrimonial_cota": 97.97,
       "dy_12m": 12.52,
       "dy_mensal": 1.0433,
       "patrimonio_liquido": 575033000.0,
       "vacancia_fisica": 5.62,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.8,
@@ -3047,7 +3047,7 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "RTEL11": {
       "nome": "BRC - II FII",
@@ -3373,7 +3373,7 @@
         "data_com": "2026-10-20",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BIME11": {
       "nome": "BRIO MULTIESTRATÉGIA",
@@ -3382,13 +3382,13 @@
       "preco": 4.23,
       "p_vp": 0.55,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 7.82,
+      "valor_patrimonial_cota": 7.64,
       "dy_12m": 17.97,
       "dy_mensal": 1.4975,
       "patrimonio_liquido": 24726900.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.06,
@@ -3471,7 +3471,7 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "BRIM11": {
       "nome": "BRIO REAL ESTATE II",
@@ -3676,13 +3676,13 @@
       "preco": 989.33,
       "p_vp": 0.91,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 1090.34,
+      "valor_patrimonial_cota": 1088.15,
       "dy_12m": 3.47,
       "dy_mensal": 0.2892,
       "patrimonio_liquido": 109261000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 2.85,
@@ -3730,7 +3730,7 @@
         "data_com": "2026-08-06",
         "data_pagamento": "2026-08-14"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "BIPE11": {
       "nome": "Brio Real Estate V - Fundo De Investimento Imobiliario",
@@ -3860,7 +3860,7 @@
         "data_com": "2026-11-18",
         "data_pagamento": "2026-11-26"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BETW11": {
       "nome": "BRPR E-TOWER FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -3958,7 +3958,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "LLAO11": {
       "nome": "BS2 ALLINVESTMENTS",
@@ -4001,7 +4001,7 @@
         "data_com": "2025-02-19",
         "data_pagamento": "2025-02-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BTHR11": {
       "nome": "BTHR11",
@@ -4550,7 +4550,7 @@
         "data_com": "2026-11-19",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BPML11": {
       "nome": "BTG PACTUAL SHOPPINGS",
@@ -4648,7 +4648,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BTYU11": {
       "nome": "FII BTG PACTUAL YOU INC. DESENV. IMOB.",
@@ -4942,7 +4942,7 @@
         "data_com": "2026-10-23",
         "data_pagamento": "2026-10-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CXCO11": {
       "nome": "CAIXA IMÓVEIS CORPORATIVOS",
@@ -5343,13 +5343,13 @@
       "preco": 100.07,
       "p_vp": 0.95,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 114.14,
+      "valor_patrimonial_cota": 105.54,
       "dy_12m": 23.19,
       "dy_mensal": 1.9325,
       "patrimonio_liquido": 62816300.0,
       "vacancia_fisica": 2.28,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 16.70029,
@@ -5387,7 +5387,7 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "KONG11": {
       "nome": "FII KONG    CI",
@@ -5501,7 +5501,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CPLG11": {
       "nome": "CAPITÂNIA LOGÍSTICA FII",
@@ -5599,7 +5599,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CPOF11": {
       "nome": "CAPITÂNIA OFFICE FII - FDO DE INV IMOB",
@@ -5697,7 +5697,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CPTS11": {
       "nome": "CAPITANIA SECURITIES II",
@@ -5795,7 +5795,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CPSH11": {
       "nome": "SHOPPINGS AAA FDO DE INV IMOB",
@@ -5893,7 +5893,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CACR11": {
       "nome": "CARTESIA RECEBÍVEIS IMOBILIÁRIOS",
@@ -5991,7 +5991,7 @@
         "data_com": "2026-08-21",
         "data_pagamento": "2026-09-09"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CBOP11": {
       "nome": "CASTELLO BRANCO OFFICE PARK",
@@ -6301,7 +6301,7 @@
         "data_com": "2026-06-22",
         "data_pagamento": "2026-06-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CDHY11": {
       "nome": "CDHY11",
@@ -6418,7 +6418,7 @@
       "_chk_i7": "2026-11-17"
     },
     "CENU11": {
-      "nome": "CENU - FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "nome": "Cenu - Fundo De Investimento Imobiliario",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 100.0,
@@ -6430,7 +6430,7 @@
       "patrimonio_liquido": 114000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "CFII11": {
@@ -6817,7 +6817,7 @@
       "_chk_i7": "2026-11-17"
     },
     "CIXF11": {
-      "nome": "CIX RETROFIT",
+      "nome": "Cix Retrofit Fundo De Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 114.52,
@@ -6829,7 +6829,7 @@
       "patrimonio_liquido": 11820000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "PDBM11": {
@@ -7254,7 +7254,7 @@
         "data_com": "2026-11-19",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CYCR11": {
       "nome": "Cyrela Credito - Fundo de Investimento Imobiliario",
@@ -7400,7 +7400,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "DAMA11": {
       "nome": "DAMA FUNDO DE INVESTIMENTO IMOBILIÁRIO RESP LIMITA",
@@ -7596,7 +7596,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ASRF11": {
       "nome": "ASA RETROFITS I FUNDO DE INVESTIMENTO IMOBILIÁRIO",
@@ -7710,7 +7710,7 @@
         "data_com": "2026-09-25",
         "data_pagamento": "2026-10-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "DPRO11": {
       "nome": "DEVANT PROPERTIES",
@@ -8115,7 +8115,7 @@
       "_chk_i7": "2026-11-14"
     },
     "EGYR11": {
-      "nome": "ENERGY RESORT",
+      "nome": "Energy Resort Fundo De Investimento Imobiliario",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 2.98,
@@ -8127,7 +8127,7 @@
       "patrimonio_liquido": 100820000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "EQIR11": {
@@ -8226,7 +8226,7 @@
         "data_com": "2026-11-19",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ERCR11": {
       "nome": "ESTOQUE RESIDENCIAL E COMERCIAL RJ",
@@ -8324,7 +8324,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ERPA11": {
       "nome": "EUROPA 105",
@@ -8618,7 +8618,7 @@
         "data_com": "2026-11-19",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "FLCR11": {
       "nome": "FARIA LIMA CAPITAL RECEBÍVEIS IMOBILIÁRIOS I",
@@ -8953,13 +8953,13 @@
       "preco": 150.05,
       "p_vp": 0.6,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 250.8,
+      "valor_patrimonial_cota": 251.07,
       "dy_12m": 9.4,
       "dy_mensal": 0.7833,
       "patrimonio_liquido": 207170000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.11,
@@ -9042,10 +9042,10 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "EGDB11": {
-      "nome": "FII EGDB",
+      "nome": "Fundo De Investimento Imobiliario De Desenvolvimento De Escritorios BoutiqueResponsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 1317.67,
@@ -9057,7 +9057,7 @@
       "patrimonio_liquido": 169070000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "ELDO11": {
@@ -10020,7 +10020,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CEOC11": {
       "nome": "CYRELA COMMERCIAL PROPERTIES",
@@ -10216,7 +10216,7 @@
         "data_com": "2025-03-24",
         "data_pagamento": "2025-04-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EDGA11": {
       "nome": "EDIFÍCIO GALERIA",
@@ -10314,7 +10314,7 @@
         "data_com": "2026-10-23",
         "data_pagamento": "2026-10-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "FYTO11": {
       "nome": "NCH BRASIL RECEBÍVEIS IMOBILIÁRIOS",
@@ -11329,7 +11329,7 @@
       "_chk_i7": "2026-11-18"
     },
     "APXR11": {
-      "nome": "FII APXR",
+      "nome": "Apex Realty Fundo De Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 94.0,
@@ -11341,7 +11341,7 @@
       "patrimonio_liquido": 8480000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "AUMT11": {
@@ -12218,7 +12218,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "HUCG11": {
       "nome": "HOSPITAL UNIMED CAMPINA GRANDE",
@@ -12724,7 +12724,7 @@
         "data_com": "2026-11-19",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MCCI11": {
       "nome": "MAUÁ CAPITAL RECEBÍVEIS IMOBILIÁRIOS",
@@ -12900,10 +12900,10 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PABY11": {
-      "nome": "PANAMBY",
+      "nome": "Fundo de Investimento Imobiliario Panamby Cotas",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 19.21,
@@ -12915,7 +12915,7 @@
       "patrimonio_liquido": 0.01,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "RBRY11": {
@@ -13776,10 +13776,10 @@
         "data_com": "2026-09-22",
         "data_pagamento": "2026-09-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "HOMS11": {
-      "nome": "FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "nome": "Fundo De Investimento Imobiliario Rooftop III Responsabilidade Limitada Class -Senior-",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 137.21,
@@ -13791,7 +13791,7 @@
       "patrimonio_liquido": 58610000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "FISC11": {
@@ -13801,13 +13801,13 @@
       "preco": 63.65,
       "p_vp": 0.57,
       "p_l": 0.0,
-      "valor_patrimonial_cota": 111.2,
+      "valor_patrimonial_cota": 111.12,
       "dy_12m": 11.19,
       "dy_mensal": 0.9325,
       "patrimonio_liquido": 108205000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.64,
@@ -13890,7 +13890,7 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "SAIC11": {
       "nome": "Fundo Investimento Imobiliario FII",
@@ -14235,7 +14235,7 @@
       "_chk_i7": "2026-11-20"
     },
     "TRUE11": {
-      "nome": "TRUE MULTIESTRATÉGIA",
+      "nome": "Fundo de Investimento Imobiliario True Multiestrategia - Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 25.0,
@@ -14247,7 +14247,7 @@
       "patrimonio_liquido": 68600000.0,
       "vacancia_fisica": 100.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "LVBI11": {
@@ -14545,7 +14545,7 @@
       "_chk_i7": "2026-11-14"
     },
     "FIVN11": {
-      "nome": "VIDA NOVA",
+      "nome": "Fundo de Investimento Imobiliario Vida Nova - FII Cotas",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 2.3,
@@ -14557,7 +14557,7 @@
       "patrimonio_liquido": 56090000.0,
       "vacancia_fisica": 56.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "VSHO11": {
@@ -14659,7 +14659,7 @@
       "_chk_i7": "2026-11-14"
     },
     "BMLT11": {
-      "nome": "PERMUTA FINANCEIRA LOTE5",
+      "nome": "Fundo De Investimentos Imobiliarios De Permuta Financeira Lote5 Mezanino Rl",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 108.0,
@@ -14671,7 +14671,7 @@
       "patrimonio_liquido": 33040000.0,
       "vacancia_fisica": 100.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "FIIC11": {
@@ -14691,7 +14691,7 @@
       "_chk_i7": "2026-11-20"
     },
     "BSLT11": {
-      "nome": "PERMUTA FINANCEIRA LOTE5",
+      "nome": "Fundo de Investimentos Imobilairios de Permuta Financeira Lote5 Senior Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 79.86,
@@ -14703,7 +14703,7 @@
       "patrimonio_liquido": 154780000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "TCIN11": {
@@ -14740,7 +14740,7 @@
       "_chk_i7": "2026-11-14"
     },
     "GCDL11": {
-      "nome": "Galapagos Desenvolvimento Logístico",
+      "nome": "Galapagos Desenvolvimento Logistico Fundo de Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 129.13,
@@ -14752,11 +14752,11 @@
       "patrimonio_liquido": 45070000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "GSRF11": {
-      "nome": "FII GSRF",
+      "nome": "GALAPAGOS SP SURF FUNDO DE INVESTIMENTO IMOBILIARIO RESPONSABILIDADE LIMITADA",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 121.3,
@@ -14768,7 +14768,7 @@
       "patrimonio_liquido": 61300000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "GFDL11": {
@@ -14961,7 +14961,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "GCRI11": {
       "nome": "GALAPAGOS RECEBÍVEIS IMOBILIÁRIOS",
@@ -15205,7 +15205,7 @@
         "data_com": "2026-10-23",
         "data_pagamento": "2026-10-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "FIGS11": {
       "nome": "GENERAL SHOPPING FUNDO DE INVESTIMENTO",
@@ -15384,7 +15384,7 @@
         "data_com": "2024-05-23",
         "data_pagamento": "2024-05-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ABCP11": {
       "nome": "GRAND PLAZA SHOPPING",
@@ -15485,7 +15485,7 @@
       "_chk_i7": "2026-11-14"
     },
     "GRAV11": {
-      "nome": "GRAVATAÍ SHOPPING",
+      "nome": "Gravatai Shopping Fundo de Investimento Imobiliario de Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 38.0,
@@ -15497,11 +15497,11 @@
       "patrimonio_liquido": 75000000.0,
       "vacancia_fisica": 12.1,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "RCFA11": {
-      "nome": "GRUPO RCFA",
+      "nome": "Grupo RCFA Fundo De Investimento Imobiliario",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 0.51,
@@ -15513,7 +15513,7 @@
       "patrimonio_liquido": 10410000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "GAME11": {
@@ -16039,7 +16039,7 @@
       "_chk_i7": "2026-11-14"
     },
     "HCST11": {
-      "nome": "HECTARE DESENV. STUDENT HOUSING",
+      "nome": "Hectare Desenvolvimento Student Housing Fundo de Investimennto Imobiliario",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 38.39,
@@ -16051,7 +16051,7 @@
       "patrimonio_liquido": 49310000.0,
       "vacancia_fisica": 20.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "HAAA11": {
@@ -16882,7 +16882,7 @@
       "_chk_i7": "2026-11-20"
     },
     "HDOF11": {
-      "nome": "HEDGE DESENVOLVIMENTO LOGÍSTICO",
+      "nome": "Hedge Paladin Design Offices Fundo De Investimento Imobiliario",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 75.0,
@@ -16894,7 +16894,7 @@
       "patrimonio_liquido": 301940000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "HRDF11": {
@@ -17367,7 +17367,7 @@
       "_chk_i7": "2026-11-14"
     },
     "YEES11": {
-      "nome": "HEDGE YEES HABITAÇÕES ECONÔMICAS FII DE RESP LIM",
+      "nome": "Hedge Yees Habitacoes Economicas Fundo De Investimento Imobiliario De Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 90.0,
@@ -17379,7 +17379,7 @@
       "patrimonio_liquido": 30260000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "HGIC11": {
@@ -17395,7 +17395,7 @@
       "patrimonio_liquido": 18045600.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.6,
@@ -17478,7 +17478,7 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-13"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "HIRE11": {
       "nome": "Hire Fundo De Investimento Imobiliario Responsabilidade Limitada",
@@ -18376,10 +18376,10 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "IMMB11": {
-      "nome": "IMMOBINVEST FUNDO DE INVESTIMENTO IMOBILIÁRIO",
+      "nome": "Immobinvest Fundo de Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 167.0,
@@ -18391,11 +18391,11 @@
       "patrimonio_liquido": 49540000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "INDE11": {
-      "nome": "Inter Desenvolvimento FII",
+      "nome": "Inter Desenvolvimento Fundo de Investimento Imobiliario",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 80.0,
@@ -18407,7 +18407,7 @@
       "patrimonio_liquido": 49850000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "INHF11": {
@@ -18637,7 +18637,7 @@
         "data_com": "2026-10-16",
         "data_pagamento": "2026-12-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ITIP11": {
       "nome": "INTER TEVA INDICE DE PAPEL",
@@ -18735,7 +18735,7 @@
         "data_com": "2026-10-16",
         "data_pagamento": "2026-10-23"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ITIT11": {
       "nome": "INTER TEVE INDICE DE TIJOLO",
@@ -18969,7 +18969,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "XPIN11": {
       "nome": "INVISTA INDUSTRIAL",
@@ -19067,7 +19067,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "IRIM11": {
       "nome": "IRIDIUM",
@@ -19440,7 +19440,7 @@
         "data_com": "2026-10-22",
         "data_pagamento": "2026-11-12"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ITRI11": {
       "nome": "ITAÚ TOTAL RETURN FII",
@@ -19668,7 +19668,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VJFD11": {
       "nome": "JFDCAM",
@@ -20601,7 +20601,7 @@
         "data_com": "2026-11-18",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "KIVO11": {
       "nome": "KILIMA VOLKANO RECEBÍVEIS IMOBILIÁRIOS",
@@ -22138,7 +22138,7 @@
       "patrimonio_liquido": 182226000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 3.378599,
@@ -22221,7 +22221,7 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "SLDZ11": {
       "nome": "LAV SLDZ DESENVOLVIMENTO IMOBILIÁRIO FII",
@@ -22240,7 +22240,7 @@
       "_chk_i7": "2026-11-20"
     },
     "LRED11": {
-      "nome": "LCP REAL ESTATE DEVELOPMENT FII",
+      "nome": "Lcp Real Estate Development Fundo De Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 12.0,
@@ -22252,7 +22252,7 @@
       "patrimonio_liquido": 15210000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "LSOI11": {
@@ -22386,7 +22386,7 @@
         "data_com": "2026-11-19",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "LASC11": {
       "nome": "LEGATUS SHOPPINGS",
@@ -22792,7 +22792,7 @@
       "_chk_i7": "2026-11-14"
     },
     "MMVE11": {
-      "nome": "MMVE OPORTUNIDADES IMOBILIÁRIAS",
+      "nome": "Mmve Oportunidades Imobiliarias Fundo De Investimento Imobiliario",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 70.0,
@@ -22804,7 +22804,7 @@
       "patrimonio_liquido": 78960000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "MCLO11": {
@@ -23001,7 +23001,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MXRF11": {
       "nome": "MAXI RENDA",
@@ -23230,7 +23230,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-23"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MGRI11": {
       "nome": "MOGNO PROPERTIES FII",
@@ -23375,7 +23375,7 @@
       "patrimonio_liquido": 27255000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.06,
@@ -23458,7 +23458,7 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "NAVT11": {
       "nome": "NAVI IMOBILIÁRIO TOTAL RETURN",
@@ -23869,7 +23869,7 @@
       "_chk_i7": "2026-11-14"
     },
     "NMKS11": {
-      "nome": "NM KSM LOG",
+      "nome": "NK KSM LOG Fundo de Investimento Imobiliario Responsabilidade Limitada A",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 2150.0,
@@ -23881,7 +23881,7 @@
       "patrimonio_liquido": 302250000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "NVIF11": {
@@ -24151,7 +24151,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ARRI11": {
       "nome": "ÁTRIO REIT RECEBÍVEIS IMOBILIÁRIOS",
@@ -24297,7 +24297,7 @@
         "data_com": "2026-07-16",
         "data_pagamento": "2026-08-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "FTCE11": {
       "nome": "Fundo de Investimento Imobiliário Trade Center",
@@ -24426,7 +24426,7 @@
       "patrimonio_liquido": 65317800.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.994288,
@@ -24499,7 +24499,7 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "PNDL11": {
       "nome": "PANORAMA DESENVOLVIMENTO LOGÍSTICO",
@@ -24578,7 +24578,7 @@
       "patrimonio_liquido": 42197400.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.1482,
@@ -24616,7 +24616,7 @@
         "data_com": "2026-11-06",
         "data_pagamento": "2026-11-13"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "PNRC11": {
       "nome": "PANORAMA REAL ESTATE CRÉDITO FII",
@@ -24714,7 +24714,7 @@
         "data_com": "2026-08-24",
         "data_pagamento": "2026-08-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PMIS11": {
       "nome": "Paramis Hedge Fund",
@@ -25122,7 +25122,7 @@
         "data_com": "2026-09-23",
         "data_pagamento": "2026-09-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PCIP11": {
       "nome": "PATRIA CRÉDITO IMOBILIÁRIO ÍNDICE DE PREÇOS FII",
@@ -26102,10 +26102,10 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RBRK11": {
-      "nome": "RBR PRIME OFFICES",
+      "nome": "FII RBRK PAX",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 105.51,
@@ -26117,7 +26117,7 @@
       "patrimonio_liquido": 211960000.0,
       "vacancia_fisica": 22.4,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "HGCR11": {
@@ -27467,10 +27467,10 @@
         "data_com": "2026-07-22",
         "data_pagamento": "2026-07-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "QTZD11": {
-      "nome": "QUARTZO REAL ESTATE DEVELOPMENT MULTI FII",
+      "nome": "Quartzo Real Estate Development Multiestrategia Fundo De Investimento Imobiliario Responsabilidade L",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 10.42,
@@ -27482,7 +27482,7 @@
       "patrimonio_liquido": 4920000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "RZZV11": {
@@ -28088,7 +28088,7 @@
         "data_com": "2026-05-20",
         "data_pagamento": "2026-06-01"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RBLG11": {
       "nome": "RB CAPITAL LOGÍSTICO",
@@ -30197,7 +30197,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RZAT11": {
       "nome": "RIZA ARCTIUM REAL ESTATE",
@@ -30295,7 +30295,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RZLC11": {
       "nome": "Riza Lecci",
@@ -30396,7 +30396,7 @@
       "_chk_i7": "2026-11-20"
     },
     "RJDA11": {
-      "nome": "FII RJDA",
+      "nome": "Rjdi Fundo De Investimento Imobiliario Resp Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 130.0,
@@ -30408,7 +30408,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "SAPI11": {
@@ -30590,7 +30590,7 @@
       "patrimonio_liquido": 10920000.0,
       "vacancia_fisica": 23.1,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.04,
@@ -30673,7 +30673,7 @@
         "data_com": "2026-07-06",
         "data_pagamento": "2026-07-15"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "SEQR11": {
       "nome": "SEQUOIA III RENDA IMOBILIÁRIA",
@@ -30912,7 +30912,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "WPLZ11": {
       "nome": "SHOPPING WEST PLAZA",
@@ -31146,7 +31146,7 @@
         "data_com": "2025-06-25",
         "data_pagamento": "2025-07-11"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SOLR11": {
       "nome": "SOLARIUM",
@@ -31613,7 +31613,7 @@
       "_chk_i7": "2026-11-14"
     },
     "SPGM11": {
-      "nome": "SPGM",
+      "nome": "Spgm Fundo De Investimento Imobiliario",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 13.36,
@@ -31625,7 +31625,7 @@
       "patrimonio_liquido": 4940000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "SPG211": {
@@ -32184,7 +32184,7 @@
         "data_com": "2026-11-18",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SNLG11": {
       "nome": "Suno Log Fundo de Investimento Imobiliario",
@@ -32823,7 +32823,7 @@
       "_chk_i7": "2026-11-20"
     },
     "TRPL11": {
-      "nome": "FII TRPL",
+      "nome": "Terras Paulistas Fundo de Investimento Imobiliario de Permutas Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 1.14,
@@ -32835,7 +32835,7 @@
       "patrimonio_liquido": 54030000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "TVMO11": {
@@ -32869,7 +32869,7 @@
         "data_com": "2026-11-19",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TVOI11": {
       "nome": "TIVIO OPPORTUNITIES IPCA",
@@ -32952,7 +32952,7 @@
         "data_com": "2026-11-19",
         "data_pagamento": "2026-11-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TIOM11": {
       "nome": "TIVIO OPPORTUNITIES MASTER",
@@ -33319,7 +33319,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-26"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TORD11": {
       "nome": "TORDESILHAS EI",
@@ -33432,7 +33432,7 @@
       "patrimonio_liquido": 64011300.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 7.36119,
@@ -34204,7 +34204,7 @@
       "_chk_i7": "2026-11-14"
     },
     "VVCO11": {
-      "nome": "V2 EDIFÍCIOS CORPORATIVOS",
+      "nome": "V2 Edificios Corporativos Fundode Investimento Imobiliario",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 9.18,
@@ -34216,7 +34216,7 @@
       "patrimonio_liquido": 130180000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 11.16,
@@ -34571,7 +34571,7 @@
         "data_com": "2026-11-18",
         "data_pagamento": "2026-11-26"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VVRI11": {
       "nome": "V2 RENDA IMOBILIÁRIA FDO DE INV IMOB",
@@ -34669,7 +34669,7 @@
         "data_com": "2026-11-18",
         "data_pagamento": "2026-11-26"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VGRM11": {
       "nome": "VALORA CRI CDI FLUXO MENSAL MARÇO 26 FEEDER",
@@ -35497,10 +35497,10 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VCTH11": {
-      "nome": "VERA CRUZ THREE",
+      "nome": "Vera Cruz Three Fundo De Investimento Imobiliario Responsabilidade Limitada",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 101.0,
@@ -35512,7 +35512,7 @@
       "patrimonio_liquido": 67640000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "VSLH11": {
@@ -37042,7 +37042,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "XPSF11": {
       "nome": "XP SELECTION FUNDO DE FUNDOS",
@@ -37892,7 +37892,7 @@
         "data_com": "2026-09-21",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ADHM3": {
       "nome": "ADVANCED DIGITAL HEALTH MEDICINA PREVENTIVA",
@@ -37936,7 +37936,7 @@
         "data_com": "2022-03-25",
         "data_pagamento": "2022-04-13"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "AESB3": {
       "nome": "AES BRASIL ENERGIA",
@@ -37979,7 +37979,7 @@
         "data_com": "2024-04-22",
         "data_pagamento": "2024-05-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "AFLT3": {
       "nome": "AFLUENTE",
@@ -38077,7 +38077,7 @@
         "data_com": "2026-07-24",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "AGRO3": {
       "nome": "BRASILAGRO",
@@ -38170,7 +38170,7 @@
         "data_com": "2026-10-21",
         "data_pagamento": "2026-11-16"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "AGXY3": {
       "nome": "Agrogalaxy",
@@ -38427,7 +38427,7 @@
         "data_com": "2026-11-19",
         "data_pagamento": "2026-12-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ALPA3": {
       "nome": "ALPARGATAS (Havaianas)",
@@ -38525,7 +38525,7 @@
         "data_com": "2025-12-16",
         "data_pagamento": "2026-05-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ALPA4": {
       "nome": "ALPARGATAS (Havaianas)",
@@ -38623,7 +38623,7 @@
         "data_com": "2025-12-16",
         "data_pagamento": "2026-05-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ALPK3": {
       "nome": "ALLPARK EMPREENDIMENTOS PARTICIPACOES SERVICOS S.A",
@@ -38651,7 +38651,7 @@
         "data_com": "2026-04-24",
         "data_pagamento": "2026-05-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ALUP11": {
       "nome": "ALUPAR INVESTIMENTO S/A",
@@ -38976,7 +38976,7 @@
       "patrimonio_liquido": 627753.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.013414,
@@ -39131,7 +39131,7 @@
         "data_com": "2026-04-24",
         "data_pagamento": "2026-05-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "APER3": {
       "nome": "ALPER",
@@ -39469,7 +39469,7 @@
       "patrimonio_liquido": 234233000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.104345,
@@ -39517,7 +39517,7 @@
         "data_com": "2026-01-06",
         "data_pagamento": "2026-06-26"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "AUAU3": {
       "nome": "União Pet Participações S.A. (Petz e Cobasi)",
@@ -39643,7 +39643,7 @@
         "data_com": "2025-04-24",
         "data_pagamento": "2025-05-05"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "AVLL3": {
       "nome": "ALPHAVILLE",
@@ -39674,7 +39674,7 @@
       "patrimonio_liquido": 1041670000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+b2",
       "proventos_12m": [
         {
           "valor_por_cota": 1.889536,
@@ -40147,13 +40147,13 @@
         "data_com": "2025-12-19",
         "data_pagamento": "2025-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "B3SA3": {
       "nome": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
       "segmento": "Financeiro",
       "setor_atuacao": "Serviços Financeiros Diversos",
-      "preco": 14.29,
+      "preco": 14.28,
       "p_vp": 3.82,
       "p_l": 14.27,
       "valor_patrimonial_cota": 3.74,
@@ -40162,7 +40162,7 @@
       "patrimonio_liquido": 18880000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7",
+      "fonte_dados": "i7+b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.22655,
@@ -40245,7 +40245,7 @@
         "data_com": "2026-09-22",
         "data_pagamento": "2026-10-07"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BAHI3": {
       "nome": "BAHI3",
@@ -40500,7 +40500,7 @@
         "data_com": "2026-04-24",
         "data_pagamento": "2026-06-22"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BAUH4": {
       "nome": "EXCELSIOR ALIMENTOS",
@@ -40583,7 +40583,7 @@
         "data_com": "2026-04-24",
         "data_pagamento": "2026-06-22"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BAZA3": {
       "nome": "Banco da Amazônia",
@@ -41023,7 +41023,7 @@
       "patrimonio_liquido": 324732000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.983285,
@@ -41106,7 +41106,7 @@
         "data_com": "2026-08-06",
         "data_pagamento": "2026-09-03"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "BDLL3": {
       "nome": "BARDELLA",
@@ -41675,7 +41675,7 @@
       "patrimonio_liquido": 16267700.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.2985,
@@ -41728,7 +41728,7 @@
         "data_com": "2018-04-26",
         "data_pagamento": "2018-06-21"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BIDI11": {
       "nome": "Banco Inter",
@@ -42367,7 +42367,7 @@
         "data_com": "2026-11-23",
         "data_pagamento": "2026-12-04"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BMIN3": {
       "nome": "BANCO MERCANTIL DE INVESTIMENTOS",
@@ -42382,7 +42382,7 @@
       "patrimonio_liquido": 92.86,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.511689,
@@ -42465,7 +42465,7 @@
         "data_com": "2026-03-06",
         "data_pagamento": "2026-03-18"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "BMIN4": {
       "nome": "BANCO MERCANTIL DE INVESTIMENTOS",
@@ -42480,7 +42480,7 @@
       "patrimonio_liquido": 1215.6,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 1.4,
@@ -42563,7 +42563,7 @@
         "data_com": "2026-03-06",
         "data_pagamento": "2026-03-18"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "BMKS3": {
       "nome": "BICICLETAS MONARK",
@@ -42734,7 +42734,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-11-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BNBR3": {
       "nome": "BANCO NORDESTE DO BRASIL",
@@ -42832,7 +42832,7 @@
         "data_com": "2026-08-19",
         "data_pagamento": "2026-08-26"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BOAS3": {
       "nome": "BOA VISTA",
@@ -42880,7 +42880,7 @@
         "data_com": "2022-12-21",
         "data_pagamento": "2023-04-14"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BOBR3": {
       "nome": "BOMBRIL",
@@ -43304,7 +43304,7 @@
         "data_com": "2024-12-23",
         "data_pagamento": "2025-01-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BPAR3": {
       "nome": "BANCO BANPARA",
@@ -43402,7 +43402,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-12-03"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BPAT33": {
       "nome": "BANCO PATAGONIA S.A.",
@@ -43430,7 +43430,7 @@
         "data_com": "2019-07-22",
         "data_pagamento": "2019-08-08"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BPHA3": {
       "nome": "BRASIL PHARMA S.A.",
@@ -43675,7 +43675,7 @@
         "data_com": "2026-04-20",
         "data_pagamento": "2026-04-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BRBI11": {
       "nome": "BR PARTNERS",
@@ -44067,7 +44067,7 @@
         "data_com": "2025-09-18",
         "data_pagamento": "2025-09-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BRGE11": {
       "nome": "CONSÓRCIO ALFA DE ADMINISTRAÇÃO",
@@ -44145,7 +44145,7 @@
         "data_com": "2023-01-25",
         "data_pagamento": "2023-03-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BRGE12": {
       "nome": "CONSÓRCIO ALFA DE ADMINISTRAÇÃO",
@@ -44259,7 +44259,7 @@
         "data_com": "2021-08-16",
         "data_pagamento": "2021-10-04"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BRGE5": {
       "nome": "CONSÓRCIO ALFA DE ADMINISTRAÇÃO",
@@ -44357,7 +44357,7 @@
         "data_com": "2023-01-25",
         "data_pagamento": "2023-03-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BRGE6": {
       "nome": "CONSÓRCIO ALFA DE ADMINISTRAÇÃO",
@@ -44372,7 +44372,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.23826,
@@ -44470,7 +44470,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.13899,
@@ -44568,7 +44568,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.09928,
@@ -44920,7 +44920,7 @@
         "data_com": "2022-04-19",
         "data_pagamento": "2022-05-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BRKM5": {
       "nome": "BRASKEM",
@@ -45008,7 +45008,7 @@
         "data_com": "2022-04-19",
         "data_pagamento": "2022-05-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BRKM6": {
       "nome": "BRASKEM",
@@ -45179,7 +45179,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 89.1,
@@ -45257,7 +45257,7 @@
         "data_com": "2022-04-26",
         "data_pagamento": "2022-12-20"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BRQB3": {
       "nome": "BRQ SOLUÇÕES EM INFORMATICA S.A.",
@@ -45355,7 +45355,7 @@
         "data_com": "2025-12-26",
         "data_pagamento": "2025-12-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "BRSR3": {
       "nome": "BANCO BANRISUL",
@@ -46003,7 +46003,7 @@
         "data_com": "2026-04-17",
         "data_pagamento": "2026-05-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CALI4": {
       "nome": "CONSTRUTORA ADOLPHO LINDENBERG",
@@ -46164,7 +46164,7 @@
         "data_com": "2026-11-23",
         "data_pagamento": "2026-12-07"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CAMB4": {
       "nome": "CAMBUCI S.A.",
@@ -46622,7 +46622,7 @@
         "data_com": "2026-06-25",
         "data_pagamento": "2026-08-20"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CATA4": {
       "nome": "CIA INDUSTRIAL CATAGUASES",
@@ -46690,7 +46690,7 @@
         "data_com": "2026-05-25",
         "data_pagamento": "2026-08-20"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CBAV3": {
       "nome": "CBA",
@@ -46890,7 +46890,7 @@
         "data_com": "2025-12-23",
         "data_pagamento": "2026-08-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CEBR3": {
       "nome": "CIA ENERGÉTICA DE BRASILIA",
@@ -46988,7 +46988,7 @@
         "data_com": "2026-07-20",
         "data_pagamento": "2026-07-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CEBR5": {
       "nome": "CIA ENERGÉTICA DE BRASILIA",
@@ -47086,7 +47086,7 @@
         "data_com": "2026-07-20",
         "data_pagamento": "2026-07-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CEBR6": {
       "nome": "CIA ENERGÉTICA DE BRASILIA",
@@ -47184,7 +47184,7 @@
         "data_com": "2026-07-20",
         "data_pagamento": "2026-07-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CEDO3": {
       "nome": "CEDRO TÊXTIL",
@@ -47314,7 +47314,7 @@
         "data_com": "2026-09-23",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CEEB5": {
       "nome": "COELBA",
@@ -47412,7 +47412,7 @@
         "data_com": "2026-09-23",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CEEB6": {
       "nome": "COELBA",
@@ -47510,7 +47510,7 @@
         "data_com": "2026-09-23",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CEED3": {
       "nome": "CEEE-D",
@@ -48243,7 +48243,7 @@
       "patrimonio_liquido": 6407.52,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 3.988585,
@@ -48341,7 +48341,7 @@
       "patrimonio_liquido": 129697.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 4.387443,
@@ -48522,7 +48522,7 @@
         "data_com": "2025-12-16",
         "data_pagamento": "2026-05-08"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CGRA4": {
       "nome": "GRAZZIOTIN",
@@ -48620,7 +48620,7 @@
         "data_com": "2025-12-16",
         "data_pagamento": "2026-05-08"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CIEL3": {
       "nome": "CIELO",
@@ -48635,7 +48635,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.151705,
@@ -49028,7 +49028,7 @@
         "data_com": "2026-09-22",
         "data_pagamento": "2027-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CMIG4": {
       "nome": "Companhia Energética de Minas Gerais",
@@ -49126,7 +49126,7 @@
         "data_com": "2026-09-22",
         "data_pagamento": "2027-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CMIN3": {
       "nome": "CSN MINERAÇÃO S.A.",
@@ -49224,7 +49224,7 @@
         "data_com": "2026-04-16",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CMSA3": {
       "nome": "CIMS S.A.",
@@ -49692,7 +49692,7 @@
         "data_com": "2023-04-18",
         "data_pagamento": "2023-06-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CORR4": {
       "nome": "CORREA RIBEIRO S.A. COMERCIO E INDUSTRIA",
@@ -49770,7 +49770,7 @@
         "data_com": "2023-04-18",
         "data_pagamento": "2023-06-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CPFE3": {
       "nome": "CPFL ENERGIA",
@@ -50064,7 +50064,7 @@
         "data_com": "2025-04-24",
         "data_pagamento": "2025-05-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CPLE6": {
       "nome": "COPEL",
@@ -50162,7 +50162,7 @@
         "data_com": "2025-04-24",
         "data_pagamento": "2025-05-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CPRE3": {
       "nome": "CPFL ENERGIAS RENOVÁVEIS",
@@ -50276,7 +50276,7 @@
         "data_com": "2018-04-24",
         "data_pagamento": "2018-12-28"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CRFB3": {
       "nome": "ATACADÃO",
@@ -50369,7 +50369,7 @@
         "data_com": "2024-12-23",
         "data_pagamento": "2025-01-08"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CRIV3": {
       "nome": "FINANCEIRA ALFA S.A.",
@@ -50663,7 +50663,7 @@
         "data_com": "2024-05-20",
         "data_pagamento": "2024-05-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CRPG5": {
       "nome": "TRONOX PIGMENTOS DO BRASIL",
@@ -50761,7 +50761,7 @@
         "data_com": "2024-05-20",
         "data_pagamento": "2024-05-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CRPG6": {
       "nome": "TRONOX PIGMENTOS DO BRASIL",
@@ -50859,7 +50859,7 @@
         "data_com": "2024-05-20",
         "data_pagamento": "2024-05-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CSAB3": {
       "nome": "CIA SEGUROS ALIANÇA DA BAHIA",
@@ -51299,7 +51299,7 @@
         "data_com": "2026-09-21",
         "data_pagamento": "2026-11-09"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CSNA3": {
       "nome": "COMPANHIA SIDERURGICA NACIONAL",
@@ -51397,7 +51397,7 @@
         "data_com": "2024-11-21",
         "data_pagamento": "2024-11-28"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CSRN3": {
       "nome": "COSERN",
@@ -51495,7 +51495,7 @@
         "data_com": "2024-07-25",
         "data_pagamento": "2024-09-11"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CSRN5": {
       "nome": "COSERN",
@@ -51593,7 +51593,7 @@
         "data_com": "2024-07-25",
         "data_pagamento": "2024-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CSRN6": {
       "nome": "COSERN",
@@ -51691,7 +51691,7 @@
         "data_com": "2024-07-25",
         "data_pagamento": "2024-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CSUD3": {
       "nome": "CSU DIGITAL",
@@ -52310,7 +52310,7 @@
         "data_com": "2019-12-23",
         "data_pagamento": "2020-01-08"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "CXSE3": {
       "nome": "CAIXA SEGURIDADE",
@@ -52537,7 +52537,7 @@
       "patrimonio_liquido": 8185500.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.09695,
@@ -52620,7 +52620,7 @@
         "data_com": "2022-12-26",
         "data_pagamento": "2023-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "DESK3": {
       "nome": "Desktop",
@@ -52927,7 +52927,7 @@
         "data_com": "2025-12-16",
         "data_pagamento": "2025-12-23"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "DMMO3": {
       "nome": "DOMMO ENERGIA",
@@ -52968,13 +52968,13 @@
       "preco": 6.46,
       "p_vp": 0.71,
       "p_l": -308.11,
-      "valor_patrimonial_cota": 9.07,
+      "valor_patrimonial_cota": 9.08,
       "dy_12m": 0.51,
       "dy_mensal": 0.0425,
       "patrimonio_liquido": 15.38,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.033,
@@ -53057,7 +53057,7 @@
         "data_com": "2026-05-06",
         "data_pagamento": "2026-05-27"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "DOHL4": {
       "nome": "DOHLER",
@@ -53066,13 +53066,13 @@
       "preco": 3.67,
       "p_vp": 0.4,
       "p_l": -175.04,
-      "valor_patrimonial_cota": 9.07,
+      "valor_patrimonial_cota": 9.08,
       "dy_12m": 0.99,
       "dy_mensal": 0.0825,
       "patrimonio_liquido": 6253.95,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.0363,
@@ -53155,7 +53155,7 @@
         "data_com": "2026-05-06",
         "data_pagamento": "2026-05-27"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "DOTZ3": {
       "nome": "Dotz",
@@ -53301,7 +53301,7 @@
         "data_com": "2025-03-17",
         "data_pagamento": "2025-12-18"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EALT3": {
       "nome": "ELECTRO ACO ALTONA",
@@ -53610,7 +53610,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 2.0126,
@@ -53688,7 +53688,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 2.2139,
@@ -53766,7 +53766,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 126.237756,
@@ -53814,7 +53814,7 @@
         "data_com": "2022-05-26",
         "data_pagamento": "2022-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EEEL4": {
       "nome": "CEEE-GT",
@@ -53829,7 +53829,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 138.860363,
@@ -53877,7 +53877,7 @@
         "data_com": "2022-05-26",
         "data_pagamento": "2022-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EGIE3": {
       "nome": "ENGIE BRASIL",
@@ -54073,7 +54073,7 @@
         "data_com": "2026-09-23",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EKTR4": {
       "nome": "ELEKTRO",
@@ -54171,7 +54171,7 @@
         "data_com": "2026-09-23",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ELEK3": {
       "nome": "ELEKEIROZ S.A.",
@@ -54218,7 +54218,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.173294,
@@ -54231,7 +54231,7 @@
         "data_com": "2024-04-26",
         "data_pagamento": "2024-05-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ELPL3": {
       "nome": "ENEL - ELETROPAULO",
@@ -54262,7 +54262,7 @@
       "patrimonio_liquido": 698110000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7",
+      "fonte_dados": "i7+b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.763078,
@@ -54345,7 +54345,7 @@
         "data_com": "2024-09-23",
         "data_pagamento": "2024-09-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EMAE4": {
       "nome": "EMAE - EMPRESA METROP.AGUAS ENERGIA",
@@ -54443,7 +54443,7 @@
         "data_com": "2024-09-23",
         "data_pagamento": "2024-09-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EMBJ3": {
       "nome": "EMBRAER",
@@ -54541,7 +54541,7 @@
         "data_com": "2026-09-21",
         "data_pagamento": "2027-05-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ENAT3": {
       "nome": "ENAUTA PARTICIPAÇÕES",
@@ -55307,7 +55307,7 @@
         "data_com": "2026-03-17",
         "data_pagamento": "2026-04-10"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ENMT4": {
       "nome": "ENERGISA MATO GROSSO",
@@ -55405,7 +55405,7 @@
         "data_com": "2026-03-17",
         "data_pagamento": "2026-04-10"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EPAR3": {
       "nome": "EMBPAR",
@@ -55561,7 +55561,7 @@
         "data_com": "2026-08-19",
         "data_pagamento": "2026-08-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EQPA5": {
       "nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
@@ -55659,7 +55659,7 @@
         "data_com": "2026-08-19",
         "data_pagamento": "2026-08-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EQPA6": {
       "nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
@@ -55757,7 +55757,7 @@
         "data_com": "2026-08-19",
         "data_pagamento": "2026-08-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EQPA7": {
       "nome": "EQUATORIAL PARA DISTRIBUIDORA DE ENERGIA S.A.",
@@ -55855,7 +55855,7 @@
         "data_com": "2026-08-19",
         "data_pagamento": "2026-08-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "EQTL3": {
       "nome": "EQUATORIAL ENERGIA",
@@ -56140,14 +56140,19 @@
       "preco": 19.6,
       "p_vp": 0.59,
       "p_l": 4.62,
-      "valor_patrimonial_cota": 32.61,
+      "valor_patrimonial_cota": 33.41,
       "dy_12m": 5.22,
       "dy_mensal": 0.435,
       "patrimonio_liquido": 9585.5,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 1.02266,
+          "data_com": "2025-12-30",
+          "data_pagamento": "2026-12-18"
+        },
         {
           "valor_por_cota": 0.668592,
           "data_com": "2025-01-06",
@@ -56217,19 +56222,14 @@
           "valor_por_cota": 0.0337,
           "data_com": "2012-04-16",
           "data_pagamento": "2025-04-15"
-        },
-        {
-          "valor_por_cota": 0.2285,
-          "data_com": "2011-12-23",
-          "data_pagamento": "2025-04-15"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.668592,
-        "data_com": "2025-01-06",
-        "data_pagamento": "2025-12-29"
+        "valor_por_cota": 1.02266,
+        "data_com": "2025-12-30",
+        "data_pagamento": "2026-12-18"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "EUCA4": {
       "nome": "EUCATEX",
@@ -56238,14 +56238,19 @@
       "preco": 18.77,
       "p_vp": 0.56,
       "p_l": 4.42,
-      "valor_patrimonial_cota": 32.61,
+      "valor_patrimonial_cota": 33.41,
       "dy_12m": 5.99,
       "dy_mensal": 0.4992,
       "patrimonio_liquido": 1653510.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
+        {
+          "valor_por_cota": 1.12495,
+          "data_com": "2025-12-30",
+          "data_pagamento": "2026-12-18"
+        },
         {
           "valor_por_cota": 0.735467,
           "data_com": "2025-01-06",
@@ -56315,19 +56320,14 @@
           "valor_por_cota": 0.0371,
           "data_com": "2012-04-16",
           "data_pagamento": "2025-04-15"
-        },
-        {
-          "valor_por_cota": 0.2514,
-          "data_com": "2011-12-23",
-          "data_pagamento": "2025-04-15"
         }
       ],
       "ultimo_provento": {
-        "valor_por_cota": 0.735467,
-        "data_com": "2025-01-06",
-        "data_pagamento": "2025-12-29"
+        "valor_por_cota": 1.12495,
+        "data_com": "2025-12-30",
+        "data_pagamento": "2026-12-18"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "EVEN3": {
       "nome": "EVEN CONSTRUTORA E INCORPORADORA",
@@ -57073,7 +57073,7 @@
         "data_com": "2026-07-24",
         "data_pagamento": "2026-08-05"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "FLEX3": {
       "nome": "FLEX RELACIONAMENTOS INTELIGENTES",
@@ -57318,7 +57318,7 @@
         "data_com": "2026-07-16",
         "data_pagamento": "2026-08-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "FRIO3": {
       "nome": "METALFRIO SOLUTIONS",
@@ -57369,7 +57369,7 @@
       "_chk_i7": "2026-11-20"
     },
     "G2DI33": {
-      "nome": "G2D INVESTMENTS",
+      "nome": "G2D Investments, Ltd. Shs Unsponsored Brazilian Depository Receipt Repr 1 Sh",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 1.09,
@@ -57381,7 +57381,7 @@
       "patrimonio_liquido": 593860000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "GBIO33": {
@@ -57953,7 +57953,7 @@
         "data_com": "2025-12-16",
         "data_pagamento": "2026-02-06"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "GMAT3": {
       "nome": "GRUPO MATEUS",
@@ -58016,7 +58016,7 @@
         "data_com": "2025-11-19",
         "data_pagamento": "2025-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "GNDI3": {
       "nome": "Notre Dame Intermédica",
@@ -58466,7 +58466,7 @@
       "patrimonio_liquido": 1873.55,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 110.5092,
@@ -58479,7 +58479,7 @@
         "data_com": "2019-03-26",
         "data_pagamento": "2019-04-09"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "HAGA3": {
       "nome": "HAGA S/A",
@@ -58687,7 +58687,7 @@
         "data_com": "2026-04-24",
         "data_pagamento": "2026-05-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "HBRE3": {
       "nome": "HBR REALTY",
@@ -58845,7 +58845,7 @@
         "data_com": "2026-04-24",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "HBTS6": {
       "nome": "Companhia Habitasul de Participacoes",
@@ -59299,7 +59299,7 @@
         "data_com": "2021-04-22",
         "data_pagamento": "2021-12-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "IGTI11": {
       "nome": "GRUPO JEREISSATI",
@@ -59314,7 +59314,7 @@
       "patrimonio_liquido": 151049000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.168882,
@@ -59392,7 +59392,7 @@
       "patrimonio_liquido": 230955.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.024126,
@@ -59478,7 +59478,7 @@
       "_chk_i7": "2026-11-20"
     },
     "IGTI4": {
-      "nome": "GRUPO JEREISSATI",
+      "nome": "Iguatemi SA Perp Pfd Registered Shs",
       "segmento": "Financeiro",
       "setor_atuacao": "Exploração de Imóveis",
       "preco": 9.68,
@@ -59490,7 +59490,7 @@
       "patrimonio_liquido": 5370000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7",
+      "fonte_dados": "b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.072378,
@@ -59699,7 +59699,7 @@
         "data_com": "2026-09-21",
         "data_pagamento": "2027-03-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "IRBR3": {
       "nome": "IRB BRASIL RESSEGUROS",
@@ -60424,7 +60424,7 @@
         "data_com": "2026-07-23",
         "data_pagamento": "2026-08-06"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "JBSS3": {
       "nome": "JBS",
@@ -60522,7 +60522,7 @@
         "data_com": "2025-05-23",
         "data_pagamento": "2025-06-17"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "JFEN3": {
       "nome": "JOÃO FORTES ENGENHARIA S.A.",
@@ -60910,7 +60910,7 @@
       "patrimonio_liquido": 13320300.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.144232,
@@ -61008,7 +61008,7 @@
       "patrimonio_liquido": 132957000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.911944,
@@ -61106,7 +61106,7 @@
       "patrimonio_liquido": 3243320.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.182389,
@@ -61204,7 +61204,7 @@
       "patrimonio_liquido": 17078600.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+i7",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 0.182389,
@@ -61542,7 +61542,7 @@
         "data_com": "2025-04-24",
         "data_pagamento": "2025-05-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "LAVV3": {
       "nome": "LAVVI",
@@ -62064,7 +62064,7 @@
         "data_com": "2021-06-21",
         "data_pagamento": "2021-06-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "LIPR3": {
       "nome": "LIPR3",
@@ -62095,7 +62095,7 @@
       "patrimonio_liquido": 11000500.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.122044,
@@ -62128,7 +62128,7 @@
         "data_com": "2024-12-26",
         "data_pagamento": "2025-01-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "LOGG3": {
       "nome": "LOG COMMERCIAL PROPERTIES",
@@ -62428,7 +62428,7 @@
         "data_com": "2026-09-22",
         "data_pagamento": "2026-10-14"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "LTEL3B": {
       "nome": "LITEL PARTICIPAÇÕES S.A.",
@@ -62526,7 +62526,7 @@
         "data_com": "2026-09-25",
         "data_pagamento": "2026-09-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "LUPA3": {
       "nome": "LUPATECH",
@@ -62791,7 +62791,7 @@
         "data_com": "2026-08-18",
         "data_pagamento": "2026-08-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MAPT3": {
       "nome": "CEMEPE INVESTIMENTOS S.A.",
@@ -62985,7 +62985,7 @@
         "data_com": "2026-12-18",
         "data_pagamento": "2026-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MDNE3": {
       "nome": "MOURA DUBEUX ENGENHARIA S/A",
@@ -63184,7 +63184,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.182216,
@@ -63267,7 +63267,7 @@
         "data_com": "2026-03-06",
         "data_pagamento": "2026-03-18"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "MERC4": {
       "nome": "MERCANTIL DO BRASIL FINANCEIRA",
@@ -63282,7 +63282,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.529412,
@@ -63365,7 +63365,7 @@
         "data_com": "2026-03-06",
         "data_pagamento": "2026-03-18"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "MGEL3": {
       "nome": "MANGELS INDUSTRIAL",
@@ -63495,7 +63495,7 @@
         "data_com": "2026-04-24",
         "data_pagamento": "2026-05-08"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MILS3": {
       "nome": "MILLS",
@@ -63593,7 +63593,7 @@
         "data_com": "2026-04-20",
         "data_pagamento": "2026-04-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MLAS3": {
       "nome": "Multilaser",
@@ -64187,7 +64187,7 @@
         "data_com": "2025-12-19",
         "data_pagamento": "2026-09-11"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MRSA3B": {
       "nome": "MRS LOGÍSTICA S.A.",
@@ -64519,7 +64519,7 @@
         "data_com": "2022-09-21",
         "data_pagamento": "2022-10-04"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MSPA3": {
       "nome": "EDITORA MELHORAMENTOS",
@@ -64734,7 +64734,7 @@
         "data_com": "2019-04-24",
         "data_pagamento": "2019-06-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MTIG4": {
       "nome": "METALGRÁFICA IGUAÇU S.A.",
@@ -64854,7 +64854,7 @@
       "nome": "METISA - Metalúrgica Timboense",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 72.13,
+      "preco": 76.0,
       "p_vp": 1.35,
       "p_l": 18.62,
       "valor_patrimonial_cota": 53.43,
@@ -64863,7 +64863,7 @@
       "patrimonio_liquido": 469600000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7",
+      "fonte_dados": "i7+b2",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
@@ -64946,7 +64946,7 @@
         "data_com": "2026-09-21",
         "data_pagamento": "2026-12-10"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MTSA4": {
       "nome": "METISA - Metalúrgica Timboense",
@@ -65044,7 +65044,7 @@
         "data_com": "2026-09-21",
         "data_pagamento": "2026-12-10"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "MULT3": {
       "nome": "MULTIPLAN",
@@ -65871,7 +65871,7 @@
         "data_com": "2024-04-19",
         "data_pagamento": "2024-05-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "NORD3": {
       "nome": "NORDON INDUSTRIAS METALÚRGICAS S.A.",
@@ -66329,7 +66329,7 @@
         "data_com": "2026-04-16",
         "data_pagamento": "2026-04-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "OGXP3": {
       "nome": "ÓLEO E GÁS PARTICIPAÇÕES S.A.",
@@ -66442,7 +66442,7 @@
         "data_com": "2026-09-16",
         "data_pagamento": "2026-09-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ORVR3": {
       "nome": "Orizon",
@@ -66605,7 +66605,7 @@
         "data_com": "2026-11-17",
         "data_pagamento": "2026-12-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PATI3": {
       "nome": "PANATLANTICA",
@@ -66703,7 +66703,7 @@
         "data_com": "2026-08-17",
         "data_pagamento": "2026-08-28"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PATI4": {
       "nome": "PANATLANTICA",
@@ -66801,7 +66801,7 @@
         "data_com": "2026-08-17",
         "data_pagamento": "2026-08-28"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PCAR3": {
       "nome": "CIA BRASILEIRA DE DISTRIBUIÇÃO (Pão de Açúcar)",
@@ -67028,7 +67028,7 @@
       "patrimonio_liquido": 103600.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.046221,
@@ -67041,7 +67041,7 @@
         "data_com": "2024-04-26",
         "data_pagamento": "2024-06-25"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PEAB3": {
       "nome": "CIA PARTICIPAÇÕES ALIANÇA DA BAHIA",
@@ -67139,7 +67139,7 @@
         "data_com": "2026-05-18",
         "data_pagamento": "2026-06-03"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PEAB4": {
       "nome": "CIA PARTICIPAÇÕES ALIANÇA DA BAHIA",
@@ -67237,7 +67237,7 @@
         "data_com": "2026-05-18",
         "data_pagamento": "2026-06-03"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PETR3": {
       "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
@@ -67335,7 +67335,7 @@
         "data_com": "2026-08-21",
         "data_pagamento": "2026-12-21"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PETR4": {
       "nome": "PETROLEO BRASILEIRO S.A. PETROBRAS",
@@ -67433,7 +67433,7 @@
         "data_com": "2026-08-21",
         "data_pagamento": "2026-12-21"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PETZ3": {
       "nome": "União Pet Participações S.A. (Petz e Cobasi)",
@@ -67652,7 +67652,7 @@
         "data_com": "2025-12-23",
         "data_pagamento": "2026-02-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PINE14": {
       "nome": "PINE14",
@@ -67766,7 +67766,7 @@
         "data_com": "2026-10-20",
         "data_pagamento": "2026-10-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PINE4": {
       "nome": "BANCO PINE",
@@ -67864,7 +67864,7 @@
         "data_com": "2026-10-20",
         "data_pagamento": "2026-10-29"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PLAS3": {
       "nome": "PLASCAR PARTICIPAÇÕES",
@@ -68047,7 +68047,7 @@
         "data_com": "2026-09-24",
         "data_pagamento": "2028-05-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PNVL4": {
       "nome": "DIMED",
@@ -68145,7 +68145,7 @@
         "data_com": "2021-08-20",
         "data_pagamento": "2021-08-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "POMO3": {
       "nome": "MARCOPOLO",
@@ -68243,7 +68243,7 @@
         "data_com": "2026-08-25",
         "data_pagamento": "2026-09-09"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "POMO4": {
       "nome": "MARCOPOLO",
@@ -68341,7 +68341,7 @@
         "data_com": "2026-08-25",
         "data_pagamento": "2026-09-09"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PORT3": {
       "nome": "WILSON SONS LTD.",
@@ -68438,13 +68438,13 @@
       "preco": 3.37,
       "p_vp": 0.3,
       "p_l": 24.56,
-      "valor_patrimonial_cota": 11.01,
+      "valor_patrimonial_cota": 11.14,
       "dy_12m": 5.41,
       "dy_mensal": 0.4508,
       "patrimonio_liquido": 5920740.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.179584,
@@ -68527,7 +68527,7 @@
         "data_com": "2026-01-06",
         "data_pagamento": "2026-01-30"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "POWE3": {
       "nome": "FOCUS ENERGIA HOLDING PARTICIPAÇÕES S.A.",
@@ -68627,7 +68627,7 @@
       "_chk_i7": "2026-11-20"
     },
     "PPLA11": {
-      "nome": "PPLA PARTICIPATIONS LTD.",
+      "nome": "PPLA Participations Ltd Units Cons of 1 BDRs A + 2 BDRs B",
       "segmento": "",
       "setor_atuacao": "",
       "preco": 43.5,
@@ -68639,7 +68639,7 @@
       "patrimonio_liquido": 9000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "PRIO3": {
@@ -68894,7 +68894,7 @@
         "data_com": "2026-09-23",
         "data_pagamento": "2027-04-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PTBL3": {
       "nome": "PORTOBELLO",
@@ -69030,7 +69030,7 @@
         "data_com": "2025-12-26",
         "data_pagamento": "2028-03-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PTCA3": {
       "nome": "PRATICA KLIMAQUIP INDUSTRIA E COMERCIO S.A.",
@@ -69078,7 +69078,7 @@
         "data_com": "2025-12-26",
         "data_pagamento": "2028-03-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "PTNT3": {
       "nome": "PETTENATI",
@@ -70227,7 +70227,7 @@
         "data_com": "2023-04-25",
         "data_pagamento": "2023-06-23"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RDOR3": {
       "nome": "REDE D'OR SÃO LUIZ",
@@ -70325,7 +70325,7 @@
         "data_com": "2026-09-24",
         "data_pagamento": "2026-10-06"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RECV3": {
       "nome": "PetroRecôncavo",
@@ -70403,7 +70403,7 @@
         "data_com": "2026-08-17",
         "data_pagamento": "2026-08-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "REDE3": {
       "nome": "REDE ENERGIA",
@@ -70599,7 +70599,7 @@
         "data_com": "2026-09-25",
         "data_pagamento": "2026-11-18"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RENT4": {
       "nome": "LOCALIZA",
@@ -70637,7 +70637,7 @@
         "data_com": "2026-09-25",
         "data_pagamento": "2026-11-18"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RIAA3": {
       "nome": "Guararapes (Riachuelo)",
@@ -70995,7 +70995,7 @@
         "data_com": "2025-09-25",
         "data_pagamento": "2025-11-14"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RPAD5": {
       "nome": "ALFA HOLDINGS",
@@ -71093,7 +71093,7 @@
         "data_com": "2026-08-19",
         "data_pagamento": "2026-10-07"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RPAD6": {
       "nome": "ALFA HOLDINGS",
@@ -71166,7 +71166,7 @@
         "data_com": "2025-09-25",
         "data_pagamento": "2025-11-14"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RPMG3": {
       "nome": "REFINARIA DE PETROLEOS MANGUINHOS",
@@ -71291,7 +71291,7 @@
         "data_com": "2025-12-22",
         "data_pagamento": "2026-02-12"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "RSUL4": {
       "nome": "METALURGICA RIOSULENSE",
@@ -71369,7 +71369,7 @@
         "data_com": "2025-12-22",
         "data_pagamento": "2026-02-12"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SANB11": {
       "nome": "BANCO SANTANDER",
@@ -71467,7 +71467,7 @@
         "data_com": "2026-10-20",
         "data_pagamento": "2026-11-09"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SANB3": {
       "nome": "BANCO SANTANDER",
@@ -71565,7 +71565,7 @@
         "data_com": "2026-10-20",
         "data_pagamento": "2026-11-09"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SANB4": {
       "nome": "BANCO SANTANDER",
@@ -71663,7 +71663,7 @@
         "data_com": "2026-10-20",
         "data_pagamento": "2026-11-09"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SAPR11": {
       "nome": "CIA SANEAMENTO DO PARANA - SANEPAR",
@@ -72043,7 +72043,7 @@
         "data_com": "2026-04-24",
         "data_pagamento": "2026-08-05"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SBSP3": {
       "nome": "SABESP",
@@ -72531,7 +72531,7 @@
         "data_com": "2026-09-24",
         "data_pagamento": "2027-01-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SHUL4": {
       "nome": "SCHULZ",
@@ -72629,7 +72629,7 @@
         "data_com": "2026-09-24",
         "data_pagamento": "2027-01-15"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SIMH3": {
       "nome": "SIMPAR S.A. (Movida / JSL / Vamos)",
@@ -73298,7 +73298,7 @@
       "_chk_i7": "2026-11-17"
     },
     "SNSY3": {
-      "nome": "SANSUY S.A. INDUSTRIA DE PLÁSTICOS",
+      "nome": "Sansuy S.A.",
       "segmento": "Materiais Básicos",
       "setor_atuacao": "Materiais Diversos",
       "preco": 9.89,
@@ -73310,7 +73310,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "SNSY5": {
@@ -73330,7 +73330,7 @@
       "_chk_i7": "2026-11-20"
     },
     "SNSY6": {
-      "nome": "SANSUY S.A. INDUSTRIA DE PLÁSTICOS",
+      "nome": "Sansuy S.A.",
       "segmento": "Materiais Básicos",
       "setor_atuacao": "Materiais Diversos",
       "preco": 11.51,
@@ -73342,7 +73342,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "b2",
       "_chk_i7": "2026-11-20"
     },
     "SOJA3": {
@@ -73406,7 +73406,7 @@
         "data_com": "2025-12-18",
         "data_pagamento": "2025-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SOMA3": {
       "nome": "GRUPO DE MODA SOMA S.A.",
@@ -73838,7 +73838,7 @@
       "patrimonio_liquido": 0.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.27,
@@ -73921,7 +73921,7 @@
         "data_com": "2025-03-06",
         "data_pagamento": "2025-03-17"
       },
-      "_chk_i7": "2026-11-11"
+      "_chk_i7": "2026-11-21"
     },
     "STKF3": {
       "nome": "STATKRAFT ENERGIAS RENOVÁVEIS S.A.",
@@ -73970,7 +73970,7 @@
         "data_com": "2021-04-23",
         "data_pagamento": "2021-06-22"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SULA11": {
       "nome": "SUL AMÉRICA",
@@ -74068,7 +74068,7 @@
         "data_com": "2022-12-20",
         "data_pagamento": "2023-01-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SULA3": {
       "nome": "SUL AMÉRICA",
@@ -74166,7 +74166,7 @@
         "data_com": "2022-12-20",
         "data_pagamento": "2023-01-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SULA4": {
       "nome": "SUL AMÉRICA",
@@ -74264,7 +74264,7 @@
         "data_com": "2022-12-20",
         "data_pagamento": "2023-01-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "SUZB3": {
       "nome": "SUZANO S.A",
@@ -74553,7 +74553,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2027-01-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TAEE3": {
       "nome": "Taesa",
@@ -74651,7 +74651,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2027-01-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TAEE4": {
       "nome": "Taesa",
@@ -74749,7 +74749,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2027-01-27"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TASA3": {
       "nome": "TAURUS ARMAS",
@@ -75342,7 +75342,7 @@
         "data_com": "2026-09-24",
         "data_pagamento": "2027-05-31"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TGMA3": {
       "nome": "TEGMA GESTÃO LOGÍSTICA",
@@ -75832,7 +75832,7 @@
         "data_com": "2026-09-22",
         "data_pagamento": "2027-01-22"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TKNO3": {
       "nome": "TEKNO S.A.",
@@ -76142,7 +76142,7 @@
         "data_com": "2026-09-23",
         "data_pagamento": "2026-10-08"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TOYB3": {
       "nome": "TEC TOY S.A.",
@@ -76315,7 +76315,7 @@
       "patrimonio_liquido": 2413550.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.428235,
@@ -76398,7 +76398,7 @@
         "data_com": "2025-12-26",
         "data_pagamento": "2026-06-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "TTEN3": {
       "nome": "3 Tentos Agroindustrial S.A.",
@@ -76767,7 +76767,7 @@
         "data_com": "2026-11-23",
         "data_pagamento": "2026-12-03"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "UNIP3": {
       "nome": "UNIPAR CARBOCLORO",
@@ -77159,7 +77159,7 @@
         "data_com": "2024-04-25",
         "data_pagamento": "2024-06-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "USIM5": {
       "nome": "Usinas Siderúrgicas de Minas Gerais",
@@ -77257,7 +77257,7 @@
         "data_com": "2024-04-25",
         "data_pagamento": "2024-06-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "USIM6": {
       "nome": "Usinas Siderúrgicas de Minas Gerais",
@@ -77355,7 +77355,7 @@
         "data_com": "2024-04-25",
         "data_pagamento": "2024-06-24"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VALE3": {
       "nome": "Vale",
@@ -77506,7 +77506,7 @@
         "data_com": "2025-12-18",
         "data_pagamento": "2026-04-02"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VBBR3": {
       "nome": "VIBRA ENERGIA S.A.",
@@ -77604,7 +77604,7 @@
         "data_com": "2026-09-21",
         "data_pagamento": "2027-11-16"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VITT3": {
       "nome": "Vittia",
@@ -77760,7 +77760,7 @@
         "data_com": "2025-12-19",
         "data_pagamento": "2025-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VIVR3": {
       "nome": "VIVER INCORPORADORA E CONSTRUTORA",
@@ -77791,7 +77791,7 @@
       "patrimonio_liquido": 225049000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.140818,
@@ -77874,7 +77874,7 @@
         "data_com": "2026-10-26",
         "data_pagamento": "2027-04-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VIVT4": {
       "nome": "VIVO - TELEFÔNICA BRASIL",
@@ -78070,7 +78070,7 @@
         "data_com": "2026-11-16",
         "data_pagamento": "2026-11-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VSPT3": {
       "nome": "FERROVIA CENTRO-ATLÂNTICA S.A.",
@@ -78276,7 +78276,7 @@
         "data_com": "2025-12-22",
         "data_pagamento": "2025-12-30"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "VVEO3": {
       "nome": "CM HOSPITALAR S.A.",
@@ -78450,7 +78450,7 @@
         "data_com": "2026-09-18",
         "data_pagamento": "2027-03-10"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "WEST3": {
       "nome": "Westwing",
@@ -78971,7 +78971,7 @@
       "patrimonio_liquido": 68674200.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4",
+      "fonte_dados": "f4+i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.569143,
@@ -79054,7 +79054,7 @@
         "data_com": "2025-12-26",
         "data_pagamento": "2026-02-06"
       },
-      "_chk_i7": "2026-11-20"
+      "_chk_i7": "2026-11-21"
     },
     "ZAMP3": {
       "nome": "ZAMP",
