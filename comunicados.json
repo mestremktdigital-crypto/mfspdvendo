@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-11-20T02:26:33.360918Z",
+  "gerado_em": "2026-11-21T02:23:15.721548Z",
   "comunicados": [
     {
       "id": "c_AFHI11_1386501",
@@ -626,8 +626,8 @@
       "id": "c_APXM11_rend_latest",
       "ticker": "APXM11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,34 (Pag: 27/10/2026)",
-      "data": "20/10/2026",
+      "titulo": "Rendimento: R$ 0,29 (Pag: 27/11/2026)",
+      "data": "19/11/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/apxm11#comunicados",
       "resumoIa": null
     },
@@ -6239,20 +6239,11 @@
       "resumoIa": null
     },
     {
-      "id": "c_CVPR11_1324009",
-      "ticker": "CVPR11",
-      "tipo": "Aviso aos Cotistas",
-      "titulo": "Aviso aos Cotistas, Rendimentos e Amortizações - 09/2026",
-      "data": "18.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1324009&cvm=true",
-      "resumoIa": null
-    },
-    {
       "id": "c_CVPR11_rend_latest",
       "ticker": "CVPR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 1,29 (Pag: 27/10/2026)",
-      "data": "20/10/2026",
+      "titulo": "Rendimento: R$ 0,72 (Pag: 27/11/2026)",
+      "data": "19/11/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/cvpr11#comunicados",
       "resumoIa": null
     },
@@ -6410,12 +6401,12 @@
       "resumoIa": null
     },
     {
-      "id": "c_DAMA11_1389420",
+      "id": "c_DAMA11_1389423",
       "ticker": "DAMA11",
       "tipo": "Relatórios",
       "titulo": "Relatórios, Relatório Gerencial - 11/2026",
       "data": "19.11.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1389420&cvm=true",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1389423&cvm=true",
       "resumoIa": null
     },
     {
@@ -7331,8 +7322,8 @@
       "id": "c_EQIR11_rend_latest",
       "ticker": "EQIR11",
       "tipo": "Aviso aos Cotistas",
-      "titulo": "Rendimento: R$ 0,10 (Pag: 27/10/2026)",
-      "data": "20/10/2026",
+      "titulo": "Rendimento: R$ 0,10 (Pag: 27/11/2026)",
+      "data": "19/11/2026",
       "urlOriginal": "https://www.fundsexplorer.com.br/funds/eqir11#comunicados",
       "resumoIa": null
     },
@@ -21179,6 +21170,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_MFII11_1389521",
+      "ticker": "MFII11",
+      "tipo": "Relatórios",
+      "titulo": "Relatórios, Relatório Gerencial - 11/2026",
+      "data": "19.11.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1389521&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_MFII11_1376741",
       "ticker": "MFII11",
       "tipo": "Informes Periódicos",
@@ -21239,15 +21239,6 @@
       "titulo": "Informes Periódicos, Informe Mensal - 09/2026",
       "data": "10.09.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1314572&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_MFII11_1315014",
-      "ticker": "MFII11",
-      "tipo": "Relatórios",
-      "titulo": "Relatórios, Relatório Gerencial - 09/2026",
-      "data": "10.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1315014&cvm=true",
       "resumoIa": null
     },
     {
@@ -31700,6 +31691,15 @@
       "resumoIa": null
     },
     {
+      "id": "c_VGHF11_1389683",
+      "ticker": "VGHF11",
+      "tipo": "Informes Periódicos",
+      "titulo": "Informes Periódicos, Demonstrações Financeiras - 11/2026",
+      "data": "19.11.2026",
+      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1389683&cvm=true",
+      "resumoIa": null
+    },
+    {
       "id": "c_VGHF11_1385224",
       "ticker": "VGHF11",
       "tipo": "Informes Periódicos",
@@ -31760,15 +31760,6 @@
       "titulo": "Informes Periódicos, Informe Anual - 09/2026",
       "data": "28.09.2026",
       "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1330851&cvm=true",
-      "resumoIa": null
-    },
-    {
-      "id": "c_VGHF11_1321222",
-      "ticker": "VGHF11",
-      "tipo": "Informes Periódicos",
-      "titulo": "Informes Periódicos, Informe Mensal - 09/2026",
-      "data": "15.09.2026",
-      "urlOriginal": "https://fnet.bmfbovespa.com.br/fnet/publico/exibirDocumento?id=1321222&cvm=true",
       "resumoIa": null
     },
     {
