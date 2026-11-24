@@ -9,7 +9,7 @@
     "admob_banner_id": "ca-app-pub-2439199829480169/1000233778",
     "admob_interstitial_id": "ca-app-pub-2439199829480169/6325496462",
     "admob_rewarded_id": "ca-app-pub-2439199829480169/6260299312",
-    "interstitial_ad_interval": 3,
+    "interstitial_ad_interval": 2,
     "rewarded_ad_interval": 1
   },
   "settings": {
