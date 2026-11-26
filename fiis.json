@@ -1,6 +1,6 @@
 {
-  "gerado_em": "2026-11-26T08:01:59.923295Z",
-  "fonte": "f4+b2+i7",
+  "gerado_em": "2026-11-26T17:38:49.680670Z",
+  "fonte": "f4+i7",
   "total_fiis": 1142,
   "fiis_com_dados_completos": 1071,
   "fiis": {
@@ -7269,7 +7269,7 @@
       "patrimonio_liquido": 346120000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.106,
@@ -31641,7 +31641,7 @@
       "patrimonio_liquido": 89500000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.079247,
@@ -34347,7 +34347,7 @@
       "patrimonio_liquido": 483000000.0,
       "vacancia_fisica": 13.71,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.07,
@@ -39674,7 +39674,7 @@
       "patrimonio_liquido": 1057320000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "f4+b2",
+      "fonte_dados": "f4",
       "proventos_12m": [
         {
           "valor_por_cota": 1.889536,
@@ -40153,8 +40153,8 @@
       "nome": "B3 S.A. - BRASIL, BOLSA, BALCÃO",
       "segmento": "Financeiro",
       "setor_atuacao": "Serviços Financeiros Diversos",
-      "preco": 14.58,
-      "p_vp": 3.9,
+      "preco": 15.5,
+      "p_vp": 4.14,
       "p_l": 14.27,
       "valor_patrimonial_cota": 3.74,
       "dy_12m": 5.03,
@@ -40162,7 +40162,7 @@
       "patrimonio_liquido": 18880000000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.22655,
@@ -41147,7 +41147,7 @@
       "preco": 3.8,
       "p_vp": 5.02,
       "p_l": -9.59,
-      "valor_patrimonial_cota": 0.76,
+      "valor_patrimonial_cota": 0.79,
       "dy_12m": 5.39,
       "dy_mensal": 0.4492,
       "patrimonio_liquido": 100439000.0,
@@ -54262,7 +54262,7 @@
       "patrimonio_liquido": 698110000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.763078,
@@ -64869,7 +64869,7 @@
       "nome": "METISA - Metalúrgica Timboense",
       "segmento": "Bens Industriais",
       "setor_atuacao": "Máquinas e Equipamentos de Construção e Agrícolas",
-      "preco": 76.0,
+      "preco": 72.13,
       "p_vp": 1.35,
       "p_l": 18.62,
       "valor_patrimonial_cota": 53.43,
@@ -64878,7 +64878,7 @@
       "patrimonio_liquido": 469600000.0,
       "vacancia_fisica": 0.0,
       "dados_completos": true,
-      "fonte_dados": "i7+b2",
+      "fonte_dados": "i7",
       "proventos_12m": [
         {
           "valor_por_cota": 0.5,
